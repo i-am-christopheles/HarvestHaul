@@ -26,6 +26,7 @@ function App() {
                 <main>
                     <h1>My todos</h1>
                     <button onClick={createTodo}>+ new</button>
+                    <p>You are {user != null ? user.username : "Not logged in"}</p>
                     <ul>
                         {todos.map((todo) => (
                             <li key={todo.id}>{todo.content}</li>
