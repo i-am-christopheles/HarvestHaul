@@ -47,13 +47,8 @@ const Farmers: React.FC = () => {
 
     const sortByName = () => {
         const sortedProfiles = [...profiles].sort((a, b) => {
-<<<<<<< HEAD
-            const nameA = a.name ?? '';
-            const nameB = b.name ?? '';
-=======
             const nameA = a.farm_name ?? '';
             const nameB = b.farm_name ?? '';
->>>>>>> ef879c957fa32d72c51693577d92c5d2bd8024f1
             if (sortOrder === 'asc') {
                 return nameA.localeCompare(nameB);
             } else {
