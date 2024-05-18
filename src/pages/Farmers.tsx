@@ -1,34 +1,92 @@
-import React, {useState} from 'react';
+import React, { useState, useEffect } from 'react';
 import NavBar from '../components/NavBar';
-import {Schema} from "../../amplify/data/resource.ts";
-import {generateClient} from "aws-amplify/api";
+import { Schema } from "../../amplify/data/resource.ts";
+import { generateClient } from "aws-amplify/api";
+import { Card, Stack, Image, CardBody, Heading, Text, CardFooter, Button, Box } from '@chakra-ui/react';
 
 const client = generateClient<Schema>();
 
 const Farmers: React.FC = () => {
     const [profiles, setProfiles] = useState<Schema["Producer"]["type"][]>([]);
+    const [nextToken, setNextToken] = useState<string | null>(null);
+    const [currentPage, setCurrentPage] = useState<number>(1);
+    const [error, setError] = useState<string | null>(null);
+
     const fetchProfiles = async () => {
-        const { data: items, errors } = await client.models.Producer.list();
-        console.log(errors);
-        setProfiles(items);
+        try {
+            const limit = 12;
+            const { data: items, errors, nextToken: newNextToken } = await client.models.Producer.list({ limit, nextToken });
+            if (!errors) {
+                setProfiles(items);
+                setNextToken(newNextToken || null);
+            } else {
+                setError("Error fetching profiles");
+            }
+        } catch (error) {
+            console.error('Error fetching profiles:', error);
+            setError("Error fetching profiles");
+        }
     };
 
-    fetchProfiles();
-  return (
-    <>
-      <NavBar />
-      <h1>Farmers</h1>
-        <div>
-            <ul>
-                {profiles.map(({ id, name, region }) => (
-                    <>
-                        <li key={id}>Farm name: {name}</li>
-                        <li key={id}>Region: {region}</li>
-                    </>
-                ))}
-            </ul>
-        </div>
-    </>
-  );
+    useEffect(() => {
+        fetchProfiles();
+    }, [currentPage]);
+
+    const handleNextPage = () => {
+        if (nextToken) {
+            setCurrentPage(currentPage + 1);
+        }
+    };
+
+    const handlePrevPage = () => {
+        if (currentPage > 1) {
+            setCurrentPage(currentPage - 1);
+        }
+    };
+
+    return (
+        <>
+            <NavBar />
+            <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', margin: '0 auto', maxWidth: '1200px', padding: '0 16px' }}>
+                {error ? (
+                    <p>{error}</p>
+                ) : (
+                    profiles.map(({ id, name, region }) => (
+                        <Box key={id} mb={4} width={['100%', '45%', '30%']} flexBasis={['100%', '45%', '30%']} marginLeft="auto" marginRight="auto">
+                            <Card direction={{ base: 'column', sm: 'row' }} variant='outline'>
+                                <Image
+                                    objectFit='cover'
+                                    maxW={{ base: '100%', sm: '200px' }}
+                                    src='https://images.unsplash.com/photo-1667489022797-ab608913feeb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw5fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=800&q=60'
+                                    alt='Caffe Latte'
+                                />
+
+                                <Stack>
+                                    <CardBody>
+                                        <Heading size='md'>{name}</Heading>
+                                        <Text py='2'>
+                                            Region: {region}
+                                        </Text>
+                                    </CardBody>
+
+                                    <CardFooter>
+                                        <Button variant='solid' colorScheme='blue'>
+                                            Learn More
+                                        </Button>
+                                    </CardFooter>
+                                </Stack>
+                            </Card>
+                        </Box>
+                    ))
+                )}
+            </div>
+            <div>
+                <Button onClick={handlePrevPage}>Previous</Button>
+                <Button onClick={handleNextPage}>Next</Button>
+            </div>
+            <p>Page {currentPage}</p>
+        </>
+    );
 }
+
 export default Farmers;
