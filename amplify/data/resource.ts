@@ -11,10 +11,26 @@ const schema = a.schema({
         .model({
             farm_name: a.string(),
             region: a.string(),
-            products: a.string().array(),
+            address: a.string(),
+            community: a.string(),
+            postalCode: a.string(),
+            products: a.hasMany("Products", "id")
+            }),
+    Products: a
+        .model({
+            id: a.string(),
+            product: a.string(),
+            items: a.hasMany("Items", "id")
+        }),
+    Items: a
+        .model({
+            id: a.string(),
+            item: a.string(),
+            price: a.string(),
+            unit_size: a.string()
         })
-        .authorization((allow) => [allow.publicApiKey()]),
-});
+    })
+    .authorization((allow) => [allow.publicApiKey()]);
 
 export type Schema = ClientSchema<typeof schema>;
 
