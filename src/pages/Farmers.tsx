@@ -51,7 +51,7 @@ const Farmers: React.FC = () => {
                 {error ? (
                     <p>{error}</p>
                 ) : (
-                    profiles.map(({ id, name, region }) => (
+                    profiles.map(({ id, farm_name, region }) => (
                         <Box key={id} mb={4} width={['100%', '45%', '30%']} flexBasis={['100%', '45%', '30%']} marginLeft="auto" marginRight="auto">
                             <Card direction={{ base: 'column', sm: 'row' }} variant='outline'>
                                 <Image
@@ -63,7 +63,7 @@ const Farmers: React.FC = () => {
 
                                 <Stack>
                                     <CardBody>
-                                        <Heading size='md'>{name}</Heading>
+                                        <Heading size='md'>{farm_name}</Heading>
                                         <Text py='2'>
                                             Region: {region}
                                         </Text>
