@@ -1,1030 +1,3890 @@
-[
-  {
-    "farm_name": "Adelaide’s Newfoundland Honey Inc and Adelaide’s Honey Bee Pollinator and Wildflower Reserve",
-    "region": "Avalon",
-    "products": [
-      "Honey/Honey Products", 
-      "Pollination Services", 
-      "Adopt-a-Hive", 
-      "The Honey Bee Hike", 
-      "Fireweed Comb Honey", 
-      "Raw Wildflower Honey", 
-      "Bees wax", 
-      "Flanker Starters", 
-      "Honey Bee Rescue", 
-      "Swarm Prevention Program", 
-      "Artisan Fireweed Honey", 
-      "Liquid Honey", 
-      "Comb Honey"
-    ]
-  },
-  {
-    "farm_name": "Alderbrook Acres Ltd.",
-    "region": "Western and Labrador",
-    "products": ["Nursery Sod", "Topsoil"]
-  },
-  {
-    "farm_name": "Backside Acres (Butterworths Farms)",
-    "region": "Avalon",
-    "products": ["Field Vegetables", "Value Added( preserves, jams, etc)"]
-  },
-  {
-    "farm_name": "Bayview Gardens Ltd.",
-    "region": "Eastern",
-    "products": ["Greenhouse Vegetables", "Hanging Baskets", "Perennials", "Shrubs", "Trees", "Garden Supplies"]
-  },
-  {
-    "farm_name": "Beauty of Flowers Nursery",
-    "region": "Central",
-    "products": [
-      "Perennials", 
-      "Bedding Plants", 
-      "Hanging Baskets", 
-      "Landscape Trees", 
-      "Shrubs", 
-      "Seed Potatoes", 
-      "Peat", 
-      "Soil", 
-      "Fertilizer", 
-      "Fruit", 
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Herbs", 
-      "Flowers", 
-      "Fruit Trees", 
-      "Berry Plants"
-    ]
-  },
-  {
-    "farm_name": "Birch Lane Farm",
-    "region": "Western and Labrador",
-    "products": [
-      "Berries", 
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Eggs", 
-      "Herbs", 
-      "Jams", 
-      "Jellies", 
-      "Red Wiggler Worms"
-    ]
-  },
-  {
-    "farm_name": "Birchbark Farm",
-    "region": "Western and Labrador",
-    "products": ["Field Vegetables", "Greenhouse Vegetables", "Eggs"]
-  },
-  {
-    "farm_name": "Birdhouse Garden Market Inc.",
-    "region": "Western and Labrador",
-    "products": ["Fruit", "Berries", "Greenhouse Vegetables", "Flowers", "Herbs", "Ornamental Annuals and Perennials"]
-  },
-  {
-    "farm_name": "Brown’s Family Farm Ltd.",
-    "region": "Avalon",
-    "products": ["Berries"]
-  },
-  {
-    "farm_name": "Bullrush Farms Limited",
-    "region": "Avalon",
-    "products": ["Berries"]
-  },
-  {
-    "farm_name": "Bullrush Farms Ltd.",
-    "region": "Eastern",
-    "products": ["Berries"]
-  },
-  {
-    "farm_name": "C.D.’s Trees",
-    "region": "Avalon",
-    "products": ["Trees", "Shrubs"]
-  },
-  {
-    "farm_name": "Campbellton Berry Farm",
-    "region": "Central",
-    "products": [
-      "Fruit", 
-      "Berries", 
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Eggs", 
-      "Honey/Honey Products", 
-      "Herbs", 
-      "Frozen Products", 
-      "Jams", 
-      "Pickles", 
-      "Fermented Products", 
-      "U-Pick", 
-      "Picnics", 
-      "Petting Farm", 
-      "Beef", 
-      "Lamb"
-    ]
-  },
-  {
-    "farm_name": "Central U-Pick",
-    "region": "Central",
-    "products": ["Berries", "Fruit"]
-  },
-  {
-    "farm_name": "Central Vegetable Products Ltd.",
-    "region": "Central",
-    "products": ["Field Vegetables"]
-  },
-  {
-    "farm_name": "Chaulk’s Heritage Farm",
-    "region": "Central",
-    "products": ["Turkey"]
-  },
-  {
-    "farm_name": "Clay Oates Landscaping and Construction Limited",
-    "region": "Avalon",
-    "products": ["Turf Sod"]
-  },
-  {
-    "farm_name": "Cole’s Farm",
-    "region": "Central",
-    "products": ["Field Vegetables", "Greenhouse Vegetables", "Eggs", "Honey/Honey Products"]
-  },
-  {
-    "farm_name": "Crooked Branch Apple Orchard",
-    "region": "Eastern",
-    "products": ["Fruit", "Apples"]
-  },
-  {
-    "farm_name": "Crow Brook Orchard",
-    "region": "Western and Labrador",
-    "products": ["Field Vegetables", "Greenhouse Vegetables", "Herbs"]
-  },
-  {
-    "farm_name": "D & D Farm",
-    "region": "Western and Labrador",
-    "products": ["Lamb"]
-  },
-  {
-    "farm_name": "D4ace Farm",
-    "region": "Western and Labrador",
-    "products": ["Berries", "Field Vegetables", "Greenhouse Vegetables", "Flowers", "Herbs"]
-  },
-  {
-    "farm_name": "Dennis Farms",
-    "region": "Western and Labrador",
-    "products": ["Field Vegetables", "Beef", "Pork", "Lamb", "Sausage", "Patties"]
-  },
-  {
-    "farm_name": "Double D Farm",
-    "region": "Eastern",
-    "products": ["Field Vegetables"]
-  },
-  {
-    "farm_name": "Double Diamond Farm",
-    "region": "Avalon",
-    "products": ["Lamb", "Wool"]
-  },
-  {
-    "farm_name": "Eastport Organics",
-    "region": "Central",
-    "products": [
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Eggs", 
-      "Herbs", 
-      "Seeds", 
-      "Transplants", 
-      "Consulting", 
-      "Volunteer Host", 
-      "Organic (non-certified)"
-    ]
-  },
-  {
-    "farm_name": "Eastwind Farms",
-    "region": "Central",
-    "products": []
-  },
-  {
-    "farm_name": "Exploits Meadow Farms",
-    "region": "Central",
-    "products": ["Honey/Honey Products", "Sheep and Alpaca Fibre", "Lamb", "Pollination Services", "Purina Feed Supplier"]
-  },
-  {
-    "farm_name": "Fahey Farm/ Baynoddy Knitwear, Spinning and Weaving",
-    "region": "Avalon",
-    "products": [
-      "Fibre", 
-      "Handspun Yarn", 
-      "Knitted and Handwoven Sweaters", 
-      "Shawl", 
-      "Llamas", 
-      "Angora Goats"
-    ]
-  },
-  {
-    "farm_name": "Festive Farmer (a division of Russwood Claredale Farms)",
-    "region": "Eastern",
-    "products": ["Christmas Trees", "Christmas Wreaths"]
-  },
-  {
-    "farm_name": "Firehill Farms",
-    "region": "Avalon",
-    "products": ["Berries", "Field Vegetables", "Greenhouse Vegetables", "Herbs", "Value Added( preserves, jams, etc)"]
-  },
-  {
-    "farm_name": "Five Brothers Artisan Cheese",
-    "region": "Avalon",
-    "products": ["Milk/Dairy Products"]
-  },
-  {
-    "farm_name": "Gale’s Farm",
-    "region": "Western and Labrador",
-    "products": ["Berries", "Field Vegetables"]
-  },
-  {
-    "farm_name": "Garden Centre Florist and Quilt Shop",
-    "region": "Central",
-    "products": [
-      "Fruit", 
-      "Berries", 
-      "Greenhouse Vegetables", 
-      "Flowers", 
-      "Herbs", 
-      "Trees", 
-      "Perennials", 
-      "Soil", 
-      "Fertilizer", 
-      "Seeds", 
-      "Planters"
-    ]
-  },
-  {
-    "farm_name": "Garden of Eat’en",
-    "region": "Avalon",
-    "products": ["Berries", "Field Vegetables", "Splits", "Plants"]
-  },
-  {
-    "farm_name": "Gordon’s Farm",
-    "region": "Central",
-    "products": ["Field Vegetables", "Greenhouse Vegetables", "Eggs", "Jams", "Jellies", "Pickles", "Grass Fed Beef"]
-  },
-  {
-    "farm_name": "Green Farm NL",
-    "region": "Avalon",
-    "products": ["Greenhouse Vegetables", "Herbs", "Microgreens"]
-  },
-  {
-    "farm_name": "Gros Morne Farm and Market",
-    "region": "Western and Labrador",
-    "products": [
-      "Berries", 
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Eggs", 
-      "Herbs", 
-      "Preserves", 
-      "Plants", 
-      "Microgreens", 
-      "Pumpkin Patch"
-    ]
-  },
-  {
-    "farm_name": "Growing For Life Ltd.",
-    "region": "Western and Labrador",
-    "products": ["Greenhouse Vegetables", "Tomato Products"]
-  },
-  {
-    "farm_name": "H&E Williams Dairy Farms Ltd.",
-    "region": "Avalon",
-    "products": ["Milk/Dairy Products"]
-  },
-  {
-    "farm_name": "Haricot Farms",
-    "region": "Avalon",
-    "products": ["Beef", "Pork", "Lamb", "Primal cuts & Secondary products(sausages, ground and meatballs)", "Chicken"]
-  },
-  {
-    "farm_name": "Hayes Farm",
-    "region": "Avalon",
-    "products": ["Lamb"]
-  },
-  {
-    "farm_name": "Henson’s Farm",
-    "region": "Western and Labrador",
-    "products": ["Field Vegetables", "Herbs"]
-  },
-  {
-    "farm_name": "Heritage Farm",
-    "region": "Avalon",
-    "products": ["Eggs", "Wool", "Lamb", "Turkey"]
-  },
-  {
-    "farm_name": "Hickey’s Greenhouses and Nursery Ltd.",
-    "region": "Avalon",
-    "products": ["Greenhouse Vegetables", "Flowers", "Soil", "Fertilizer", "Baskets", "Planters", "Compost", "Mulch"]
-  },
-  {
-    "farm_name": "Hillview Farms",
-    "region": "Eastern",
-    "products": ["Field Vegetables"]
-  },
-  {
-    "farm_name": "Howell’s Farm and Market",
-    "region": "Western and Labrador",
-    "products": ["Field Vegetables", "Greenhouse Vegetables", "Eggs", "Herbs", "Value Added( preserves, jams, etc)"]
-  },
-  {
-    "farm_name": "Humber Valley Sod Farm",
-    "region": "Western and Labrador",
-    "products": ["Nursery Sod"]
-  },
-  {
-    "farm_name": "J&C Sod Farm",
-    "region": "Avalon",
-    "products": ["Soil", "Turf Grass"]
-  },
-  {
-    "farm_name": "JAR Farm",
-    "region": "Avalon",
-    "products": ["Fruit", "Berries", "Field Vegetables"]
-  },
-  {
-    "farm_name": "Juanita Burt",
-    "region": "Avalon",
-    "products": ["Field Vegetables", "Hay"]
-  },
-  {
-    "farm_name": "Judy and Harry Coates",
-    "region": "Western and Labrador",
-    "products": ["Berries", "Field Vegetables", "Greenhouse Vegetables", "Preserves", "Pickles", "Jams"]
-  },
-  {
-    "farm_name": "Kennedy Farm Inc.",
-    "region": "Avalon",
-    "products": ["Turkey"]
-  },
-  {
-    "farm_name": "Kennedy’s Produce",
-    "region": "Avalon",
-    "products": ["Field Vegetables"]
-  },
-  {
-    "farm_name": "L A Farms Inc.",
-    "region": "Central",
-    "products": ["Berries", "Fruit", "Field Vegetables", "Greenhouse Vegetables"]
-  },
-  {
-    "farm_name": "Larch Grove Farm Ltd.",
-    "region": "Western and Labrador",
-    "products": ["Milk/Dairy Products", "Beef", "Pork"]
-  },
-  {
-    "farm_name": "Lester’s Farm Chalet",
-    "region": "Avalon",
-    "products": [
-      "Fruit", 
-      "Berries", 
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Eggs", 
-      "Flowers", 
-      "Honey/Honey Products", 
-      "Herbs", 
-      "Milk/Dairy Products", 
-      "Value-Added", 
-      "Beef", 
-      "Pork", 
-      "Lamb", 
-      "Turkey", 
-      "Chicken", 
-      "Tilapia"
-    ]
-  },
-  {
-    "farm_name": "Lester’s Farm Market",
-    "region": "Avalon",
-    "products": [
-      "Fruit", 
-      "Berries", 
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Eggs", 
-      "Flowers", 
-      "Honey/Honey Products", 
-      "Herbs", 
-      "Milk/Dairy Products", 
-      "Lamb", 
-      "Harvest Hut (food truck)", 
-      "Bottled Items", 
-      "Bakery", 
-      "Petting Barn", 
-      "Classes", 
-      "Seasonal Activities", 
-      "Childrens Programs", 
-      "Agritourism"
-    ]
-  },
-  {
-    "farm_name": "Living Water Indoor Farm",
-    "region": "Central",
-    "products": ["Greenhouse Vegetables"]
-  },
-  {
-    "farm_name": "Lomond Farms Ltd.",
-    "region": "Western and Labrador",
-    "products": ["Cranberries"]
-  },
-  {
-    "farm_name": "Lone Pine Farm",
-    "region": "Central",
-    "products": ["Field Vegetables", "Hay"]
-  },
-  {
-    "farm_name": "Long Range Poultry Farm",
-    "region": "Western and Labrador",
-    "products": ["Eggs"]
-  },
-  {
-    "farm_name": "M & J Farms",
-    "region": "Western and Labrador",
-    "products": ["Beef", "Lamb"]
-  },
-  {
-    "farm_name": "M & M Farming Company Ltd.",
-    "region": "Western and Labrador",
-    "products": ["Field Vegetables", "Greenhouse Vegetables", "Frozen French Fries", "Pre-Peeled Potatoes", "Hay"]
-  },
-  {
-    "farm_name": "Mark’s Market",
-    "region": "Central",
-    "products": [
-      "Fruit", 
-      "Berries", 
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Jams", 
-      "Jellies", 
-      "Pickles", 
-      "Herbs"
-    ]
-  },
-  {
-    "farm_name": "Mayo’s Farm",
-    "region": "Eastern",
-    "products": ["Field Vegetables", "Greenhouse Vegetables", "Value Added( preserves, jams, etc)"]
-  },
-  {
-    "farm_name": "Miao’s Green Farm Inc.",
-    "region": "Avalon",
-    "products": ["Field Vegetables", "Greenhouse Vegetables", "Sod"]
-  },
-  {
-    "farm_name": "Miao’s Green Farm Inc.",
-    "region": "Avalon",
-    "products": ["Field Vegetables"]
-  },
-  {
-    "farm_name": "Miao’s Sod Farm Inc.",
-    "region": "Avalon",
-    "products": ["Field Vegetables", "Sod"]
-  },
-  {
-    "farm_name": "Miao’s Sod Farm Inc.",
-    "region": "Avalon",
-    "products": ["Sod"]
-  },
-  {
-    "farm_name": "Mike’s Farm",
-    "region": "Western and Labrador",
-    "products": [
-      "Berries", 
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Flowers", 
-      "Herbs", 
-      "Eggs"
-    ]
-  },
-  {
-    "farm_name": "Mountain View Farm",
-    "region": "Central",
-    "products": ["Field Vegetables"]
-  },
-  {
-    "farm_name": "Murphy’s Sod Farm",
-    "region": "Avalon",
-    "products": ["Sod"]
-  },
-  {
-    "farm_name": "N&N Farm Limited",
-    "region": "Western and Labrador",
-    "products": ["Milk/Dairy Products"]
-  },
-  {
-    "farm_name": "N. Fagan Meats",
-    "region": "Avalon",
-    "products": ["Field Vegetables", "Herbs", "Beef", "Pork", "Lamb", "Turkey", "Chicken"]
-  },
-  {
-    "farm_name": "Nature’s Best Farm",
-    "region": "Western and Labrador",
-    "products": ["Field Vegetables"]
-  },
-  {
-    "farm_name": "Newfoundland Gardens",
-    "region": "Avalon",
-    "products": [
-      "Fruit", 
-      "Berries", 
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Honey/Honey Products", 
-      "Herbs", 
-      "Microgreens"
-    ]
-  },
-  {
-    "farm_name": "Northern Naturals",
-    "region": "Western and Labrador",
-    "products": [
-      "Berries", 
-      "Eggs", 
-      "Field Vegetables", 
-      "Value Added( preserves, jams, etc)", 
-      "Live Chickens", 
-      "Live Ducks"
-    ]
-  },
-  {
-    "farm_name": "Nuthatch Nursery",
-    "region": "Eastern",
-    "products": ["Berries", "Greenhouse Vegetables", "Flowers"]
-  },
-  {
-    "farm_name": "Olivers Farm",
-    "region": "Avalon",
-    "products": [
-      "Berries", 
-      "Field Vegetables", 
-      "Eggs", 
-      "Honey/Honey Products", 
-      "Beef", 
-      "Pork", 
-      "Lamb", 
-      "Turkey", 
-      "Chicken"
-    ]
-  },
-  {
-    "farm_name": "Omiachi Meat Shop",
-    "region": "Avalon",
-    "products": ["Beef", "Pork", "Lamb", "Chicken"]
-  },
-  {
-    "farm_name": "Organic Farm",
-    "region": "Avalon",
-    "products": [
-      "Fruit", 
-      "Berries", 
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Flowers", 
-      "Herbs", 
-      "Winter Greens", 
-      "Shoots and Micro-Greens"
-    ]
-  },
-  {
-    "farm_name": "Outport Acres",
-    "region": "Central",
-    "products": ["Field Vegetables", "Greenhouse Vegetables", "Herbs", "Microgreens"]
-  },
-  {
-    "farm_name": "O’Neill’s Gardenland",
-    "region": "Avalon",
-    "products": [
-      "Fruit", 
-      "Berries", 
-      "Greenhouse Vegetables", 
-      "Flowers", 
-      "Herbs", 
-      "Floral Arrangments", 
-      "Custom Plantings", 
-      "Landscaping", 
-      "Nursery", 
-      "Gardening Related Needs and Gifts"
-    ]
-  },
-  {
-    "farm_name": "Paradise Farms Inc.",
-    "region": "Avalon",
-    "products": ["Honey", "Beeswax candles", "Body care products from beehive"]
-  },
-  {
-    "farm_name": "Parsons’ Farms",
-    "region": "Eastern",
-    "products": ["Berries"]
-  },
-  {
-    "farm_name": "Pinedale Farms",
-    "region": "Eastern",
-    "products": ["Sod"]
-  },
-  {
-    "farm_name": "Pye Centre for Northern Boreal Food Systems",
-    "region": "Western and Labrador",
-    "products": ["Fruit", "Berries", "Field Vegetables", "Greenhouse Vegetables"]
-  },
-  {
-    "farm_name": "Quinlan Farms",
-    "region": "Central",
-    "products": [
-      "Fruit", 
-      "Berries", 
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Jams", 
-      "Jellies"
-    ]
-  },
-  {
-    "farm_name": "Recon Development Inc.",
-    "region": "Central",
-    "products": ["Berries"]
-  },
-  {
-    "farm_name": "Rideout’s Dairy Inc.",
-    "region": "Western and Labrador",
-    "products": ["Milk/Dairy Products"]
-  },
-  {
-    "farm_name": "Rideout’s Farm Inc.",
-    "region": "Western and Labrador",
-    "products": [
-      "Field Vegetables", 
-      "Pickles", 
-      "Jams", 
-      "Jellies", 
-      "Baked Goods", 
-      "Knitted Goods", 
-      "Homemade Crafts", 
-      "Preserves"
-    ]
-  },
-  {
-    "farm_name": "Ridgeway Farms",
-    "region": "Avalon",
-    "products": ["Field Vegetables", "Hay"]
-  },
-  {
-    "farm_name": "Ripple Trail Farm Ltd.",
-    "region": "Avalon",
-    "products": [
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Flowers", 
-      "Herbs", 
-      "Value-Added", 
-      "Vegetable Plants"
-    ]
-  },
-  {
-    "farm_name": "Riverside Farms",
-    "region": "Western and Labrador",
-    "products": ["Field Vegetables", "Greenhouse Vegetables", "Herbs"]
-  },
-  {
-    "farm_name": "Robbins Family Farm & Gardens",
-    "region": "Western and Labrador",
-    "products": [
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Flowers", 
-      "Herbs", 
-      "Beef", 
-      "Pork", 
-      "Lamb", 
-      "Turkey"
-    ]
-  },
-  {
-    "farm_name": "Rocks to Riches Farm",
-    "region": "Avalon",
-    "products": [
-      "Field Vegetables", 
-      "Herbs", 
-      "Greenhouse Vegetables", 
-      "Chicken", 
-      "Eggs"
-    ]
-  },
-  {
-    "farm_name": "Rocky River Farms NL",
-    "region": "Western and Labrador",
-    "products": ["Berries", "Field Vegetables"]
-  },
-  {
-    "farm_name": "Rolling Acres Farm",
-    "region": "Central",
-    "products": ["Field Vegetables"]
-  },
-  {
-    "farm_name": "Romain’s Farm",
-    "region": "Western and Labrador",
-    "products": ["Field Vegetables", "Forage"]
-  },
-  {
-    "farm_name": "Roots Farm",
-    "region": "Avalon",
-    "products": [
-      "Berries", 
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Eggs", 
-      "Herbs", 
-      "Value Added( preserves, jams, etc)"
-    ]
-  },
-  {
-    "farm_name": "Shell-Ex",
-    "region": "Central",
-    "products": [
-      "Pasteurized Kelp and Shell Powders for Feed and Fertilizers", 
-      "Seed Starters", 
-      "Fish Hyrdolysate 'liquid fish' Fertilizer"
-    ]
-  },
-  {
-    "farm_name": "Spring Meadow Farm",
-    "region": "Central",
-    "products": [
-      "Eggs", 
-      "Honey/Honey Products", 
-      "Beef", 
-      "Pork", 
-      "Lamb", 
-      "Turkey", 
-      "Chicken"
-    ]
-  },
-  {
-    "farm_name": "Spruce Grove Farm",
-    "region": "Western and Labrador",
-    "products": [
-      "Beef", 
-      "Lamb", 
-      "Secondary processed beef and lamb products", 
-      "Registered Purebred North Country Cheviot", 
-      "Hereford cattle stock for resale"
-    ]
-  },
-  {
-    "farm_name": "Spruce Meadow Farms Ltd.",
-    "region": "Western and Labrador",
-    "products": [
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Flowers", 
-      "Herbs"
-    ]
-  },
-  {
-    "farm_name": "Stoney Ridge Farm",
-    "region": "Avalon",
-    "products": ["Eggs", "Turkey"]
-  },
-  {
-    "farm_name": "Sunrise Dairy Ltd.",
-    "region": "Eastern",
-    "products": ["Milk/Dairy Products"]
-  },
-  {
-    "farm_name": "Sweet Berry Farms Ltd.",
-    "region": "Western and Labrador",
-    "products": [
-      "Berries", 
-      "Field Vegetables", 
-      "Eggs", 
-      "Jams", 
-      "Pickles", 
-      "Jellies", 
-      "Beef", 
-      "Lamb"
-    ]
-  },
-  {
-    "farm_name": "Taiga Valley Farms",
-    "region": "Western and Labrador",
-    "products": [
-      "Fruit", 
-      "Berries", 
-      "Field Vegetables", 
-      "Eggs", 
-      "Flowers", 
-      "Herbs", 
-      "Pork"
-    ]
-  },
-  {
-    "farm_name": "Terra Nova Farms",
-    "region": "Eastern",
-    "products": [
-      "Berries", 
-      "Field Vegetables", 
-      "Value-Added"
-    ]
-  },
-  {
-    "farm_name": "The Foxtrap Access Road Market (F.A.R.M)",
-    "region": "Avalon",
-    "products": [
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Herbs", 
-      "Value-Added"
-    ]
-  },
-  {
-    "farm_name": "The Natural Gardener Inc.",
-    "region": "Avalon",
-    "products": [
-      "Fruit", 
-      "Berries", 
-      "Field Vegetables", 
-      "Plant Booster Liquid Concentrate", 
-      "Kelp Based Soil Conditioners"
-    ]
-  },
-  {
-    "farm_name": "The Settlement NL (Upper Humber Settlement)",
-    "region": "Western and Labrador",
-    "products": [
-      "Fruit", 
-      "Berries", 
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Eggs", 
-      "Herbs", 
-      "Permaculture Farm Tours", 
-      "Farm and Forage Culinary Experience", 
-      "Farm to Table Storytelling Dinners"
-    ]
-  },
-  {
-    "farm_name": "Thistle’s Limited",
-    "region": "Western and Labrador",
-    "products": [
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Flowers", 
-      "Herbs"
-    ]
-  },
-  {
-    "farm_name": "Three Mile Ridge",
-    "region": "Eastern",
-    "products": [
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Honey/Honey Products", 
-      "Herbs", 
-      "Milk/Dairy Products", 
-      "Preserves", 
-      "Beef"
-    ]
-  },
-  {
-    "farm_name": "Triple E Farms Ltd.",
-   
 
- "region": "Western and Labrador",
-    "products": [
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Jams", 
-      "Jellies", 
-      "Pickles", 
-      "Herbs", 
-      "Value-Added"
-    ]
-  },
-  {
-    "farm_name": "Tuck’s Bee Better Farm",
-    "region": "Western and Labrador",
-    "products": [
-      "Fruit", 
-      "Berries", 
-      "Greenhouse Vegetables", 
-      "Honey/Honey Products", 
-      "Herbs", 
-      "Microgreens"
-    ]
-  },
-  {
-    "farm_name": "Twisted Whiskers Homestead",
-    "region": "Western and Labrador",
-    "products": [
-      "Berries", 
-      "Eggs", 
-      "Field Vegetables", 
-      "Honey/Honey Products", 
-      "Herbs", 
-      "Microgreens", 
-      "Wool", 
-      "Beef", 
-      "Lamb", 
-      "Chicken", 
-      "Rabbit"
-    ]
-  },
-  {
-    "farm_name": "Two Maple Farms Ltd.",
-    "region": "Central",
-    "products": [
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Beef", 
-      "Pork", 
-      "Lamb"
-    ]
-  },
-  {
-    "farm_name": "Valley Brook Farms",
-    "region": "Western and Labrador",
-    "products": ["Field Vegetables", "Greenhouse Vegetables", "Herbs"]
-  },
-  {
-    "farm_name": "Victory Gardens",
-    "region": "Western and Labrador",
-    "products": ["Berries", "Field Vegetables", "Greenhouse Vegetables"]
-  },
-  {
-    "farm_name": "WBP Holdings Ltd.",
-    "region": "Western and Labrador",
-    "products": ["Berries", "Field Vegetables"]
-  },
-  {
-    "farm_name": "Wells & Sons Farm",
-    "region": "Western and Labrador",
-    "products": ["Field Vegetables", "Hay"]
-  },
-  {
-    "farm_name": "Western Agriculture Centre",
-    "region": "Western and Labrador",
-    "products": ["Fruit", "Berries", "Field Vegetables"]
-  },
-  {
-    "farm_name": "Western Farm & Market",
-    "region": "Western and Labrador",
-    "products": ["Berries", "Field Vegetables"]
-  },
-  {
-    "farm_name": "Wild Cove Produce",
-    "region": "Central",
-    "products": [
-      "Fruit", 
-      "Berries", 
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Jams", 
-      "Jellies", 
-      "Pickles"
-    ]
-  },
-  {
-    "farm_name": "Wild Island Farm",
-    "region": "Avalon",
-    "products": ["Berries", "Field Vegetables"]
-  },
-  {
-    "farm_name": "Wildwood Farm",
-    "region": "Western and Labrador",
-    "products": ["Berries", "Field Vegetables", "Flowers"]
-  },
-  {
-    "farm_name": "Windy Heights Farm",
-    "region": "Avalon",
-    "products": ["Berries", "Field Vegetables", "Honey/Honey Products", "Herbs", "Microgreens"]
-  },
-  {
-    "farm_name": "Windy Heights Farm",
-    "region": "Avalon",
-    "products": ["Berries", "Field Vegetables", "Honey/Honey Products", "Herbs"]
-  },
-  {
-    "farm_name": "Winterhouse Farm",
-    "region": "Avalon",
-    "products": [
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Eggs", 
-      "Milk/Dairy Products", 
-      "Beef", 
-      "Pork", 
-      "Lamb", 
-      "Chicken"
-    ]
-  },
-  {
-    "farm_name": "Woodwynd Farm Inc.",
-    "region": "Western and Labrador",
-    "products": ["Milk/Dairy Products", "Beef", "Pork", "Lamb"]
-  }
-]
+[
+    {
+        "farm_name": "Adelaide’s Newfoundland Honey Inc and Adelaide’s Honey Bee Pollinator and Wildflower Reserve",
+        "region": "Avalon",
+        "address": "274 Back Line",
+        "community": "Goulds",
+        "postalCode": "A1S 1H2", 
+        "products": [
+            {
+                "product": "Honey/Honey Products",
+                "items": [
+                    {
+                        "item": "Fireweed Comb Honey",
+                        "price": "$12.00",
+                        "unit_size": "250g"
+                    },
+                    {
+                        "item": "Raw Wildflower Honey",
+                        "price": "$10.00",
+                        "unit_size": "250g"
+                    }
+                ]
+            },
+            {
+                "product": "Pollination Services",
+                "items": [
+                    {
+                        "item": "Adopt-a-Hive",
+                        "price": "$200.00",
+                        "unit_size": "Season"
+                    },
+                    {
+                        "item": "The Honey Bee Hike",
+                        "price": "$15.00",
+                        "unit_size": "Per Person"
+                    }
+                ]
+            },
+            {
+                "product": "Bees wax",
+                "items": [
+                    {
+                        "item": "Beeswax candles",
+                        "price": "$5.00",
+                        "unit_size": "Each"
+                    },
+                    {
+                        "item": "Beeswax wraps",
+                        "price": "$10.00",
+                        "unit_size": "Set of 3"
+                    }
+                ]
+            },
+            {
+                "product": "Honey Bee Rescue",
+                "items": [
+                    {
+                        "item": "Swarm Removal",
+                        "price": "$100.00",
+                        "unit_size": "Per Service"
+                    },
+                    {
+                        "item": "Bee Relocation",
+                        "price": "$150.00",
+                        "unit_size": "Per Service"
+                    }
+                ]
+            },
+            {
+                "product": "Swarm Prevention Program",
+                "items": [
+                    {
+                        "item": "Swarm Traps",
+                        "price": "$25.00",
+                        "unit_size": "Each"
+                    },
+                    {
+                        "item": "Hive Inspections",
+                        "price": "$75.00",
+                        "unit_size": "Per Visit"
+                    }
+                ]
+            },
+            {
+                "product": "Liquid Honey",
+                "items": [
+                    {
+                        "item": "Wildflower Honey",
+                        "price": "$10.00",
+                        "unit_size": "250g"
+                    },
+                    {
+                        "item": "Clover Honey",
+                        "price": "$10.00",
+                        "unit_size": "250g"
+                    }
+                ]
+            },
+            {
+                "product": "Comb Honey",
+                "items": [
+                    {
+                        "item": "Honeycomb",
+                        "price": "$15.00",
+                        "unit_size": "300g"
+                    },
+                    {
+                        "item": "Chunk Honey",
+                        "price": "$12.00",
+                        "unit_size": "250g"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Backside Acres (Butterworths Farms)",
+        "region": "Avalon",
+        "address": "57 Hurley's Road",
+        "community": "Markland",
+        "products": [
+            {
+                "product": "Field Vegetables",
+                "items": [
+                    {
+                        "item": "Carrots",
+                        "price": "$2.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Potatoes",
+                        "price": "$3.00",
+                        "unit_size": "2kg"
+                    }
+                ]
+            },
+            {
+                "product": "Value Added( preserves, jams, etc)",
+                "items": [
+                    {
+                        "item": "Strawberry Jam",
+                        "price": "$5.00",
+                        "unit_size": "250ml"
+                    },
+                    {
+                        "item": "Pickles",
+                        "price": "$4.00",
+                        "unit_size": "500ml"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Bayview Gardens Ltd.",
+        "region": "Eastern",
+        "address": "P.O Box 214",
+        "community": "Lethbridge",
+        "postalCode": "A0C 1V0", 
+        "products": [
+            {
+                "product": "Greenhouse Vegetables",
+                "items": [
+                    {
+                        "item": "Tomatoes",
+                        "price": "$3.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Peppers",
+                        "price": "$4.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            },
+            {
+                "product": "Hanging Baskets",
+                "items": [
+                    {
+                        "item": "Petunias",
+                        "price": "$15.00",
+                        "unit_size": "Each"
+                    },
+                    {
+                        "item": "Begonias",
+                        "price": "$15.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            },
+            {
+                "product": "Perennials",
+                "items": [
+                    {
+                        "item": "Hostas",
+                        "price": "$10.00",
+                        "unit_size": "Each"
+                    },
+                    {
+                        "item": "Daylilies",
+                        "price": "$10.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            },
+            {
+                "product": "Shrubs",
+                "items": [
+                    {
+                        "item": "Boxwood",
+                        "price": "$20.00",
+                        "unit_size": "Each"
+                    },
+                    {
+                        "item": "Hydrangea",
+                        "price": "$25.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            },
+            {
+                "product": "Trees",
+                "items": [
+                    {
+                        "item": "Maple",
+                        "price": "$50.00",
+                        "unit_size": "Each"
+                    },
+                    {
+                        "item": "Oak",
+                        "price": "$60.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            },
+            {
+                "product": "Garden Supplies",
+                "items": [
+                    {
+                        "item": "Soil",
+                        "price": "$5.00",
+                        "unit_size": "20L"
+                    },
+                    {
+                        "item": "Fertilizer",
+                        "price": "$10.00",
+                        "unit_size": "5kg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Brown’s Family Farm Ltd.",
+        "region": "Avalon",
+        "address": "75 Hopedale Cres.",
+        "community": "St. John's",
+        "postalCode": "A1B 0B3", 
+        "products": [
+            {
+                "product": "Berries",
+                "items": [
+                    {
+                        "item": "Blueberries",
+                        "price": "$6.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Strawberries",
+                        "price": "$5.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Bullrush Farms Limited",
+        "region": "Avalon",
+        "address": "P.O Box 80, RR#1",
+        "community": "Markland",
+        "postalCode": "A0B 3K0", 
+        "products": [
+            {
+                "product": "Berries",
+                "items": [
+                    {
+                        "item": "Blueberries",
+                        "price": "$6.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Strawberries",
+                        "price": "$5.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "C.D.’s Trees",
+        "region": "Avalon",
+        "address": "406 Marine Drive",
+        "community": "Logy Bay",
+        "products": [
+            {
+                "product": "Trees",
+                "items": [
+                    {
+                        "item": "Maple",
+                        "price": "$50.00",
+                        "unit_size": "Each"
+                    },
+                    {
+                        "item": "Oak",
+                        "price": "$60.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            },
+            {
+                "product": "Shrubs",
+                "items": [
+                    {
+                        "item": "Boxwood",
+                        "price": "$20.00",
+                        "unit_size": "Each"
+                    },
+                    {
+                        "item": "Hydrangea",
+                        "price": "$25.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Clay Oates Landscaping and Construction Limited",
+        "region": "Avalon",
+        "address": "4 Kelby Corners",
+        "community": "Carbonear",
+        "postalCode": "A1Y 1A4", 
+        "products": [
+            {
+                "product": "Turf Sod",
+                "items": [
+                    {
+                        "item": "Kentucky Bluegrass",
+                        "price": "$4.00",
+                        "unit_size": "1m²"
+                    },
+                    {
+                        "item": "Fescue",
+                        "price": "$4.00",
+                        "unit_size": "1m²"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Crooked Branch Apple Orchard",
+        "region": "Eastern",
+        "address": "10 Long Beach Road",
+        "community": "Jamestown",
+        "postalCode": "A0C 1V0", 
+        "products": [
+            {
+                "product": "Fruit",
+                "items": [
+                    {
+                        "item": "Apples",
+                        "price": "$3.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Pears",
+                        "price":
+
+ "$4.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            },
+            {
+                "product": "Apples",
+                "items": [
+                    {
+                        "item": "Granny Smith",
+                        "price": "$3.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Honeycrisp",
+                        "price": "$4.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Double D Farm",
+        "region": "Eastern",
+        "address": "29 Jasmine Place",
+        "community": "Conception Bay South",
+        "postalCode": "A1X 4B9", 
+        "products": [
+            {
+                "product": "Field Vegetables",
+                "items": [
+                    {
+                        "item": "Carrots",
+                        "price": "$2.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Potatoes",
+                        "price": "$3.00",
+                        "unit_size": "2kg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Double Diamond Farm",
+        "region": "Avalon",
+        "address": "348 RUBY LINE",
+        "community": "St. John's",
+        "postalCode": "A1G 0A2", 
+        "products": [
+            {
+                "product": "Lamb",
+                "items": [
+                    {
+                        "item": "Lamb Chops",
+                        "price": "$15.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Lamb Shanks",
+                        "price": "$12.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            },
+            {
+                "product": "Wool",
+                "items": [
+                    {
+                        "item": "Yarn",
+                        "price": "$8.00",
+                        "unit_size": "100g"
+                    },
+                    {
+                        "item": "Wool Roving",
+                        "price": "$10.00",
+                        "unit_size": "100g"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Fahey Farm/ Baynoddy Knitwear, Spinning and Weaving",
+        "region": "Avalon",
+        "address": "135 Point Road, Box 18",
+        "community": "Chapel's Cove",
+        "postalCode": "A0A 1V0", 
+        "products": [
+            {
+                "product": "Fibre",
+                "items": [
+                    {
+                        "item": "Wool",
+                        "price": "$8.00",
+                        "unit_size": "100g"
+                    },
+                    {
+                        "item": "Alpaca",
+                        "price": "$12.00",
+                        "unit_size": "100g"
+                    }
+                ]
+            },
+            {
+                "product": "Handspun Yarn",
+                "items": [
+                    {
+                        "item": "Merino",
+                        "price": "$10.00",
+                        "unit_size": "100g"
+                    },
+                    {
+                        "item": "Shetland",
+                        "price": "$9.00",
+                        "unit_size": "100g"
+                    }
+                ]
+            },
+            {
+                "product": "Knitted and Handwoven Sweaters",
+                "items": [
+                    {
+                        "item": "Wool Sweaters",
+                        "price": "$80.00",
+                        "unit_size": "Each"
+                    },
+                    {
+                        "item": "Cotton Sweaters",
+                        "price": "$60.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            },
+            {
+                "product": "Shawl",
+                "items": [
+                    {
+                        "item": "Wool Shawl",
+                        "price": "$40.00",
+                        "unit_size": "Each"
+                    },
+                    {
+                        "item": "Silk Shawl",
+                        "price": "$50.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            },
+            {
+                "product": "Llamas",
+                "items": [
+                    {
+                        "item": "Llama Wool",
+                        "price": "$15.00",
+                        "unit_size": "100g"
+                    },
+                    {
+                        "item": "Llama Yarn",
+                        "price": "$20.00",
+                        "unit_size": "100g"
+                    }
+                ]
+            },
+            {
+                "product": "Angora Goats",
+                "items": [
+                    {
+                        "item": "Angora Wool",
+                        "price": "$18.00",
+                        "unit_size": "100g"
+                    },
+                    {
+                        "item": "Angora Yarn",
+                        "price": "$22.00",
+                        "unit_size": "100g"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Festive Farmer (a division of Russwood Claredale Farms)",
+        "region": "Eastern",
+        "address": "1088 Roaches Line Site 4, Box 8, RR#1",
+        "community": "Clarke's Beach",
+        "postalCode": "A0A 1W0", 
+        "products": [
+            {
+                "product": "Christmas Trees",
+                "items": [
+                    {
+                        "item": "Fir",
+                        "price": "$30.00",
+                        "unit_size": "Each"
+                    },
+                    {
+                        "item": "Spruce",
+                        "price": "$25.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            },
+            {
+                "product": "Christmas Wreaths",
+                "items": [
+                    {
+                        "item": "Fir Wreath",
+                        "price": "$20.00",
+                        "unit_size": "Each"
+                    },
+                    {
+                        "item": "Pine Wreath",
+                        "price": "$15.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Firehill Farms",
+        "region": "Avalon",
+        "community": "Conception Bay South",
+        "products": [
+            {
+                "product": "Berries",
+                "items": [
+                    {
+                        "item": "Blueberries",
+                        "price": "$6.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Strawberries",
+                        "price": "$5.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            },
+            {
+                "product": "Field Vegetables",
+                "items": [
+                    {
+                        "item": "Carrots",
+                        "price": "$2.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Potatoes",
+                        "price": "$3.00",
+                        "unit_size": "2kg"
+                    }
+                ]
+            },
+            {
+                "product": "Greenhouse Vegetables",
+                "items": [
+                    {
+                        "item": "Tomatoes",
+                        "price": "$3.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Peppers",
+                        "price": "$4.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            },
+            {
+                "product": "Herbs",
+                "items": [
+                    {
+                        "item": "Basil",
+                        "price": "$2.00",
+                        "unit_size": "30g"
+                    },
+                    {
+                        "item": "Thyme",
+                        "price": "$2.00",
+                        "unit_size": "30g"
+                    }
+                ]
+            },
+            {
+                "product": "Value Added( preserves, jams, etc)",
+                "items": [
+                    {
+                        "item": "Strawberry Jam",
+                        "price": "$5.00",
+                        "unit_size": "250ml"
+                    },
+                    {
+                        "item": "Pickles",
+                        "price": "$4.00",
+                        "unit_size": "500ml"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Five Brothers Artisan Cheese",
+        "region": "Avalon",
+        "address": "151 Main Road",
+        "community": "Goulds",
+        "products": [
+            {
+                "product": "Milk/Dairy Products",
+                "items": [
+                    {
+                        "item": "Cheese",
+                        "price": "$8.00",
+                        "unit_size": "200g"
+                    },
+                    {
+                        "item": "Milk",
+                        "price": "$3.00",
+                        "unit_size": "1L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Garden of Eat’en",
+        "region": "Avalon",
+        "address": "307 Bay Bulls Road",
+        "community": "Bay Bulls",
+        "postalCode": "A1G 1B9", 
+        "products": [
+            {
+                "product": "Berries",
+                "items": [
+                    {
+                        "item": "Blueberries",
+                        "price": "$6.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Strawberries",
+                        "price": "$5.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            },
+            {
+                "product": "Field Vegetables",
+                "items": [
+                    {
+                        "item": "Carrots",
+                        "price": "$2.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Potatoes",
+                        "price": "$3.00",
+                        "unit_size": "2kg"
+                    }
+                ]
+            },
+            {
+                "product": "Splits",
+                "items": [
+                    {
+                        "item": "Tomato Splits",
+                        "price": "$2.00",
+                        "unit_size": "Each"
+                    },
+                    {
+                        "item": "Pepper Splits",
+                        "price": "$2.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            },
+            {
+                "product": "Plants",
+                "items": [
+                    {
+                        "item": "Tomato Plants",
+                        "price": "$3.00",
+                        "unit_size": "Each"
+                    },
+                    {
+                        "item": "Pepper Plants",
+                        "price": "$3.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Green Farm NL",
+        "region": "Avalon",
+        "address": "27C Sagona Avenue",
+        "community": "Mount Pearl",
+        "postalCode": "A1C 5B6", 
+        "products": [
+            {
+                "product": "Greenhouse Vegetables",
+                "items": [
+                    {
+                        "item": "Tomatoes",
+                        "price": "$3.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Peppers",
+                        "price": "$4.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            },
+            {
+                "product": "Herbs",
+                "items": [
+                    {
+                        "item": "Basil",
+                        "price": "$2.00",
+                        "unit_size": "30g"
+                    },
+                    {
+                        "item": "Thyme",
+                        "price": "$2.00",
+                        "unit_size": "30g"
+                    }
+                ]
+            },
+            {
+                "product": "Microgreens",
+                "items": [
+                    {
+                        "item": "Radish Microgreens",
+                        "price": "$3.00",
+                        "unit_size": "50g"
+                    },
+                    {
+                        "item": "Broccoli Microgreens",
+                        "price": "$3.00",
+                        "unit_size": "50g"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "H&E Williams Dairy Farms Ltd.",
+        "region": "Avalon",
+        "address": "331 Main Road",
+        "community": "Goulds",
+        "postalCode": "A1S 1G5", 
+        "products": [
+            {
+                "product": "Milk/Dairy Products",
+                "items": [
+                    {
+                        "item": "Cheese",
+                        "price": "$8.00",
+                        "unit_size": "200g"
+                    },
+                    {
+                        "item": "Milk",
+                        "price": "$3.00",
+                        "unit_size": "1L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Haricot Farms",
+        "region": "Avalon",
+        "address": "Haricot",
+        "community": "St. Mary's Bay",
+        "postalCode": "(709) 521-2890", 
+        "products": [
+            {
+                "product": "Beef",
+                "items": [
+                    {
+                        "item": "Steak",
+                        "price": "$15.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Ground Beef",
+                        "price": "$10.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            },
+            {
+                "product": "Pork",
+                "items": [
+                    {
+                        "item": "Pork Chops",
+                        "price": "$12.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Bacon",
+                        "price": "$8.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            },
+            {
+                "product": "Lamb",
+                "items": [
+                    {
+                        "item": "Lamb Chops",
+                        "price": "$15.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Lamb Shanks",
+                        "price": "$12.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            },
+            {
+                "product": "Primal cuts & Secondary products(sausages, ground and meatballs)",
+                "items": [
+                    {
+                        "item": "Sausages",
+                        "price": "$8.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Meatballs",
+                        "price": "$10.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            },
+            {
+                "product": "Chicken",
+                "items": [
+                    {
+                        "item": "Chicken Breasts",
+                        "price": "$10.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Chicken Thighs",
+                        "price": "$8.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Hayes Farm",
+        "region": "Avalon",
+        "address": "Goulds",
+        "products": [
+            {
+                "product": "Lamb",
+                "items": [
+                    {
+                        "item": "Lamb Chops",
+                        "price": "$15.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Lamb Shanks",
+                        "price": "$12.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Heritage Farm",
+        "region": "Avalon",
+        "address": "11 Myrick Place",
+        "community": "St. John's",
+        "postalCode": "A1G 0A2", 
+        "products": [
+            {
+                "product": "Eggs",
+                "items": [
+                    {
+                        "item": "Chicken Eggs",
+                        "price": "$3.00",
+                        "unit_size": "Dozen"
+                    },
+                    {
+                        "item": "Duck Eggs",
+                        "price": "$5.00",
+                        "unit_size": "Dozen"
+                    }
+                ]
+            },
+            {
+                "product": "Wool",
+                "items": [
+                    {
+                        "item": "Yarn",
+                        "price": "$8.00",
+                        "unit_size": "100g"
+                    },
+                    {
+                        "item": "Wool Roving",
+                        "price": "$10.00",
+                        "unit_size": "100g"
+                    }
+                ]
+            },
+            {
+                "product": "Lamb",
+                "items": [
+                    {
+                        "item": "Lamb Chops",
+                        "price": "$15.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Lamb Shanks",
+                        "price": "$12.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            },
+            {
+                "product": "Turkey",
+                "items": [
+                    {
+                        "item": "Turkey Breast",
+                        "price": "$20.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Turkey Thighs",
+                        "price": "$15.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Hickey’s Greenhouses and Nursery Ltd.",
+        "region": "Avalon",
+        "address": "689 CBS Highway",
+        "community": "Kelligrews",
+        "postalCode": "A1X 3A8", 
+        "products": [
+            {
+                "product": "Greenhouse Vegetables",
+                "items": [
+                    {
+                        "item": "Tomatoes",
+                        "price": "$3.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Peppers",
+                        "price": "$4.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            },
+            {
+                "product": "Flowers",
+                "items": [
+                    {
+                        "item": "Roses",
+                        "price": "$15.00",
+                        "unit_size": "Each"
+                    },
+                    {
+                        "item": "Lilies",
+                        "price": "$10.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            },
+            {
+                "product": "Soil",
+                "items": [
+                    {
+                        "item": "Potting Soil",
+                        "price": "$5.00",
+                        "unit_size": "20L"
+                    },
+                    {
+                        "item": "Topsoil",
+                        "price": "$3.00",
+                        "unit_size": "20L"
+                    }
+                ]
+            },
+            {
+                "product": "Fertilizer",
+                "items": [
+                    {
+                        "item": "Organic Fertilizer",
+                        "price": "$10.00",
+                        "unit_size": "5kg"
+                    },
+                    {
+                        "item": "Chemical Fertilizer",
+                        "price": "$8.00",
+                        "unit_size": "5kg"
+                    }
+                ]
+            },
+            {
+                "product": "Baskets",
+                "items": [
+                    {
+                        "item": "Hanging Baskets",
+                        "price": "$15.00",
+                        "unit_size": "Each"
+                    },
+                    {
+                        "item": "Flower Baskets",
+                        "price": "$10.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            },
+            {
+                "product": "Planters",
+                "items": [
+                    {
+                        "item": "Wooden Planters",
+                        "price": "$20.00",
+                        "unit_size": "Each"
+                    },
+                    {
+                        "item": "Plastic Planters",
+                        "price": "$10.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            },
+            {
+                "product": "Compost",
+                "items": [
+                    {
+                        "item": "Organic Compost",
+                        "price": "$5.00",
+                        "unit_size": "20L"
+                    },
+                    {
+                        "item": "Mushroom Compost",
+                        "price": "$6.00",
+                        "unit_size": "20L"
+                    }
+                ]
+            },
+            {
+                "product": "Mulch",
+                "items": [
+                    {
+                        "item": "Wood Mulch",
+                        "price": "$4.00",
+                        "unit_size": "1m³"
+                    },
+                    {
+                        "item": "Bark Mulch",
+                        "price": "$5.00",
+                        "unit_size": "1m³"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Hillview Farms",
+        "region": "Eastern",
+        "address": "224 GooseBay Drive P.O Box 245",
+        "community": "Musgravetown",
+        "postalCode": "A0C 1Z0", 
+        "products": [
+            {
+                "product": "Field Vegetables",
+                "items": [
+                    {
+                        "item": "Carrots",
+                        "price": "$2.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Potatoes",
+                        "price": "$3.00",
+                        "unit_size": "2kg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "J&C Sod Farm",
+        "region": "Avalon",
+        "address": "P.O Box 118",
+        "community": "Bay Bulls",
+        "postalCode": "A0A 1C0", 
+        "products": [
+            {
+                "product": "Soil",
+                "items": [
+                    {
+                        "item": "Topsoil",
+                        "price": "$3.00",
+                        "unit_size": "20L"
+                    },
+                    {
+                        "item": "Potting Soil",
+                        "price": "$5.00",
+                        "unit_size": "20L"
+                    }
+                ]
+            },
+            {
+                "product": "Turf Grass",
+                "items": [
+                    {
+                        "item": "Kentucky Bluegrass",
+                        "price": "$4.00",
+                        "unit_size": "1m²"
+                    },
+                    {
+                        "item": "Fescue",
+                        "price": "$4.00",
+                        "unit_size": "1m²"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "JAR Farm",
+        "region": "Avalon",
+        "address": "217 Old Cabot Highway",
+        "community": "Chapel Arm",
+        "postalCode": "A0B 1L0", 
+        "products": [
+            {
+                "product": "Fruit",
+                "items": [
+                    {
+                        "item": "Apples",
+                        "price": "$3.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Pears",
+                        "price": "$4.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            },
+            {
+                "product": "Berries",
+                "items": [
+                    {
+                        "item": "Blueberries",
+                        "price": "$6.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Strawberries",
+                        "price": "$5.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            },
+            {
+                "product": "Field Vegetables",
+                "items": [
+                    {
+                        "item": "Carrots",
+                        "price": "$2.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Potatoes",
+                        "price": "$3.00",
+                        "unit_size": "2kg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Juanita Burt",
+        "region": "Avalon",
+        "address": "Highway 331",
+        "community": "Rogers Cove",
+        "products": [
+            {
+                "product": "Field Vegetables",
+                "items": [
+                    {
+                        "item": "Carrots",
+                        "price": "$2.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Potatoes",
+                        "price": "$3.00",
+                        "unit_size": "2kg"
+                    }
+                ]
+            },
+            {
+                "product": "Hay",
+                "items": [
+                    {
+                        "item": "Alfalfa",
+                        "price": "$10.00",
+                        "unit_size": "Bale"
+                    },
+                    {
+                        "item": "Timothy",
+                        "price": "$8.00",
+                        "unit_size": "Bale"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Kennedy Farm Inc.",
+        "region": "Avalon",
+        "address": "175 Freshwater Road",
+        "community": "Freshwater",
+        "postalCode": "A0A 4G0", 
+        "products": [
+            {
+                "product": "Turkey",
+                "items": [
+                    {
+                        "item": "Turkey Breast",
+                        "price": "$20.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Turkey Thighs",
+                        "price": "$15.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Kennedy’s Produce",
+        "region": "Avalon",
+        "address": "64 Peachytown Road, Foxtrap",
+        "community": "Conception Bay South",
+        "products": [
+            {
+                "product": "Field Vegetables",
+                "items": [
+                    {
+                        "item": "Carrots",
+                        "price": "$2.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Potatoes",
+                        "price": "$3.00",
+                        "unit_size": "2kg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Lester’s Farm Chalet",
+        "region": "Avalon",
+        "address": "92 Pearltown Road",
+        "community": "St. John's",
+        "postalCode": "A1G 1P3", 
+        "products": [
+            {
+                "product": "Fruit",
+                "items": [
+                    {
+                        "item": "Apples",
+                        "price": "$3.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Pears",
+                        "price": "$4.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            },
+            {
+                "product": "Berries",
+                "items": [
+                    {
+                        "item": "Blueberries",
+                        "price": "$6.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Strawberries",
+                        "price": "$5.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            },
+            {
+                "product": "Field Vegetables",
+                "items": [
+                    {
+                        "item": "Carrots",
+                        "price": "$2.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Potatoes",
+                        "price": "$3.00",
+                        "unit_size": "2kg"
+                    }
+                ]
+            },
+            {
+                "product": "Greenhouse Vegetables",
+                "items": [
+                    {
+                        "item": "Tomatoes",
+                        "price": "$3.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Peppers",
+                        "price": "$4.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            },
+            {
+                "product": "Eggs",
+                "items": [
+                    {
+                        "item": "Chicken Eggs",
+                        "price": "$3.00",
+                        "unit_size": "Dozen"
+                    },
+                    {
+                        "item": "Duck Eggs",
+                        "price": "$5.00",
+                        "unit_size": "Dozen"
+                    }
+                ]
+            },
+            {
+                "product": "Flowers",
+                "items": [
+                    {
+                        "item": "Roses",
+                        "price": "$15.00",
+                        "unit_size": "Each"
+                    },
+                    {
+                        "item": "Lilies",
+                        "price": "$10.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            },
+            {
+                "product": "Honey/Honey Products",
+                "items": [
+                    {
+                        "item": "Raw Honey",
+                        "price": "$10.00",
+                        "unit_size": "250g"
+                    },
+                    {
+                        "item": "Comb Honey",
+                        "price": "$12.00",
+                        "unit_size": "250g"
+                    }
+                ]
+            },
+            {
+                "product": "Herbs",
+                "items": [
+                    {
+                        "item": "Basil",
+                        "price": "$2.00",
+                        "unit_size": "30g"
+                    },
+                    {
+                        "item": "Thyme",
+                        "price": "$2.00",
+                        "unit_size": "30g"
+                    }
+                ]
+            },
+            {
+                "product": "Milk/Dairy Products",
+                "items": [
+                    {
+                        "item": "Cheese",
+                        "price": "$8.00",
+                        "unit_size": "200g"
+                    },
+                    {
+                        "item": "Milk",
+                        "price": "$3.00",
+                        "unit_size": "1L"
+                    }
+                ]
+            },
+            {
+                "product": "Value-Added",
+                "items": [
+                    {
+                        "item": "Preserves",
+                        "price": "$5.00",
+                        "unit_size": "250ml"
+                    },
+                    {
+                        "item": "Jams",
+                        "price": "$5.00",
+                        "unit_size": "250ml"
+                    }
+                ]
+            },
+            {
+                "product": "Beef",
+                "items": [
+                    {
+                        "item": "Steak",
+                        "price": "$15.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Ground Beef",
+                        "price": "$10.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            },
+            {
+                "product": "Pork",
+                "items": [
+                    {
+                        "item": "Pork Chops",
+                        "price": "$12.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Bacon",
+                        "price": "$8.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            },
+            {
+                "product": "Lamb",
+                "items": [
+                    {
+                        "item": "Lamb Chops",
+                        "price": "$15.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Lamb Shanks",
+                        "price": "$12.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            },
+            {
+                "product": "Turkey",
+                "items": [
+                    {
+                        "item": "Turkey Breast",
+                        "price": "$20.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Turkey Thighs",
+                        "price": "$15.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            },
+            {
+                "product": "Chicken",
+                "items": [
+                    {
+                        "item": "Chicken Breasts",
+                        "price": "$10.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Chicken Thighs",
+                        "price": "$8.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            },
+            {
+                "product": "Tilapia",
+                "items": [
+                    {
+                        "item": "Tilapia Fillets",
+                        "price": "$12.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Whole Tilapia",
+                        "price": "$10.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Lester’s Farm Market",
+        "region": "Avalon",
+        "address": "173 Brookfield Road",
+        "community": "St. John's",
+        "products": [
+            {
+                "product": "Fruit",
+                "items": [
+                    {
+                        "item": "Apples",
+                        "price": "$3.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Pears",
+                        "price": "$4.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            },
+            {
+                "product": "Berries",
+                "items": [
+                    {
+                        "item": "Blueberries",
+                        "price": "$6.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Strawberries",
+                        "price": "$5.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            },
+            {
+                "product": "Field Vegetables",
+                "items": [
+                    {
+                        "item": "Carrots",
+                        "price": "$2.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Potatoes",
+                        "price": "$3.00",
+                        "unit_size": "2kg"
+                    }
+                ]
+            },
+            {
+                "product": "Greenhouse Vegetables",
+                "items": [
+                    {
+                        "item": "Tomatoes",
+                        "price": "$3.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Peppers",
+                        "price": "$4.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            },
+            {
+                "product": "Eggs",
+                "items": [
+                    {
+                        "item": "Chicken Eggs",
+                        "price": "$3.00",
+                        "unit_size": "Dozen"
+                    },
+                    {
+                        "item": "Duck Eggs",
+                        "price": "$5.00",
+                        "unit_size": "Dozen"
+                    }
+                ]
+            },
+            {
+                "product": "Flowers",
+                "items": [
+                    {
+                        "item": "Roses",
+                        "price": "$15.00",
+                        "unit_size": "Each"
+                    },
+                    {
+                        "item": "Lilies",
+                        "price": "$10.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            },
+            {
+                "product": "Honey/Honey Products",
+                "items": [
+                    {
+                        "item": "Raw Honey",
+                        "price": "$10.00",
+                        "unit_size": "250g"
+                    },
+                    {
+                        "item": "Comb Honey",
+                        "price": "$12.00",
+                        "unit_size": "250g"
+                    }
+                ]
+            },
+            {
+                "product": "Herbs",
+                "items": [
+                    {
+                        "item": "Basil",
+                        "price": "$2.00",
+                        "unit_size": "30g"
+                    },
+                    {
+                        "item": "Thyme",
+                        "price": "$2.00",
+                        "unit_size": "30g"
+                    }
+                ]
+            },
+            {
+                "product": "Milk/Dairy Products",
+                "items": [
+                    {
+                        "item": "Cheese",
+                        "price": "$8.00",
+                        "unit_size": "200g"
+                    },
+                    {
+                        "item": "Milk",
+                        "price": "$3.00",
+                        "unit_size": "1L"
+                    }
+                ]
+            },
+            {
+                "product": "Lamb",
+                "items": [
+                    {
+                        "item": "Lamb Chops",
+                        "price": "$15.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Lamb Shanks",
+                        "price": "$12.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            },
+            {
+                "product": "Harvest Hut (food truck)",
+                "items": [
+                    {
+                        "item": "Burgers",
+                        "price": "$8.00",
+                        "unit_size": "Each"
+                    },
+                    {
+                        "item": "Fries",
+                        "price": "$4.00",
+                        "unit_size": "Serving"
+                    }
+                ]
+            },
+            {
+                "product": "Bottled Items",
+                "items": [
+                    {
+                        "item": "Pickles",
+                        "price": "$4.00",
+                        "unit_size": "500ml"
+                    },
+                    {
+                        "item": "Salsa",
+                        "price": "$5.00",
+                        "unit_size": "500ml"
+                    }
+                ]
+            },
+            {
+                "product": "Bakery",
+                "items": [
+                    {
+                        "item": "Bread",
+                        "price": "$3.00",
+                        "unit_size": "Loaf"
+                    },
+                    {
+                        "item": "Pastries",
+                        "price": "$2.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            },
+            {
+                "product": "Petting Barn",
+                "items": [
+                    {
+                        "item": "Goats",
+                        "price": "$5.00",
+                        "unit_size": "Visit"
+                    },
+                    {
+                        "item": "Sheep",
+                        "price": "$5.00",
+                        "unit_size": "Visit"
+                    }
+                ]
+            },
+            {
+                "product": "Classes",
+                "items": [
+                    {
+                        "item": "Gardening",
+                        "price": "$20.00",
+                        "unit_size": "Class"
+                    },
+                    {
+                        "item": "Cooking",
+                        "price": "$25.00",
+                        "unit_size": "Class"
+                    }
+                ]
+            },
+            {
+                "product": "Seasonal Activities",
+                "items": [
+                    {
+                        "item": "Pumpkin Picking",
+                        "price": "$10.00",
+                        "unit_size": "Visit"
+                    },
+                    {
+                        "item": "Corn Maze",
+                        "price": "$8.00",
+                        "unit_size": "Visit"
+                    }
+                ]
+            },
+            {
+                "product": "Childrens Programs",
+                "items": [
+                    {
+                        "item": "Farm Tours",
+                        "price": "$5.00",
+                        "unit_size": "Visit"
+                    },
+                    {
+                        "item": "Petting Zoo",
+                        "price": "$5.00",
+                        "unit_size": "Visit"
+                    }
+                ]
+            },
+            {
+                "product": "Agritourism",
+                "items": [
+                    {
+                        "item": "Farm Tours",
+                        "price": "$5.00",
+                        "unit_size": "Visit"
+                    },
+                    {
+                        "item": "Workshops",
+                        "price": "$20.00",
+                        "unit_size": "Workshop"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Mayo’s Farm",
+        "region": "Eastern",
+        "address": "Black Brook",
+        "community": "Creson South",
+        "products": [
+            {
+                "product": "Field Vegetables",
+                "items": [
+                    {
+                        "item": "Carrots",
+                        "price": "$2.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Potatoes",
+                        "price": "$3.00",
+                        "unit_size": "2kg"
+                    }
+                ]
+            },
+            {
+                "product": "Greenhouse Vegetables",
+                "items": [
+                    {
+                        "item": "Tomatoes",
+                        "price": "$3.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Peppers",
+                        "price": "$4.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            },
+            {
+                "product": "Value Added( preserves, jams, etc)",
+                "items": [
+                    {
+                        "item": "Strawberry Jam",
+                        "price": "$5.00",
+                        "unit_size": "250ml"
+                    },
+                    {
+                        "item": "Pickles",
+                        "price": "$4.00",
+                        "unit_size": "500ml"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Miao’s Green Farm Inc.",
+        "region": "Avalon",
+        "address": " 54 Gully Pond Road",
+        "community": "Conception Bay South",
+        "postalCode": "A1X 6Y9", 
+        "products": [
+            {
+                "product": "Field Vegetables",
+                "items": [
+                    {
+                        "item": "Carrots",
+                        "price": "$2.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Potatoes",
+                        "price": "$3.00",
+                        "unit_size": "2kg"
+                    }
+                ]
+            },
+            {
+                "product": "Greenhouse Vegetables",
+                "items": [
+                    {
+                        "item": "Tomatoes",
+                        "price": "$3.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Peppers",
+                        "price": "$4.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            },
+            {
+                "product": "Sod",
+                "items": [
+                    {
+                        "item": "Kentucky Bluegrass",
+                        "price": "$4.00",
+                        "unit_size": "1m²"
+                    },
+                    {
+                        "item": "Fescue",
+                        "price": "$4.00",
+                        "unit_size": "1m²"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Miao’s Sod Farm Inc.",
+        "region": "Avalon",
+        "address": "20 Rosalind Street",
+        "community": "St. John's",
+        "postalCode": "A1B 0J1", 
+        "products": [
+            {
+                "product": "Field Vegetables",
+                "items": [
+                    {
+                        "item": "Carrots",
+                        "price": "$2.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Potatoes",
+                        "price": "$3.00",
+                        "unit_size": "2kg"
+                    }
+                ]
+            },
+            {
+                "product": "Sod",
+                "items": [
+                    {
+                        "item": "Kentucky Bluegrass",
+                        "price": "$4.00",
+                        "unit_size": "1m²"
+                    },
+                    {
+                        "item": "Fescue",
+                        "price": "$4.00",
+                        "unit_size": "1m²"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Murphy’s Sod Farm",
+        "region": "Avalon",
+        "address": "TCH - Whitbourne",
+        "community": "Whitbourne",
+        "products": [
+            {
+                "product": "Sod",
+                "items": [
+                    {
+                        "item": "Kentucky Bluegrass",
+                        "price": "$4.00",
+                        "unit_size": "1m²"
+                    },
+                    {
+                        "item": "Fescue",
+                        "price": "$4.00",
+                        "unit_size": "1m²"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "N. Fagan Meats",
+        "region": "Avalon",
+        "address": "55 Peachytown Road",
+        "community": "Conception Bay South",
+        "postalCode": "A1X 7C7", 
+        "products": [
+            {
+                "product": "Field Vegetables",
+                "items": [
+                    {
+                        "item": "Carrots",
+                        "price": "$2.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Potatoes",
+                        "price": "$3.00",
+                        "unit_size": "2kg"
+                    }
+                ]
+            },
+            {
+                "product": "Herbs",
+                "items": [
+                    {
+                        "item": "Basil",
+                        "price": "$2.00",
+                        "unit_size": "30g"
+                    },
+                    {
+                        "item": "Thyme",
+                        "price": "$2.00",
+                        "unit_size": "30g"
+                    }
+                ]
+            },
+            {
+                "product": "Beef",
+                "items": [
+                    {
+                        "item": "Steak",
+                        "price": "$15.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Ground Beef",
+                        "price": "$10.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            },
+            {
+                "product": "Pork",
+                "items": [
+                    {
+                        "item": "Pork Chops",
+                        "price": "$12.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Bacon",
+                        "price": "$8.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            },
+            {
+                "product": "Lamb",
+                "items": [
+                    {
+                        "item": "Lamb Chops",
+                        "price": "$15.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Lamb Shanks",
+                        "price": "$12.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            },
+            {
+                "product": "Turkey",
+                "items": [
+                    {
+                        "item": "Turkey Breast",
+                        "price": "$20.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Turkey Thighs",
+                        "price": "$15.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            },
+            {
+                "product": "Chicken",
+                "items": [
+                    {
+                        "item": "Chicken Breasts",
+                        "price": "$10.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Chicken Thighs",
+                        "price": "$8.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Newfoundland Gardens",
+        "region": "Avalon",
+        "address": "8 Dora Bessie's Lane",
+        "community": "Dildo",
+        "products": [
+            {
+                "product": "Fruit",
+                "items": [
+                    {
+                        "item": "Apples",
+                        "price": "$3.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Pears",
+                        "price": "$4.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            },
+            {
+                "product": "Berries",
+                "items": [
+                    {
+                        "item": "Blueberries",
+                        "price": "$6.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Strawberries",
+                        "price": "$5.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            },
+            {
+                "product": "Field Vegetables",
+                "items": [
+                    {
+                        "item": "Carrots",
+                        "price": "$2.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Potatoes",
+                        "price": "$3.00",
+                        "unit_size": "2kg"
+                    }
+                ]
+            },
+            {
+                "product": "Greenhouse Vegetables",
+                "items": [
+                    {
+                        "item": "Tomatoes",
+                        "price": "$3.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Peppers",
+                        "price": "$4.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            },
+            {
+                "product": "Honey/Honey Products",
+                "items": [
+                    {
+                        "item": "Raw Honey",
+                        "price": "$10.00",
+                        "unit_size": "250g"
+                    },
+                    {
+                        "item": "Comb Honey",
+                        "price": "$12.00",
+                        "unit_size": "250g"
+                    }
+                ]
+            },
+            {
+                "product": "Herbs",
+                "items": [
+                    {
+                        "item": "Basil",
+                        "price": "$2.00",
+                        "unit_size": "30g"
+                    },
+                    {
+                        "item": "Thyme",
+                        "price": "$2.00",
+                        "unit_size": "30g"
+                    }
+                ]
+            },
+            {
+                "product": "Microgreens",
+                "items": [
+                    {
+                        "item": "Radish Microgreens",
+                        "price": "$3.00",
+                        "unit_size": "50g"
+                    },
+                    {
+                        "item": "Broccoli Microgreens",
+                        "price": "$3.00",
+                        "unit_size": "50g"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Nuthatch Nursery",
+        "region": "Eastern",
+        "address": "12 Brown's Lane",
+        "community": "Lethbridge",
+        "postalCode": "A0C 1V0", 
+        "products": [
+            {
+                "product": "Berries",
+                "items": [
+                    {
+                        "item": "Blueberries",
+                        "price": "$6.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Strawberries",
+                        "price": "$5.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            },
+            {
+                "product": "Greenhouse Vegetables",
+                "items": [
+                    {
+                        "item": "Tomatoes",
+                        "price": "$3.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Peppers",
+                        "price": "$4.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            },
+            {
+                "product": "Flowers",
+                "items": [
+                    {
+                        "item": "Roses",
+                        "price": "$15.00",
+                        "unit_size": "Each"
+                    },
+                    {
+                        "item": "Lilies",
+                        "price": "$10.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Olivers Farm",
+        "region": "Avalon",
+        "community": "Placentia Junction",
+        "products": [
+            {
+                "product": "Berries",
+                "items": [
+                    {
+                        "item": "Blueberries",
+                        "price": "$6.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Strawberries",
+                        "price": "$5.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            },
+            {
+                "product": "Field Vegetables",
+                "items": [
+                    {
+                        "item": "Carrots",
+                        "price": "$2.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Potatoes",
+                        "price": "$3.00",
+                        "unit_size": "2kg"
+
+
+                    }
+                ]
+            },
+            {
+                "product": "Eggs",
+                "items": [
+                    {
+                        "item": "Chicken Eggs",
+                        "price": "$3.00",
+                        "unit_size": "Dozen"
+                    },
+                    {
+                        "item": "Duck Eggs",
+                        "price": "$5.00",
+                        "unit_size": "Dozen"
+                    }
+                ]
+            },
+            {
+                "product": "Honey/Honey Products",
+                "items": [
+                    {
+                        "item": "Raw Honey",
+                        "price": "$10.00",
+                        "unit_size": "250g"
+                    },
+                    {
+                        "item": "Comb Honey",
+                        "price": "$12.00",
+                        "unit_size": "250g"
+                    }
+                ]
+            },
+            {
+                "product": "Beef",
+                "items": [
+                    {
+                        "item": "Steak",
+                        "price": "$15.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Ground Beef",
+                        "price": "$10.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            },
+            {
+                "product": "Pork",
+                "items": [
+                    {
+                        "item": "Pork Chops",
+                        "price": "$12.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Bacon",
+                        "price": "$8.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            },
+            {
+                "product": "Lamb",
+                "items": [
+                    {
+                        "item": "Lamb Chops",
+                        "price": "$15.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Lamb Shanks",
+                        "price": "$12.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            },
+            {
+                "product": "Turkey",
+                "items": [
+                    {
+                        "item": "Turkey Breast",
+                        "price": "$20.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Turkey Thighs",
+                        "price": "$15.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            },
+            {
+                "product": "Chicken",
+                "items": [
+                    {
+                        "item": "Chicken Breasts",
+                        "price": "$10.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Chicken Thighs",
+                        "price": "$8.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Omiachi Meat Shop",
+        "region": "Avalon",
+        "address": "43 Swansea Road",
+        "community": "Victoria",
+        "postalCode": "A0A 4G0", 
+        "products": [
+            {
+                "product": "Beef",
+                "items": [
+                    {
+                        "item": "Steak",
+                        "price": "$15.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Ground Beef",
+                        "price": "$10.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            },
+            {
+                "product": "Pork",
+                "items": [
+                    {
+                        "item": "Pork Chops",
+                        "price": "$12.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Bacon",
+                        "price": "$8.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            },
+            {
+                "product": "Lamb",
+                "items": [
+                    {
+                        "item": "Lamb Chops",
+                        "price": "$15.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Lamb Shanks",
+                        "price": "$12.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            },
+            {
+                "product": "Chicken",
+                "items": [
+                    {
+                        "item": "Chicken Breasts",
+                        "price": "$10.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Chicken Thighs",
+                        "price": "$8.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Organic Farm",
+        "region": "Avalon",
+        "address": "42 Churchill Rd.",
+        "community": "Portugal Cove - St. Philips",
+        "postalCode": "A1M 2P6", 
+        "products": [
+            {
+                "product": "Fruit",
+                "items": [
+                    {
+                        "item": "Apples",
+                        "price": "$3.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Pears",
+                        "price": "$4.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            },
+            {
+                "product": "Berries",
+                "items": [
+                    {
+                        "item": "Blueberries",
+                        "price": "$6.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Strawberries",
+                        "price": "$5.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            },
+            {
+                "product": "Field Vegetables",
+                "items": [
+                    {
+                        "item": "Carrots",
+                        "price": "$2.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Potatoes",
+                        "price": "$3.00",
+                        "unit_size": "2kg"
+                    }
+                ]
+            },
+            {
+                "product": "Greenhouse Vegetables",
+                "items": [
+                    {
+                        "item": "Tomatoes",
+                        "price": "$3.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Peppers",
+                        "price": "$4.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            },
+            {
+                "product": "Flowers",
+                "items": [
+                    {
+                        "item": "Roses",
+                        "price": "$15.00",
+                        "unit_size": "Each"
+                    },
+                    {
+                        "item": "Lilies",
+                        "price": "$10.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            },
+            {
+                "product": "Herbs",
+                "items": [
+                    {
+                        "item": "Basil",
+                        "price": "$2.00",
+                        "unit_size": "30g"
+                    },
+                    {
+                        "item": "Thyme",
+                        "price": "$2.00",
+                        "unit_size": "30g"
+                    }
+                ]
+            },
+            {
+                "product": "Winter Greens",
+                "items": [
+                    {
+                        "item": "Kale",
+                        "price": "$4.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Spinach",
+                        "price": "$3.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            },
+            {
+                "product": "Shoots and Micro-Greens",
+                "items": [
+                    {
+                        "item": "Radish Microgreens",
+                        "price": "$3.00",
+                        "unit_size": "50g"
+                    },
+                    {
+                        "item": "Broccoli Microgreens",
+                        "price": "$3.00",
+                        "unit_size": "50g"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "O’Neill’s Gardenland",
+        "region": "Avalon",
+        "address": "P.O Box 160",
+        "community": "Spaniard's Bay",
+        "postalCode": "A0A 3X0", 
+        "products": [
+            {
+                "product": "Fruit",
+                "items": [
+                    {
+                        "item": "Apples",
+                        "price": "$3.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Pears",
+                        "price": "$4.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            },
+            {
+                "product": "Berries",
+                "items": [
+                    {
+                        "item": "Blueberries",
+                        "price": "$6.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Strawberries",
+                        "price": "$5.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            },
+            {
+                "product": "Greenhouse Vegetables",
+                "items": [
+                    {
+                        "item": "Tomatoes",
+                        "price": "$3.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Peppers",
+                        "price": "$4.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            },
+            {
+                "product": "Flowers",
+                "items": [
+                    {
+                        "item": "Roses",
+                        "price": "$15.00",
+                        "unit_size": "Each"
+                    },
+                    {
+                        "item": "Lilies",
+                        "price": "$10.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            },
+            {
+                "product": "Herbs",
+                "items": [
+                    {
+                        "item": "Basil",
+                        "price": "$2.00",
+                        "unit_size": "30g"
+                    },
+                    {
+                        "item": "Thyme",
+                        "price": "$2.00",
+                        "unit_size": "30g"
+                    }
+                ]
+            },
+            {
+                "product": "Floral Arrangements",
+                "items": [
+                    {
+                        "item": "Bouquets",
+                        "price": "$20.00",
+                        "unit_size": "Each"
+                    },
+                    {
+                        "item": "Centerpieces",
+                        "price": "$25.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            },
+            {
+                "product": "Custom Plantings",
+                "items": [
+                    {
+                        "item": "Planters",
+                        "price": "$30.00",
+                        "unit_size": "Each"
+                    },
+                    {
+                        "item": "Hanging Baskets",
+                        "price": "$15.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            },
+            {
+                "product": "Landscaping",
+                "items": [
+                    {
+                        "item": "Garden Design",
+                        "price": "$100.00",
+                        "unit_size": "Per Service"
+                    },
+                    {
+                        "item": "Lawn Care",
+                        "price": "$50.00",
+                        "unit_size": "Per Service"
+                    }
+                ]
+            },
+            {
+                "product": "Nursery",
+                "items": [
+                    {
+                        "item": "Saplings",
+                        "price": "$10.00",
+                        "unit_size": "Each"
+                    },
+                    {
+                        "item": "Seedlings",
+                        "price": "$5.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            },
+            {
+                "product": "Gardening Related Needs and Gifts",
+                "items": [
+                    {
+                        "item": "Garden Tools",
+                        "price": "$20.00",
+                        "unit_size": "Set"
+                    },
+                    {
+                        "item": "Gift Baskets",
+                        "price": "$30.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Paradise Farms Inc.",
+        "region": "Avalon",
+        "address": "97 St. Thomas Line",
+        "community": "Paradise",
+        "postalCode": "A1L 2P9", 
+        "products": [
+            {
+                "product": "Honey",
+                "items": [
+                    {
+                        "item": "Raw Honey",
+                        "price": "$10.00",
+                        "unit_size": "250g"
+                    },
+                    {
+                        "item": "Comb Honey",
+                        "price": "$12.00",
+                        "unit_size": "250g"
+                    }
+                ]
+            },
+            {
+                "product": "Beeswax candles",
+                "items": [
+                    {
+                        "item": "Taper Candles",
+                        "price": "$5.00",
+                        "unit_size": "Each"
+                    },
+                    {
+                        "item": "Pillar Candles",
+                        "price": "$8.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            },
+            {
+                "product": "Body care products from beehive",
+                "items": [
+                    {
+                        "item": "Beeswax Lip Balm",
+                        "price": "$3.00",
+                        "unit_size": "Each"
+                    },
+                    {
+                        "item": "Honey Lotion",
+                        "price": "$10.00",
+                        "unit_size": "200ml"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Parsons’ Farms",
+        "region": "Eastern",
+        "address": "1 Farm Road",
+        "community": "Hillview",
+        "postalCode": "A0E 2A0", 
+        "products": [
+            {
+                "product": "Berries",
+                "items": [
+                    {
+                        "item": "Blueberries",
+                        "price": "$6.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Strawberries",
+                        "price": "$5.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Pinedale Farms",
+        "region": "Eastern",
+        "community": "Terra Nova",
+        "products": [
+            {
+                "product": "Sod",
+                "items": [
+                    {
+                        "item": "Kentucky Bluegrass",
+                        "price": "$4.00",
+                        "unit_size": "1m²"
+                    },
+                    {
+                        "item": "Fescue",
+                        "price": "$4.00",
+                        "unit_size": "1m²"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Ridgeway Farms",
+        "region": "Avalon",
+        "community": "Torbay",
+        "products": [
+            {
+                "product": "Field Vegetables",
+                "items": [
+                    {
+                        "item": "Carrots",
+                        "price": "$2.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Potatoes",
+                        "price": "$3.00",
+                        "unit_size": "2kg"
+                    }
+                ]
+            },
+            {
+                "product": "Hay",
+                "items": [
+                    {
+                        "item": "Alfalfa",
+                        "price": "$10.00",
+                        "unit_size": "Bale"
+                    },
+                    {
+                        "item": "Timothy",
+                        "price": "$8.00",
+                        "unit_size": "Bale"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Ripple Trail Farm Ltd.",
+        "region": "Avalon",
+        "address": "131 Main Road",
+        "community": "Markland",
+        "postalCode": "A0B 3K0", 
+        "products": [
+            {
+                "product": "Field Vegetables",
+                "items": [
+                    {
+                        "item": "Carrots",
+                        "price": "$2.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Potatoes",
+                        "price": "$3.00",
+                        "unit_size": "2kg"
+                    }
+                ]
+            },
+            {
+                "product": "Greenhouse Vegetables",
+                "items": [
+                    {
+                        "item": "Tomatoes",
+                        "price": "$3.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Peppers",
+                        "price": "$4.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            },
+            {
+                "product": "Flowers",
+                "items": [
+                    {
+                        "item": "Roses",
+                        "price": "$15.00",
+                        "unit_size": "Each"
+                    },
+                    {
+                        "item": "Lilies",
+                        "price": "$10.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            },
+            {
+                "product": "Herbs",
+                "items": [
+                    {
+                        "item": "Basil",
+                        "price": "$2.00",
+                        "unit_size": "30g"
+                    },
+                    {
+                        "item": "Thyme",
+                        "price": "$2.00",
+                        "unit_size": "30g"
+                    }
+                ]
+            },
+            {
+                "product": "Value-Added",
+                "items": [
+                    {
+                        "item": "Preserves",
+                        "price": "$5.00",
+                        "unit_size": "250ml"
+                    },
+                    {
+                        "item": "Jams",
+                        "price": "$5.00",
+                        "unit_size": "250ml"
+                    }
+                ]
+            },
+            {
+                "product": "Vegetable Plants",
+                "items": [
+                    {
+                        "item": "Tomato Plants",
+                        "price": "$3.00",
+                        "unit_size": "Each"
+                    },
+                    {
+                        "item": "Pepper Plants",
+                        "price": "$3.00",
+                        "unit_size": "Each"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Rocks to Riches Farm",
+        "region": "Avalon",
+        "address": "Witch Hazel Road",
+        "community": "Portugal Cove - St. Philips",
+        "products": [
+            {
+                "product": "Field Vegetables",
+                "items": [
+                    {
+                        "item": "Carrots",
+                        "price": "$2.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Potatoes",
+                        "price": "$3.00",
+                        "unit_size": "2kg"
+                    }
+                ]
+            },
+            {
+                "product": "Herbs",
+                "items": [
+                    {
+                        "item": "Basil",
+                        "price": "$2.00",
+                        "unit_size": "30g"
+                    },
+                    {
+                        "item": "Thyme",
+                        "price": "$2.00",
+                        "unit_size": "30g"
+                    }
+                ]
+            },
+            {
+                "product": "Greenhouse Vegetables",
+                "items": [
+                    {
+                        "item": "Tomatoes",
+                        "price": "$3.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Peppers",
+                        "price": "$4.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            },
+            {
+                "product": "Chicken",
+                "items": [
+                    {
+                        "item": "Chicken Breasts",
+                        "price": "$10.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Chicken Thighs",
+                        "price": "$8.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            },
+            {
+                "product": "Eggs",
+                "items": [
+                    {
+                        "item": "Chicken Eggs",
+                        "price": "$3.00",
+                        "unit_size": "Dozen"
+                    },
+                    {
+                        "item": "Duck Eggs",
+                        "price": "$5.00",
+                        "unit_size": "Dozen"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Roots Farm",
+        "region": "Avalon",
+        "address": "P.O. Box 1088",
+        "community": "Bay Roberts",
+        "postalCode": "A0A 1G0", 
+        "products": [
+            {
+                "product": "Berries",
+                "items": [
+                    {
+                        "item": "Blueberries",
+
+
+                        "price": "$6.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Strawberries",
+                        "price": "$5.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            },
+            {
+                "product": "Field Vegetables",
+                "items": [
+                    {
+                        "item": "Carrots",
+                        "price": "$2.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Potatoes",
+                        "price": "$3.00",
+                        "unit_size": "2kg"
+                    }
+                ]
+            },
+            {
+                "product": "Greenhouse Vegetables",
+                "items": [
+                    {
+                        "item": "Tomatoes",
+                        "price": "$3.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Peppers",
+                        "price": "$4.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            },
+            {
+                "product": "Eggs",
+                "items": [
+                    {
+                        "item": "Chicken Eggs",
+                        "price": "$3.00",
+                        "unit_size": "Dozen"
+                    },
+                    {
+                        "item": "Duck Eggs",
+                        "price": "$5.00",
+                        "unit_size": "Dozen"
+                    }
+                ]
+            },
+            {
+                "product": "Herbs",
+                "items": [
+                    {
+                        "item": "Basil",
+                        "price": "$2.00",
+                        "unit_size": "30g"
+                    },
+                    {
+                        "item": "Thyme",
+                        "price": "$2.00",
+                        "unit_size": "30g"
+                    }
+                ]
+            },
+            {
+                "product": "Value Added( preserves, jams, etc)",
+                "items": [
+                    {
+                        "item": "Strawberry Jam",
+                        "price": "$5.00",
+                        "unit_size": "250ml"
+                    },
+                    {
+                        "item": "Pickles",
+                        "price": "$4.00",
+                        "unit_size": "500ml"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Stoney Ridge Farm",
+        "region": "Avalon",
+        "address": "170 Bennetts Road",
+        "community": "Portugal Cove - St. Philips",
+        "postalCode": "A1M 1X3", 
+        "products": [
+            {
+                "product": "Eggs",
+                "items": [
+                    {
+                        "item": "Chicken Eggs",
+                        "price": "$3.00",
+                        "unit_size": "Dozen"
+                    },
+                    {
+                        "item": "Duck Eggs",
+                        "price": "$5.00",
+                        "unit_size": "Dozen"
+                    }
+                ]
+            },
+            {
+                "product": "Turkey",
+                "items": [
+                    {
+                        "item": "Turkey Breast",
+                        "price": "$20.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Turkey Thighs",
+                        "price": "$15.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Sunrise Dairy Ltd.",
+        "region": "Eastern",
+        "address": "Bunyan's Cove Road",
+        "community": "Musgravetown",
+        "products": [
+            {
+                "product": "Milk/Dairy Products",
+                "items": [
+                    {
+                        "item": "Cheese",
+                        "price": "$8.00",
+                        "unit_size": "200g"
+                    },
+                    {
+                        "item": "Milk",
+                        "price": "$3.00",
+                        "unit_size": "1L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Terra Nova Farms",
+        "region": "Eastern",
+        "community": "Terra Nova",
+        "products": [
+            {
+                "product": "Berries",
+                "items": [
+                    {
+                        "item": "Blueberries",
+                        "price": "$6.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Strawberries",
+                        "price": "$5.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            },
+            {
+                "product": "Field Vegetables",
+                "items": [
+                    {
+                        "item": "Carrots",
+                        "price": "$2.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Potatoes",
+                        "price": "$3.00",
+                        "unit_size": "2kg"
+                    }
+                ]
+            },
+            {
+                "product": "Value-Added",
+                "items": [
+                    {
+                        "item": "Preserves",
+                        "price": "$5.00",
+                        "unit_size": "250ml"
+                    },
+                    {
+                        "item": "Jams",
+                        "price": "$5.00",
+                        "unit_size": "250ml"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "The Foxtrap Access Road Market (F.A.R.M)",
+        "region": "Avalon",
+        "address": " 242 Foxtrap Access Road",
+        "community": "Foxtrap",
+        "products": [
+            {
+                "product": "Field Vegetables",
+                "items": [
+                    {
+                        "item": "Carrots",
+                        "price": "$2.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Potatoes",
+                        "price": "$3.00",
+                        "unit_size": "2kg"
+                    }
+                ]
+            },
+            {
+                "product": "Greenhouse Vegetables",
+                "items": [
+                    {
+                        "item": "Tomatoes",
+                        "price": "$3.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Peppers",
+                        "price": "$4.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            },
+            {
+                "product": "Herbs",
+                "items": [
+                    {
+                        "item": "Basil",
+                        "price": "$2.00",
+                        "unit_size": "30g"
+                    },
+                    {
+                        "item": "Thyme",
+                        "price": "$2.00",
+                        "unit_size": "30g"
+                    }
+                ]
+            },
+            {
+                "product": "Value-Added",
+                "items": [
+                    {
+                        "item": "Preserves",
+                        "price": "$5.00",
+                        "unit_size": "250ml"
+                    },
+                    {
+                        "item": "Jams",
+                        "price": "$5.00",
+                        "unit_size": "250ml"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "The Natural Gardener Inc.",
+        "region": "Avalon",
+        "address": "8 Sunny Hill Road",
+        "community": "Ferryland",
+        "postalCode": "A0A 2H0", 
+        "products": [
+            {
+                "product": "Fruit",
+                "items": [
+                    {
+                        "item": "Apples",
+                        "price": "$3.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Pears",
+                        "price": "$4.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            },
+            {
+                "product": "Berries",
+                "items": [
+                    {
+                        "item": "Blueberries",
+                        "price": "$6.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Strawberries",
+                        "price": "$5.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            },
+            {
+                "product": "Field Vegetables",
+                "items": [
+                    {
+                        "item": "Carrots",
+                        "price": "$2.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Potatoes",
+                        "price": "$3.00",
+                        "unit_size": "2kg"
+                    }
+                ]
+            },
+            {
+                "product": "Plant Booster Liquid Concentrate",
+                "items": [
+                    {
+                        "item": "Liquid Fertilizer",
+                        "price": "$10.00",
+                        "unit_size": "1L"
+                    },
+                    {
+                        "item": "Soil Enhancer",
+                        "price": "$8.00",
+                        "unit_size": "1L"
+                    }
+                ]
+            },
+            {
+                "product": "Kelp Based Soil Conditioners",
+                "items": [
+                    {
+                        "item": "Kelp Meal",
+                        "price": "$12.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Kelp Extract",
+                        "price": "$15.00",
+                        "unit_size": "500ml"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Three Mile Ridge",
+        "region": "Eastern",
+        "address": "345 Discovery Trail",
+        "community": "Lethbridge",
+        "postalCode": "A0C 1V0", 
+        "products": [
+            {
+                "product": "Field Vegetables",
+                "items": [
+                    {
+                        "item": "Carrots",
+                        "price": "$2.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Potatoes",
+                        "price": "$3.00",
+                        "unit_size": "2kg"
+                    }
+                ]
+            },
+            {
+                "product": "Greenhouse Vegetables",
+                "items": [
+                    {
+                        "item": "Tomatoes",
+                        "price": "$3.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Peppers",
+                        "price": "$4.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            },
+            {
+                "product": "Honey/Honey Products",
+                "items": [
+                    {
+                        "item": "Raw Honey",
+                        "price": "$10.00",
+                        "unit_size": "250g"
+                    },
+                    {
+                        "item": "Comb Honey",
+                        "price": "$12.00",
+                        "unit_size": "250g"
+                    }
+                ]
+            },
+            {
+                "product": "Herbs",
+                "items": [
+                    {
+                        "item": "Basil",
+                        "price": "$2.00",
+                        "unit_size": "30g"
+                    },
+                    {
+                        "item": "Thyme",
+                        "price": "$2.00",
+                        "unit_size": "30g"
+                    }
+                ]
+            },
+            {
+                "product": "Milk/Dairy Products",
+                "items": [
+                    {
+                        "item": "Cheese",
+                        "price": "$8.00",
+                        "unit_size": "200g"
+                    },
+                    {
+                        "item": "Milk",
+                        "price": "$3.00",
+                        "unit_size": "1L"
+                    }
+                ]
+            },
+            {
+                "product": "Preserves",
+                "items": [
+                    {
+                        "item": "Strawberry Jam",
+                        "price": "$5.00",
+                        "unit_size": "250ml"
+                    },
+                    {
+                        "item": "Pickles",
+                        "price": "$4.00",
+                        "unit_size": "500ml"
+                    }
+                ]
+            },
+            {
+                "product": "Beef",
+                "items": [
+                    {
+                        "item": "Steak",
+                        "price": "$15.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Ground Beef",
+                        "price": "$10.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Trouter’s Special Worm Farm",
+        "region": "Avalon",
+        "address": "P.O Box 118",
+        "community": "Bay Bulls",
+        "postalCode": "A0A 1C0", 
+        "products": [
+            {
+                "product": "Worms",
+                "items": [
+                    {
+                        "item": "Earthworms",
+                        "price": "$5.00",
+                        "unit_size": "100g"
+                    },
+                    {
+                        "item": "Red Wigglers",
+                        "price": "$6.00",
+                        "unit_size": "100g"
+                    }
+                ]
+            },
+            {
+                "product": "Fertility Products",
+                "items": [
+                    {
+                        "item": "Vermicompost",
+                        "price": "$10.00",
+                        "unit_size": "5kg"
+                    },
+                    {
+                        "item": "Worm Castings",
+                        "price": "$8.00",
+                        "unit_size": "5kg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Troy Holloway",
+        "region": "Eastern",
+        "address": "P.O Box 293",
+        "community": "Musgravetown",
+        "products": [
+            {
+                "product": "Hay",
+                "items": [
+                    {
+                        "item": "Alfalfa",
+                        "price": "$10.00",
+                        "unit_size": "Bale"
+                    },
+                    {
+                        "item": "Timothy",
+                        "price": "$8.00",
+                        "unit_size": "Bale"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Tucker’s Farm",
+        "region": "Avalon",
+        "address": "144 Tolt Road",
+        "community": "Portugal Cove - St. Philips",
+        "postalCode": "A1M 1R9", 
+        "products": [
+            {
+                "product": "Field Vegetables",
+                "items": [
+                    {
+                        "item": "Carrots",
+                        "price": "$2.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Potatoes",
+                        "price": "$3.00",
+                        "unit_size": "2kg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Walsh’s Blueberry Farm",
+        "region": "Avalon",
+        "address": "86 Springdale Street",
+        "community": "St. John's",
+        "postalCode": "A1C 5B6", 
+        "products": [
+            {
+                "product": "Blueberries",
+                "items": [
+                    {
+                        "item": "Fresh Blueberries",
+                        "price": "$6.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Frozen Blueberries",
+                        "price": "$5.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            },
+            {
+                "product": "Flash Frozen Blueberries",
+                "items": [
+                    {
+                        "item": "Frozen Blueberries",
+                        "price": "$5.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Blueberry Puree",
+                        "price": "$8.00",
+                        "unit_size": "1L"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Walsh’s Farm",
+        "region": "Avalon",
+        "address": "323 Freshwater Road",
+        "community": "St. John's",
+        "postalCode": "A1B 2C3", 
+        "products": [
+            {
+                "product": "Berries",
+                "items": [
+                    {
+                        "item": "Blueberries",
+                        "price": "$6.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Strawberries",
+                        "price": "$5.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "farm_name": "Windy Heights Farm",
+        "region": "Avalon",
+        "address": "374 Bauline Line Extension",
+        "community": "Portugal Cove - St. Philips",
+        "postalCode": "A1M 2W1", 
+        "products": [
+            {
+                "product": "Field Vegetables",
+                "items": [
+                    {
+                        "item": "Carrots",
+                        "price": "$2.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Potatoes",
+                        "price": "$3.00",
+                        "unit_size": "2kg"
+                    }
+                ]
+            },
+            {
+                "product": "Gourmet Mushrooms",
+                "items": [
+                    {
+                        "item": "Shiitake",
+                        "price": "$10.00",
+                        "unit_size": "250g"
+                    },
+                    {
+                        "item": "Oyster",
+                        "price": "$8.00",
+                        "unit_size": "250g"
+                    }
+                ]
+            },
+            {
+                "product": "Eggs",
+                "items": [
+                    {
+                        "item": "Chicken Eggs",
+                        "price": "$3.00",
+                        "unit_size": "Dozen"
+                    },
+                    {
+                        "item": "Duck Eggs",
+                        "price": "$5.00",
+                        "unit_size": "Dozen"
+                    }
+                ]
+            },
+            {
+                "product": "Pork",
+                "items": [
+                    {
+                        "item": "Pork Chops",
+                        "price": "$12.00",
+                        "unit_size": "500g"
+                    },
+                    {
+                        "item": "Bacon",
+                        "price": "$8.00",
+                        "unit_size": "500g"
+                    }
+                ]
+            },
+            {
+                "product": "Goose",
+                "items": [
+                    {
+                        "item": "Goose Breast",
+                        "price": "$20.00",
+                        "unit_size": "1kg"
+                    },
+                    {
+                        "item": "Goose Legs",
+                        "price": "$15.00",
+                        "unit_size": "1kg"
+                    }
+                ]
+            },
+            {
+                "product": "Sod",
+                "items": [
+                    {
+                        "item": "Kentucky Bluegrass",
+                        "price": "$4.00",
+                        "unit_size": "1m²"
+                    },
+                    {
+                        "item": "Fescue",
+                        "price": "$4.00",
+                        "unit_size": "1m²"
+                    }
+                ]
+            }
+        ]
+    }
+   ]
