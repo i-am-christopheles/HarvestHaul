@@ -15,19 +15,19 @@ const schema = a.schema({
             address: a.string(),
             community: a.string(),
             postalCode: a.string(),
-            products: a.hasMany("Products", "productid")
+            products: a.hasMany("Products", "id")
             }),
     Products: a
         .model({
-            productid: a.string(),
+            id: a.string(),
             producer: a.belongsTo("Producer", "id"),
             product: a.string(),
-            items: a.hasMany("Items", "itemid")
-        }),
+            items: a.hasMany("Items", "id")
+        }).identifier([]),
     Items: a
         .model({
-            itemid:a.string(),
-            products: a.belongsTo("Products", "productid"),
+            id:a.string(),
+            products: a.belongsTo("Products", "id"),
             item: a.string(),
             price: a.string(),
             unit_size: a.string()
