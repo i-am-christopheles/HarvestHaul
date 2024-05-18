@@ -4,32 +4,32 @@ import { generateClient } from "aws-amplify/data";
 
 const client = generateClient<Schema>();
 
-export default function TodoList() {
-    const [todos, setTodos] = useState<Schema["Producer"]["type"][]>([]);
+export default function ProfileList() {
+    const [profiles, setProfiles] = useState<Schema["Producer"]["type"][]>([]);
 
-    const fetchTodos = async () => {
+    const fetchProfiles = async () => {
         const { data: items, errors } = await client.models.Producer.list();
         console.log(errors)
-        setTodos(items);
+        setProfiles(items);
     };
 
     useEffect(() => {
-        fetchTodos();
+        fetchProfiles();
     }, []);
 
-    const createTodo = async () => {
+    const createProfile = async () => {
         await client.models.Producer.create({
-            name: window.prompt("Todo content?"),
+            name: window.prompt("Producer name?"),
         });
 
-        fetchTodos();
+        fetchProfiles();
     }
 
     return (
         <div>
-            <button onClick={createTodo}>Add new todo</button>
+            <button onClick={createProfile}>Add new profile</button>
             <ul>
-                {todos.map(({ id, name }) => (
+                {profiles.map(({ id, name }) => (
                     <li key={id}>{name}</li>
                 ))}
             </ul>
