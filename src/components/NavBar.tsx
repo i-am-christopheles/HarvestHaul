@@ -37,7 +37,7 @@ export default function NavBar() {
         borderStyle={'solid'}
         borderColor={useColorModeValue('gray.200', 'gray.900')}
         align={'center'}
-        justify={'space-between'} // Centering horizontally
+        justify={'space-between'}
       >
         <Flex align={'center'}>
           <Image
@@ -70,10 +70,10 @@ export default function NavBar() {
             fontSize={'sm'}
             fontWeight={600}
             color={'white'}
-            bg={'pink.400'}
+            bg={'green.400'}
             href={'#'}
             _hover={{
-              bg: 'pink.300',
+              bg: 'green.300',
             }}
           >
             Sign Up
