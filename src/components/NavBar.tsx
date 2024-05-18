@@ -274,4 +274,8 @@ const NAV_ITEMS: Array<NavItem> = [
     label: 'Marketplace',
     href: '/marketplace',
   },
+  {
+    label: 'Profile',
+    href: '/profile',
+  },
 ];
