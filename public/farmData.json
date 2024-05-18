@@ -3,1028 +3,1460 @@
     "farm_name": "Adelaide’s Newfoundland Honey Inc and Adelaide’s Honey Bee Pollinator and Wildflower Reserve",
     "region": "Avalon",
     "products": [
-      "Honey/Honey Products", 
-      "Pollination Services", 
-      "Adopt-a-Hive", 
-      "The Honey Bee Hike", 
-      "Fireweed Comb Honey", 
-      "Raw Wildflower Honey", 
-      "Bees wax", 
-      "Flanker Starters", 
-      "Honey Bee Rescue", 
-      "Swarm Prevention Program", 
-      "Artisan Fireweed Honey", 
-      "Liquid Honey", 
-      "Comb Honey"
+      {
+        "name": "Honey/Honey Products",
+        "item": [
+          {"name": "Beeswax", "price": 12.99, "unit_size": "per pound"},
+          {"name": "Honeycomb", "price": 9.99, "unit_size": "per piece"}
+        ]
+      },
+      {
+        "name": "Pollination Services",
+        "item": [
+          {"name": "Bee Pollination", "price": 200.00, "unit_size": "per hive"},
+          {"name": "Flower Pollination", "price": 150.00, "unit_size": "per hive"}
+        ]
+      },
+      {
+        "name": "Adopt-a-Hive",
+        "item": [
+          {"name": "Hive Kits", "price": 250.00, "unit_size": "per kit"},
+          {"name": "Bee Sponsorship", "price": 100.00, "unit_size": "per hive"}
+        ]
+      },
+      {
+        "name": "The Honey Bee Hike",
+        "item": [
+          {"name": "Nature Walks", "price": 20.00, "unit_size": "per person"},
+          {"name": "Bee Tours", "price": 25.00, "unit_size": "per person"}
+        ]
+      },
+      {
+        "name": "Fireweed Comb Honey",
+        "item": [
+          {"name": "Fireweed Honey", "price": 15.99, "unit_size": "per pound"},
+          {"name": "Comb Honey", "price": 19.99, "unit_size": "per pound"}
+        ]
+      },
+      {
+        "name": "Raw Wildflower Honey",
+        "item": [
+          {"name": "Wildflower Honey", "price": 14.99, "unit_size": "per pound"},
+          {"name": "Organic Honey", "price": 17.99, "unit_size": "per pound"}
+        ]
+      },
+      {
+        "name": "Bees wax",
+        "item": [
+          {"name": "Honeycomb", "price": 9.99, "unit_size": "per piece"},
+          {"name": "Candles", "price": 7.99, "unit_size": "per candle"}
+        ]
+      },
+      {
+        "name": "Flanker Starters",
+        "item": [
+          {"name": "Bee Colonies", "price": 300.00, "unit_size": "per colony"},
+          {"name": "Beehive Frames", "price": 25.00, "unit_size": "per frame"}
+        ]
+      },
+      {
+        "name": "Honey Bee Rescue",
+        "item": [
+          {"name": "Bee Relocation", "price": 100.00, "unit_size": "per relocation"},
+          {"name": "Swarm Rescue", "price": 75.00, "unit_size": "per rescue"}
+        ]
+      },
+      {
+        "name": "Swarm Prevention Program",
+        "item": [
+          {"name": "Bee Traps", "price": 50.00, "unit_size": "per trap"},
+          {"name": "Hive Maintenance", "price": 150.00, "unit_size": "per visit"}
+        ]
+      },
+      {
+        "name": "Artisan Fireweed Honey",
+        "item": [
+          {"name": "Artisan Honey", "price": 19.99, "unit_size": "per pound"},
+          {"name": "Gourmet Honey", "price": 22.99, "unit_size": "per pound"}
+        ]
+      },
+      {
+        "name": "Liquid Honey",
+        "item": [
+          {"name": "Raw Honey", "price": 16.99, "unit_size": "per pound"},
+          {"name": "Honey Syrup", "price": 18.99, "unit_size": "per bottle"}
+        ]
+      },
+      {
+        "name": "Comb Honey",
+        "item": [
+          {"name": "Honeycomb", "price": 9.99, "unit_size": "per piece"},
+          {"name": "Bee Honeycomb", "price": 12.99, "unit_size": "per piece"}
+        ]
+      }
     ]
   },
   {
     "farm_name": "Alderbrook Acres Ltd.",
     "region": "Western and Labrador",
-    "products": ["Nursery Sod", "Topsoil"]
+    "products": [
+      {
+        "name": "Nursery Sod",
+        "item": [
+          {"name": "Lawn Sod", "price": 4.99, "unit_size": "per square foot"},
+          {"name": "Grass Sod", "price": 3.99, "unit_size": "per square foot"}
+        ]
+      },
+      {
+        "name": "Topsoil",
+        "item": [
+          {"name": "Garden Soil", "price": 50.00, "unit_size": "per cubic yard"},
+          {"name": "Potting Soil", "price": 30.00, "unit_size": "per cubic yard"}
+        ]
+      }
+    ]
   },
   {
     "farm_name": "Backside Acres (Butterworths Farms)",
     "region": "Avalon",
-    "products": ["Field Vegetables", "Value Added( preserves, jams, etc)"]
+    "products": [
+      {
+        "name": "Field Vegetables",
+        "item": [
+          {"name": "Root Vegetables", "price": 2.00, "unit_size": "per pound"},
+          {"name": "Leafy Greens", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      },
+      {
+        "name": "Value Added( preserves, jams, etc)",
+        "item": [
+          {"name": "Jams", "price": 5.00, "unit_size": "per jar"},
+          {"name": "Preserves", "price": 6.00, "unit_size": "per jar"}
+        ]
+      }
+    ]
   },
   {
     "farm_name": "Bayview Gardens Ltd.",
     "region": "Eastern",
-    "products": ["Greenhouse Vegetables", "Hanging Baskets", "Perennials", "Shrubs", "Trees", "Garden Supplies"]
+    "products": [
+      {
+        "name": "Greenhouse Vegetables",
+        "item": [
+          {"name": "Tomatoes", "price": 3.00, "unit_size": "per pound"},
+          {"name": "Peppers", "price": 2.50, "unit_size": "per pound"}
+        ]
+      },
+      {
+        "name": "Hanging Baskets",
+        "item": [
+          {"name": "Flower Baskets", "price": 15.00, "unit_size": "per basket"},
+          {"name": "Decorative Baskets", "price": 20.00, "unit_size": "per basket"}
+        ]
+      },
+      {
+        "name": "Perennials",
+        "item": [
+          {"name": "Flowering Plants", "price": 10.00, "unit_size": "per plant"},
+          {"name": "Shrubs", "price": 12.00, "unit_size": "per plant"}
+        ]
+      },
+      {
+        "name": "Shrubs",
+        "item": [
+          {"name": "Bushes", "price": 15.00, "unit_size": "per plant"},
+          {"name": "Hedges", "price": 18.00, "unit_size": "per plant"}
+        ]
+      },
+      {
+        "name": "Trees",
+        "item": [
+          {"name": "Saplings", "price": 25.00, "unit_size": "per tree"},
+          {"name": "Fruit Trees", "price": 30.00, "unit_size": "per tree"}
+        ]
+      },
+      {
+        "name": "Garden Supplies",
+        "item": [
+          {"name": "Fertilizer", "price": 20.00, "unit_size": "per bag"},
+          {"name": "Soil", "price": 15.00, "unit_size": "per bag"}
+        ]
+      }
+    ]
   },
   {
     "farm_name": "Beauty of Flowers Nursery",
     "region": "Central",
     "products": [
-      "Perennials", 
-      "Bedding Plants", 
-      "Hanging Baskets", 
-      "Landscape Trees", 
-      "Shrubs", 
-      "Seed Potatoes", 
-      "Peat", 
-      "Soil", 
-      "Fertilizer", 
-      "Fruit", 
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Herbs", 
-      "Flowers", 
-      "Fruit Trees", 
-      "Berry Plants"
+      {
+        "name": "Perennials",
+        "item": [
+          {"name": "Flowering Plants", "price": 10.00, "unit_size": "per plant"},
+          {"name": "Shrubs", "price": 12.00, "unit_size": "per plant"}
+        ]
+      },
+      {
+        "name": "Bedding Plants",
+        "item": [
+          {"name": "Annuals", "price": 3.00, "unit_size": "per plant"},
+          {"name": "Flowering Plants", "price": 5.00, "unit_size": "per plant"}
+        ]
+      },
+      {
+        "name": "Hanging Baskets",
+        "item": [
+          {"name": "Flower Baskets", "price": 15.00, "unit_size": "per basket"},
+          {"name": "Decorative Baskets", "price": 20.00, "unit_size": "per basket"}
+        ]
+      },
+      {
+        "name": "Landscape Trees",
+        "item": [
+          {"name": "Shade Trees", "price": 40.00, "unit_size": "per tree"},
+          {"name": "Ornamental Trees", "price": 
+
+45.00, "unit_size": "per tree"}
+        ]
+      },
+      {
+        "name": "Shrubs",
+        "item": [
+          {"name": "Bushes", "price": 15.00, "unit_size": "per plant"},
+          {"name": "Hedges", "price": 18.00, "unit_size": "per plant"}
+        ]
+      },
+      {
+        "name": "Seed Potatoes",
+        "item": [
+          {"name": "Planting Potatoes", "price": 5.00, "unit_size": "per bag"},
+          {"name": "Seed Tubers", "price": 6.00, "unit_size": "per bag"}
+        ]
+      },
+      {
+        "name": "Peat",
+        "item": [
+          {"name": "Peat Moss", "price": 10.00, "unit_size": "per bag"},
+          {"name": "Potting Peat", "price": 12.00, "unit_size": "per bag"}
+        ]
+      },
+      {
+        "name": "Soil",
+        "item": [
+          {"name": "Topsoil", "price": 50.00, "unit_size": "per cubic yard"},
+          {"name": "Garden Soil", "price": 30.00, "unit_size": "per cubic yard"}
+        ]
+      },
+      {
+        "name": "Fertilizer",
+        "item": [
+          {"name": "Compost", "price": 20.00, "unit_size": "per bag"},
+          {"name": "Plant Food", "price": 15.00, "unit_size": "per bag"}
+        ]
+      },
+      {
+        "name": "Fruit",
+        "item": [
+          {"name": "Berries", "price": 4.00, "unit_size": "per pint"},
+          {"name": "Tree Fruit", "price": 2.00, "unit_size": "per piece"}
+        ]
+      },
+      {
+        "name": "Field Vegetables",
+        "item": [
+          {"name": "Root Vegetables", "price": 2.00, "unit_size": "per pound"},
+          {"name": "Leafy Greens", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      },
+      {
+        "name": "Greenhouse Vegetables",
+        "item": [
+          {"name": "Tomatoes", "price": 3.00, "unit_size": "per pound"},
+          {"name": "Peppers", "price": 2.50, "unit_size": "per pound"}
+        ]
+      },
+      {
+        "name": "Herbs",
+        "item": [
+          {"name": "Basil", "price": 2.00, "unit_size": "per bunch"},
+          {"name": "Mint", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      },
+      {
+        "name": "Flowers",
+        "item": [
+          {"name": "Blooming Plants", "price": 5.00, "unit_size": "per plant"},
+          {"name": "Annuals", "price": 3.00, "unit_size": "per plant"}
+        ]
+      },
+      {
+        "name": "Fruit Trees",
+        "item": [
+          {"name": "Apple Trees", "price": 25.00, "unit_size": "per tree"},
+          {"name": "Pear Trees", "price": 30.00, "unit_size": "per tree"}
+        ]
+      },
+      {
+        "name": "Berry Plants",
+        "item": [
+          {"name": "Blueberries", "price": 4.00, "unit_size": "per pint"},
+          {"name": "Strawberries", "price": 4.00, "unit_size": "per pint"}
+        ]
+      }
     ]
   },
   {
     "farm_name": "Birch Lane Farm",
     "region": "Western and Labrador",
     "products": [
-      "Berries", 
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Eggs", 
-      "Herbs", 
-      "Jams", 
-      "Jellies", 
-      "Red Wiggler Worms"
+      {
+        "name": "Berries",
+        "item": [
+          {"name": "Blueberries", "price": 4.00, "unit_size": "per pint"},
+          {"name": "Strawberries", "price": 4.00, "unit_size": "per pint"}
+        ]
+      },
+      {
+        "name": "Field Vegetables",
+        "item": [
+          {"name": "Root Vegetables", "price": 2.00, "unit_size": "per pound"},
+          {"name": "Leafy Greens", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      },
+      {
+        "name": "Greenhouse Vegetables",
+        "item": [
+          {"name": "Tomatoes", "price": 3.00, "unit_size": "per pound"},
+          {"name": "Peppers", "price": 2.50, "unit_size": "per pound"}
+        ]
+      },
+      {
+        "name": "Eggs",
+        "item": [
+          {"name": "Chicken Eggs", "price": 3.00, "unit_size": "per dozen"},
+          {"name": "Duck Eggs", "price": 4.00, "unit_size": "per dozen"}
+        ]
+      },
+      {
+        "name": "Herbs",
+        "item": [
+          {"name": "Basil", "price": 2.00, "unit_size": "per bunch"},
+          {"name": "Mint", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      },
+      {
+        "name": "Jams",
+        "item": [
+          {"name": "Fruit Jams", "price": 5.00, "unit_size": "per jar"},
+          {"name": "Preserves", "price": 6.00, "unit_size": "per jar"}
+        ]
+      },
+      {
+        "name": "Jellies",
+        "item": [
+          {"name": "Fruit Jellies", "price": 5.00, "unit_size": "per jar"},
+          {"name": "Preserves", "price": 6.00, "unit_size": "per jar"}
+        ]
+      },
+      {
+        "name": "Red Wiggler Worms",
+        "item": [
+          {"name": "Compost Worms", "price": 20.00, "unit_size": "per pound"},
+          {"name": "Worm Castings", "price": 10.00, "unit_size": "per pound"}
+        ]
+      }
     ]
   },
   {
     "farm_name": "Birchbark Farm",
     "region": "Western and Labrador",
-    "products": ["Field Vegetables", "Greenhouse Vegetables", "Eggs"]
+    "products": [
+      {
+        "name": "Field Vegetables",
+        "item": [
+          {"name": "Root Vegetables", "price": 2.00, "unit_size": "per pound"},
+          {"name": "Leafy Greens", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      },
+      {
+        "name": "Greenhouse Vegetables",
+        "item": [
+          {"name": "Tomatoes", "price": 3.00, "unit_size": "per pound"},
+          {"name": "Peppers", "price": 2.50, "unit_size": "per pound"}
+        ]
+      },
+      {
+        "name": "Eggs",
+        "item": [
+          {"name": "Chicken Eggs", "price": 3.00, "unit_size": "per dozen"},
+          {"name": "Duck Eggs", "price": 4.00, "unit_size": "per dozen"}
+        ]
+      }
+    ]
   },
   {
     "farm_name": "Birdhouse Garden Market Inc.",
     "region": "Western and Labrador",
-    "products": ["Fruit", "Berries", "Greenhouse Vegetables", "Flowers", "Herbs", "Ornamental Annuals and Perennials"]
+    "products": [
+      {
+        "name": "Fruit",
+        "item": [
+          {"name": "Berries", "price": 4.00, "unit_size": "per pint"},
+          {"name": "Tree Fruit", "price": 2.00, "unit_size": "per piece"}
+        ]
+      },
+      {
+        "name": "Berries",
+        "item": [
+          {"name": "Blueberries", "price": 4.00, "unit_size": "per pint"},
+          {"name": "Strawberries", "price": 4.00, "unit_size": "per pint"}
+        ]
+      },
+      {
+        "name": "Greenhouse Vegetables",
+        "item": [
+          {"name": "Tomatoes", "price": 3.00, "unit_size": "per pound"},
+          {"name": "Peppers", "price": 2.50, "unit_size": "per pound"}
+        ]
+      },
+      {
+        "name": "Flowers",
+        "item": [
+          {"name": "Blooming Plants", "price": 5.00, "unit_size": "per plant"},
+          {"name": "Annuals", "price": 3.00, "unit_size": "per plant"}
+        ]
+      },
+      {
+        "name": "Herbs",
+        "item": [
+          {"name": "Basil", "price": 2.00, "unit_size": "per bunch"},
+          {"name": "Mint", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      },
+      {
+        "name": "Ornamental Annuals and Perennials",
+        "item": [
+          {"name": "Flowering Plants", "price": 10.00, "unit_size": "per plant"},
+          {"name": "Decorative Plants", "price": 15.00, "unit_size": "per plant"}
+        ]
+      }
+    ]
   },
   {
     "farm_name": "Brown’s Family Farm Ltd.",
     "region": "Avalon",
-    "products": ["Berries"]
+    "products": [
+      {
+        "name": "Berries",
+        "item": [
+          {"name": "Blueberries", "price": 4.00, "unit_size": "per pint"},
+          {"name": "Strawberries", "price": 4.00, "unit_size": "per pint"}
+        ]
+      }
+    ]
   },
   {
     "farm_name": "Bullrush Farms Limited",
     "region": "Avalon",
-    "products": ["Berries"]
+    "products": [
+      {
+        "name": "Berries",
+        "item": [
+          {"name": "Blueberries", "price": 4.00, "unit_size": "per pint"},
+          {"name": "Strawberries", "price": 4.00, "unit_size": "per pint"}
+        ]
+      }
+    ]
   },
   {
     "farm_name": "Bullrush Farms Ltd.",
     "region": "Eastern",
-    "products": ["Berries"]
+    "products": [
+      {
+        "name": "Berries",
+        "item": [
+          {"name": "Blueberries", "price": 4.00, "unit_size": "per pint"},
+          {"name": "Strawberries", "price": 4.00, "unit_size": "per pint"}
+        ]
+      }
+    ]
   },
   {
     "farm_name": "C.D.’s Trees",
     "region": "Avalon",
-    "products": ["Trees", "Shrubs"]
+    "products": [
+      {
+        "name": "Trees",
+        "item": [
+          {"name": "Saplings", "price": 25.00, "unit_size": "per tree"},
+          {"name": "Fruit Trees", "price": 30.00, "unit_size": "per tree"}
+        ]
+      },
+      {
+        "name": "Shrubs",
+        "item": [
+          {"name": "Bushes", "price": 15.00, "unit_size": "per plant"},
+          {"name": "Hedges", "price": 18.00, "unit_size": "per plant"}
+        ]
+      }
+    ]
   },
   {
     "farm_name": "Campbellton Berry Farm",
     "region": "Central",
     "products": [
-      "Fruit", 
-      "Berries", 
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Eggs", 
-      "Honey/Honey Products", 
-      "Herbs", 
-      "Frozen Products", 
-      "Jams", 
-      "Pickles", 
-      "Fermented Products", 
-      "U-Pick", 
-      "Picnics", 
-      "Petting Farm", 
-      "Beef", 
-      "Lamb"
+      {
+        "name": "Fruit",
+        "item": [
+          {"name": "Berries", "price": 4.00, "unit_size": "per pint"},
+          {"name": "Tree Fruit", "price": 2.00, "unit_size": "per piece"}
+        ]
+      },
+      {
+        "name": "Berries",
+        "item": [
+          {"name": "Blueberries", "price": 4.00, "unit_size": "per pint"},
+          {"name": "Strawberries", "price": 4.00, "unit_size": "per pint"}
+        ]
+      }
     ]
   },
   {
-    "farm_name": "Central U-Pick",
-    "region": "Central",
-    "products": ["Berries", "Fruit"]
-  },
-  {
-    "farm_name": "Central Vegetable Products Ltd.",
-    "region": "Central",
-    "products": ["Field Vegetables"]
-  },
-  {
-    "farm_name": "Chaulk’s Heritage Farm",
-    "region": "Central",
-    "products": ["Turkey"]
-  },
-  {
-    "farm_name": "Clay Oates Landscaping and Construction Limited",
-    "region": "Avalon",
-    "products": ["Turf Sod"]
-  },
-  {
-    "farm_name": "Cole’s Farm",
-    "region": "Central",
-    "products": ["Field Vegetables", "Greenhouse Vegetables", "Eggs", "Honey/Honey Products"]
-  },
-  {
-    "farm_name": "Crooked Branch Apple Orchard",
-    "region": "Eastern",
-    "products": ["Fruit", "Apples"]
-  },
-  {
-    "farm_name": "Crow Brook Orchard",
-    "region": "Western and Labrador",
-    "products": ["Field Vegetables", "Greenhouse Vegetables", "Herbs"]
-  },
-  {
-    "farm_name": "D & D Farm",
-    "region": "Western and Labrador",
-    "products": ["Lamb"]
-  },
-  {
-    "farm_name": "D4ace Farm",
-    "region": "Western and Labrador",
-    "products": ["Berries", "Field Vegetables", "Greenhouse Vegetables", "Flowers", "Herbs"]
-  },
-  {
-    "farm_name": "Dennis Farms",
-    "region": "Western and Labrador",
-    "products": ["Field Vegetables", "Beef", "Pork", "Lamb", "Sausage", "Patties"]
-  },
-  {
-    "farm_name": "Double D Farm",
-    "region": "Eastern",
-    "products": ["Field Vegetables"]
-  },
-  {
-    "farm_name": "Double Diamond Farm",
-    "region": "Avalon",
-    "products": ["Lamb", "Wool"]
-  },
-  {
-    "farm_name": "Eastport Organics",
+    "farm_name": "Campbellton Farm Ltd.",
     "region": "Central",
     "products": [
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Eggs", 
-      "Herbs", 
-      "Seeds", 
-      "Transplants", 
-      "Consulting", 
-      "Volunteer Host", 
-      "Organic (non-certified)"
+      {
+        "name": "Fruit",
+        "item": [
+          {"name": "Berries", "price": 4.00, "unit_size": "per pint"},
+          {"name": "Tree Fruit", "price": 2.00, "unit_size": "per piece"}
+        ]
+      }
     ]
   },
   {
-    "farm_name": "Eastwind Farms",
-    "region": "Central",
-    "products": []
-  },
-  {
-    "farm_name": "Exploits Meadow Farms",
-    "region": "Central",
-    "products": ["Honey/Honey Products", "Sheep and Alpaca Fibre", "Lamb", "Pollination Services", "Purina Feed Supplier"]
-  },
-  {
-    "farm_name": "Fahey Farm/ Baynoddy Knitwear, Spinning and Weaving",
+    "farm_name": "Country Ribbon Inc.",
     "region": "Avalon",
     "products": [
-      "Fibre", 
-      "Handspun Yarn", 
-      "Knitted and Handwoven Sweaters", 
-      "Shawl", 
-      "Llamas", 
-      "Angora Goats"
+      {
+        "name": "Chicken",
+        "item": [
+          {"name": "Chicken Meat", "price": 5.00, "unit_size": "per pound"},
+          {"name": "Chicken Eggs", "price": 3.00, "unit_size": "per dozen"}
+        ]
+      }
     ]
   },
   {
-    "farm_name": "Festive Farmer (a division of Russwood Claredale Farms)",
-    "region": "Eastern",
-    "products": ["Christmas Trees", "Christmas Wreaths"]
-  },
-  {
-    "farm_name": "Firehill Farms",
-    "region": "Avalon",
-    "products": ["Berries", "Field Vegetables", "Greenhouse Vegetables", "Herbs", "Value Added( preserves, jams, etc)"]
-  },
-  {
-    "farm_name": "Five Brothers Artisan Cheese",
-    "region": "Avalon",
-    "products": ["Milk/Dairy Products"]
-  },
-  {
-    "farm_name": "Gale’s Farm",
-    "region": "Western and Labrador",
-    "products": ["Berries", "Field Vegetables"]
-  },
-  {
-    "farm_name": "Garden Centre Florist and Quilt Shop",
-    "region": "Central",
-    "products": [
-      "Fruit", 
-      "Berries", 
-      "Greenhouse Vegetables", 
-      "Flowers", 
-      "Herbs", 
-      "Trees", 
-      "Perennials", 
-      "Soil", 
-      "Fertilizer", 
-      "Seeds", 
-      "Planters"
-    ]
-  },
-  {
-    "farm_name": "Garden of Eat’en",
-    "region": "Avalon",
-    "products": ["Berries", "Field Vegetables", "Splits", "Plants"]
-  },
-  {
-    "farm_name": "Gordon’s Farm",
-    "region": "Central",
-    "products": ["Field Vegetables", "Greenhouse Vegetables", "Eggs", "Jams", "Jellies", "Pickles", "Grass Fed Beef"]
-  },
-  {
-    "farm_name": "Green Farm NL",
-    "region": "Avalon",
-    "products": ["Greenhouse Vegetables", "Herbs", "Microgreens"]
-  },
-  {
-    "farm_name": "Gros Morne Farm and Market",
+    "farm_name": "Crackerjack Farms Ltd.",
     "region": "Western and Labrador",
     "products": [
-      "Berries", 
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Eggs", 
-      "Herbs", 
-      "Preserves", 
-      "Plants", 
-      "Microgreens", 
-      "Pumpkin Patch"
+      {
+        "name": "Vegetables",
+        "item": [
+          {"name": "Root Vegetables", "price": 2.00, "unit_size": "per pound"},
+          {"name": "Leafy Greens", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      },
+      {
+        "name": "Christmas Trees",
+        "item": [
+          {"name": "Holiday Trees", "price": 50.00, "unit_size": "per tree"},
+          {"name": "Fir Trees", "price": 60.00, "unit_size": "per tree"}
+        ]
+      }
     ]
   },
   {
-    "farm_name": "Growing For Life Ltd.",
+    "farm_name": "Delightful Veggies Inc.",
     "region": "Western and Labrador",
-    "products": ["Greenhouse Vegetables", "Tomato Products"]
+    "products": [
+      {
+        "name": "Berries",
+        "item": [
+          {"name": "Blueberries", "price": 4.00, "unit_size": "per pint"},
+          {"name": "Strawberries", "price": 4.00, "unit_size": "per pint"}
+        ]
+      },
+      {
+        "name": "Greenhouse Vegetables",
+        "item": [
+          {"name": "Tomatoes", "price": 3.00, "unit_size": "per pound"},
+          {"name": "Peppers", "price": 2.50, "unit_size": "per pound"}
+        ]
+      }
+    ]
   },
   {
-    "farm_name": "H&E Williams Dairy Farms Ltd.",
-    "region": "Avalon",
-    "products": ["Milk/Dairy Products"]
-  },
-  {
-    "farm_name": "Haricot Farms",
-    "region": "Avalon",
-    "products": ["Beef", "Pork", "Lamb", "Primal cuts & Secondary products(sausages, ground and meatballs)", "Chicken"]
-  },
-  {
-    "farm_name": "Hayes Farm",
-    "region": "Avalon",
-    "products": ["Lamb"]
-  },
-  {
-    "farm_name": "Henson’s Farm",
-    "region": "Western and Labrador",
-    "products": ["Field Vegetables", "Herbs"]
-  },
-  {
-    "farm_name": "Heritage Farm",
-    "region": "Avalon",
-    "products": ["Eggs", "Wool", "Lamb", "Turkey"]
-  },
-  {
-    "farm_name": "Hickey’s Greenhouses and Nursery Ltd.",
-    "region": "Avalon",
-    "products": ["Greenhouse Vegetables", "Flowers", "Soil", "Fertilizer", "Baskets", "Planters", "Compost", "Mulch"]
-  },
-  {
-    "farm_name": "Hillview Farms",
-    "region": "Eastern",
-    "products": ["Field Vegetables"]
-  },
-  {
-    "farm_name": "Howell’s Farm and Market",
-    "region": "Western and Labrador",
-    "products": ["Field Vegetables", "Greenhouse Vegetables", "Eggs", "Herbs", "Value Added( preserves, jams, etc)"]
-  },
-  {
-    "farm_name": "Humber Valley Sod Farm",
-    "region": "Western and Labrador",
-    "products": ["Nursery Sod"]
-  },
-  {
-    "farm_name": "J&C Sod Farm",
-    "region": "Avalon",
-    "products": ["Soil", "Turf Grass"]
-  },
-  {
-    "farm_name": "JAR Farm",
-    "region": "Avalon",
-    "products": ["Fruit", "Berries", "Field Vegetables"]
-  },
-  {
-    "farm_name": "Juanita Burt",
-    "region": "Avalon",
-    "products": ["Field Vegetables", "Hay"]
-  },
-  {
-    "farm_name": "Judy and Harry Coates",
-    "region": "Western and Labrador",
-    "products": ["Berries", "Field Vegetables", "Greenhouse Vegetables", "Preserves", "Pickles", "Jams"]
-  },
-  {
-    "farm_name": "Kennedy Farm Inc.",
-    "region": "Avalon",
-    "products": ["Turkey"]
-  },
-  {
-    "farm_name": "Kennedy’s Produce",
-    "region": "Avalon",
-    "products": ["Field Vegetables"]
-  },
-  {
-    "farm_name": "L A Farms Inc.",
+    "farm_name": "Duncan’s Mini Farm",
     "region": "Central",
-    "products": ["Berries", "Fruit", "Field Vegetables", "Greenhouse Vegetables"]
+    "products": [
+      {
+        "name": "Goat Milk",
+        "item": [
+          {"name": "Goat Cheese", "price": 10.00, "unit_size": "per pound"},
+          {"name": "Goat Yogurt", "price": 5.00, "unit_size": "per container"}
+        ]
+      },
+      {
+        "name": "Goat Meat",
+        "item": [
+          {"name": "Goat Sausage", "price": 8.00, "unit_size": "per pound"},
+          {"name": "Goat Cuts", "price": 10.00, "unit_size": "per pound"}
+        ]
+      },
+      {
+        "name": "Pork",
+        "item": [
+          {"name": "Pork Chops", "price": 6.00, "unit_size": "per pound"},
+          {"name": "Bacon", "price": 7.00, "unit_size": "per pound"}
+        ]
+      }
+    ]
   },
   {
-    "farm_name": "Larch Grove Farm Ltd.",
+    "farm_name": "Evergreen Environmental Corporation",
     "region": "Western and Labrador",
-    "products": ["Milk/Dairy Products", "Beef", "Pork"]
+    "products": [
+      {
+        "name": "Topsoil",
+        "item": [
+          {"name": "Garden Soil", "price": 50.00, "unit_size": "per cubic yard"},
+          {"name": "Potting Soil", "price": 30.00, "unit_size": "per cubic yard"}
+        ]
+      }
+    ]
+  },
+  {
+    "farm_name": "Farm Fresh (Dr. Dave Thomas)",
+    "region": "Western and Labrador",
+    "products": [
+      {
+        "name": "Root crops",
+        "item": [
+          {"name": "Root Vegetables", "price": 2.00, "unit_size": "per pound"},
+          {"name": "Carrots", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      },
+      {
+        "name": "Leafy greens",
+        "item": [
+          {"name": "Lettuce", "price": 1.50, "unit_size": "per bunch"},
+          {"name": "Spinach", "price": 2.00, "unit_size": "per bunch"}
+        ]
+      },
+      {
+        "name": "Eggs",
+        "item": [
+          {"name": "Chicken Eggs", "price": 3.00, "unit_size": "per dozen"},
+          {"name": "Duck Eggs", "price": 4.00, "unit_size": "per dozen"}
+        ]
+      },
+      {
+        "name": "Chicken",
+        "item": [
+          {"name": "Chicken Meat", "price": 5.00, "unit_size": "per pound"},
+          {"name": "Chicken Eggs", "price": 3.00, "unit_size": "per dozen"}
+        ]
+      },
+      {
+        "name": "Organic veggies",
+        "item": [
+          {"name": "Organic Carrots", "price": 2.00, "unit_size": "per bunch"},
+          {"name": "Organic Spinach", "price": 2.50, "unit_size": "per bunch"}
+        ]
+      },
+      {
+        "name": "Fresh Herbs",
+        "item": [
+          {"name": "Basil", "price": 2.00, "unit_size": "per bunch"},
+          {"name": "Mint", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      },
+      {
+        "name": "Christmas Trees",
+        "item": [
+          {"name": "Holiday Trees", "price": 50.00, "unit_size": "per tree"},
+          {"name": "Fir Trees", "price": 60.00, "unit_size": "per tree"}
+        ]
+
+
+      }
+    ]
+  },
+  {
+    "farm_name": "Fennel & Fir Farm",
+    "region": "Avalon",
+    "products": [
+      {
+        "name": "Vegetables",
+        "item": [
+          {"name": "Root Vegetables", "price": 2.00, "unit_size": "per pound"},
+          {"name": "Leafy Greens", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      },
+      {
+        "name": "Fresh Herbs",
+        "item": [
+          {"name": "Basil", "price": 2.00, "unit_size": "per bunch"},
+          {"name": "Mint", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      }
+    ]
+  },
+  {
+    "farm_name": "G & M Family Farm",
+    "region": "Avalon",
+    "products": [
+      {
+        "name": "Lamb",
+        "item": [
+          {"name": "Lamb Chops", "price": 12.00, "unit_size": "per pound"},
+          {"name": "Lamb Roast", "price": 10.00, "unit_size": "per pound"}
+        ]
+      },
+      {
+        "name": "Beef",
+        "item": [
+          {"name": "Beef Cuts", "price": 8.00, "unit_size": "per pound"},
+          {"name": "Beef Sausage", "price": 7.00, "unit_size": "per pound"}
+        ]
+      },
+      {
+        "name": "Chicken",
+        "item": [
+          {"name": "Chicken Meat", "price": 5.00, "unit_size": "per pound"},
+          {"name": "Chicken Eggs", "price": 3.00, "unit_size": "per dozen"}
+        ]
+      }
+    ]
+  },
+  {
+    "farm_name": "Ginsey's Family Farm",
+    "region": "Western and Labrador",
+    "products": [
+      {
+        "name": "Vegetables",
+        "item": [
+          {"name": "Root Vegetables", "price": 2.00, "unit_size": "per pound"},
+          {"name": "Leafy Greens", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      },
+      {
+        "name": "Greenhouse Vegetables",
+        "item": [
+          {"name": "Tomatoes", "price": 3.00, "unit_size": "per pound"},
+          {"name": "Peppers", "price": 2.50, "unit_size": "per pound"}
+        ]
+      },
+      {
+        "name": "Eggs",
+        "item": [
+          {"name": "Chicken Eggs", "price": 3.00, "unit_size": "per dozen"},
+          {"name": "Duck Eggs", "price": 4.00, "unit_size": "per dozen"}
+        ]
+      },
+      {
+        "name": "Poultry",
+        "item": [
+          {"name": "Chicken Meat", "price": 5.00, "unit_size": "per pound"},
+          {"name": "Turkey Meat", "price": 6.00, "unit_size": "per pound"}
+        ]
+      }
+    ]
+  },
+  {
+    "farm_name": "Hickman’s Farm",
+    "region": "Central",
+    "products": [
+      {
+        "name": "Laying Hens",
+        "item": [
+          {"name": "Hen Eggs", "price": 3.00, "unit_size": "per dozen"},
+          {"name": "Chicken Eggs", "price": 3.00, "unit_size": "per dozen"}
+        ]
+      },
+      {
+        "name": "Chicken",
+        "item": [
+          {"name": "Chicken Meat", "price": 5.00, "unit_size": "per pound"},
+          {"name": "Chicken Eggs", "price": 3.00, "unit_size": "per dozen"}
+        ]
+      }
+    ]
+  },
+  {
+    "farm_name": "Hinchey's Farm and Market",
+    "region": "Western and Labrador",
+    "products": [
+      {
+        "name": "Vegetables",
+        "item": [
+          {"name": "Root Vegetables", "price": 2.00, "unit_size": "per pound"},
+          {"name": "Leafy Greens", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      },
+      {
+        "name": "Fruit",
+        "item": [
+          {"name": "Berries", "price": 4.00, "unit_size": "per pint"},
+          {"name": "Tree Fruit", "price": 2.00, "unit_size": "per piece"}
+        ]
+      },
+      {
+        "name": "Jams",
+        "item": [
+          {"name": "Fruit Jams", "price": 5.00, "unit_size": "per jar"},
+          {"name": "Preserves", "price": 6.00, "unit_size": "per jar"}
+        ]
+      },
+      {
+        "name": "Herbs",
+        "item": [
+          {"name": "Basil", "price": 2.00, "unit_size": "per bunch"},
+          {"name": "Mint", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      },
+      {
+        "name": "Flowers",
+        "item": [
+          {"name": "Blooming Plants", "price": 5.00, "unit_size": "per plant"},
+          {"name": "Annuals", "price": 3.00, "unit_size": "per plant"}
+        ]
+      }
+    ]
+  },
+  {
+    "farm_name": "Indian Bay Frozen Foods",
+    "region": "Central",
+    "products": [
+      {
+        "name": "Sea Cucumber",
+        "item": [
+          {"name": "Dried Sea Cucumber", "price": 30.00, "unit_size": "per pound"},
+          {"name": "Frozen Sea Cucumber", "price": 25.00, "unit_size": "per pound"}
+        ]
+      }
+    ]
+  },
+  {
+    "farm_name": "Islander Ravioli",
+    "region": "Avalon",
+    "products": [
+      {
+        "name": "Fresh Pasta",
+        "item": [
+          {"name": "Ravioli", "price": 10.00, "unit_size": "per pound"},
+          {"name": "Tortellini", "price": 8.00, "unit_size": "per pound"}
+        ]
+      },
+      {
+        "name": "Pasta Sauces",
+        "item": [
+          {"name": "Tomato Sauce", "price": 5.00, "unit_size": "per jar"},
+          {"name": "Alfredo Sauce", "price": 6.00, "unit_size": "per jar"}
+        ]
+      }
+    ]
+  },
+  {
+    "farm_name": "J&J farms",
+    "region": "Central",
+    "products": [
+      {
+        "name": "Chicken",
+        "item": [
+          {"name": "Chicken Meat", "price": 5.00, "unit_size": "per pound"},
+          {"name": "Chicken Eggs", "price": 3.00, "unit_size": "per dozen"}
+        ]
+      },
+      {
+        "name": "Eggs",
+        "item": [
+          {"name": "Chicken Eggs", "price": 3.00, "unit_size": "per dozen"},
+          {"name": "Duck Eggs", "price": 4.00, "unit_size": "per dozen"}
+        ]
+      },
+      {
+        "name": "Potatoes",
+        "item": [
+          {"name": "Russet Potatoes", "price": 2.00, "unit_size": "per pound"},
+          {"name": "Red Potatoes", "price": 2.50, "unit_size": "per pound"}
+        ]
+      }
+    ]
+  },
+  {
+    "farm_name": "J. J. Bailey Holdings Ltd.",
+    "region": "Central",
+    "products": [
+      {
+        "name": "Greenhouse Vegetables",
+        "item": [
+          {"name": "Tomatoes", "price": 3.00, "unit_size": "per pound"},
+          {"name": "Peppers", "price": 2.50, "unit_size": "per pound"}
+        ]
+      },
+      {
+        "name": "Nursery",
+        "item": [
+          {"name": "Plant Nursery", "price": 30.00, "unit_size": "per visit"},
+          {"name": "Seedlings", "price": 1.00, "unit_size": "per seedling"}
+        ]
+      }
+    ]
+  },
+  {
+    "farm_name": "James Newhook & Sons Limited",
+    "region": "Avalon",
+    "products": [
+      {
+        "name": "Fertilizer",
+        "item": [
+          {"name": "Compost", "price": 20.00, "unit_size": "per bag"},
+          {"name": "Plant Food", "price": 15.00, "unit_size": "per bag"}
+        ]
+      }
+    ]
+  },
+  {
+    "farm_name": "Jemmanimals Homestead",
+    "region": "Avalon",
+   
+
+ "products": [
+      {
+        "name": "Quail Eggs",
+        "item": [
+          {"name": "Quail Meat", "price": 10.00, "unit_size": "per pound"},
+          {"name": "Quail Chicks", "price": 5.00, "unit_size": "per chick"}
+        ]
+      },
+      {
+        "name": "Duck Eggs",
+        "item": [
+          {"name": "Duck Meat", "price": 8.00, "unit_size": "per pound"},
+          {"name": "Ducklings", "price": 5.00, "unit_size": "per duckling"}
+        ]
+      }
+    ]
+  },
+  {
+    "farm_name": "Jiggs and Reels Breaktime",
+    "region": "Western and Labrador",
+    "products": [
+      {
+        "name": "Root crops",
+        "item": [
+          {"name": "Root Vegetables", "price": 2.00, "unit_size": "per pound"},
+          {"name": "Carrots", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      },
+      {
+        "name": "Eggs",
+        "item": [
+          {"name": "Chicken Eggs", "price": 3.00, "unit_size": "per dozen"},
+          {"name": "Duck Eggs", "price": 4.00, "unit_size": "per dozen"}
+        ]
+      },
+      {
+        "name": "Jams",
+        "item": [
+          {"name": "Fruit Jams", "price": 5.00, "unit_size": "per jar"},
+          {"name": "Preserves", "price": 6.00, "unit_size": "per jar"}
+        ]
+      }
+    ]
+  },
+  {
+    "farm_name": "Jomar Farms Limited",
+    "region": "Western and Labrador",
+    "products": [
+      {
+        "name": "Root crops",
+        "item": [
+          {"name": "Root Vegetables", "price": 2.00, "unit_size": "per pound"},
+          {"name": "Carrots", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      },
+      {
+        "name": "Leafy greens",
+        "item": [
+          {"name": "Lettuce", "price": 1.50, "unit_size": "per bunch"},
+          {"name": "Spinach", "price": 2.00, "unit_size": "per bunch"}
+        ]
+      }
+    ]
+  },
+  {
+    "farm_name": "Kelli's Veggies and More",
+    "region": "Western and Labrador",
+    "products": [
+      {
+        "name": "Vegetables",
+        "item": [
+          {"name": "Root Vegetables", "price": 2.00, "unit_size": "per pound"},
+          {"name": "Leafy Greens", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      },
+      {
+        "name": "Value Added",
+        "item": [
+          {"name": "Jams", "price": 5.00, "unit_size": "per jar"},
+          {"name": "Preserves", "price": 6.00, "unit_size": "per jar"}
+        ]
+      }
+    ]
+  },
+  {
+    "farm_name": "Krooked As The Craw Flies",
+    "region": "Western and Labrador",
+    "products": [
+      {
+        "name": "Field Vegetables",
+        "item": [
+          {"name": "Root Vegetables", "price": 2.00, "unit_size": "per pound"},
+          {"name": "Leafy Greens", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      }
+    ]
   },
   {
     "farm_name": "Lester’s Farm Chalet",
     "region": "Avalon",
     "products": [
-      "Fruit", 
-      "Berries", 
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Eggs", 
-      "Flowers", 
-      "Honey/Honey Products", 
-      "Herbs", 
-      "Milk/Dairy Products", 
-      "Value-Added", 
-      "Beef", 
-      "Pork", 
-      "Lamb", 
-      "Turkey", 
-      "Chicken", 
-      "Tilapia"
+      {
+        "name": "Vegetables",
+        "item": [
+          {"name": "Root Vegetables", "price": 2.00, "unit_size": "per pound"},
+          {"name": "Leafy Greens", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      },
+      {
+        "name": "Berries",
+        "item": [
+          {"name": "Blueberries", "price": 4.00, "unit_size": "per pint"},
+          {"name": "Strawberries", "price": 4.00, "unit_size": "per pint"}
+        ]
+      },
+      {
+        "name": "Flowers",
+        "item": [
+          {"name": "Annuals", "price": 3.00, "unit_size": "per plant"},
+          {"name": "Perennials", "price": 10.00, "unit_size": "per plant"}
+        ]
+      },
+      {
+        "name": "Pumpkins",
+        "item": [
+          {"name": "Field Pumpkins", "price": 5.00, "unit_size": "per pumpkin"},
+          {"name": "Sugar Pumpkins", "price": 4.00, "unit_size": "per pumpkin"}
+        ]
+      }
     ]
   },
   {
-    "farm_name": "Lester’s Farm Market",
-    "region": "Avalon",
+    "farm_name": "Marble Mountain Farm",
+    "region": "Western and Labrador",
     "products": [
-      "Fruit", 
-      "Berries", 
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Eggs", 
-      "Flowers", 
-      "Honey/Honey Products", 
-      "Herbs", 
-      "Milk/Dairy Products", 
-      "Lamb", 
-      "Harvest Hut (food truck)", 
-      "Bottled Items", 
-      "Bakery", 
-      "Petting Barn", 
-      "Classes", 
-      "Seasonal Activities", 
-      "Childrens Programs", 
-      "Agritourism"
+      {
+        "name": "Berries",
+        "item": [
+          {"name": "Blueberries", "price": 4.00, "unit_size": "per pint"},
+          {"name": "Strawberries", "price": 4.00, "unit_size": "per pint"}
+        ]
+      },
+      {
+        "name": "Field Vegetables",
+        "item": [
+          {"name": "Root Vegetables", "price": 2.00, "unit_size": "per pound"},
+          {"name": "Leafy Greens", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      },
+      {
+        "name": "Nursery",
+        "item": [
+          {"name": "Plant Nursery", "price": 30.00, "unit_size": "per visit"},
+          {"name": "Seedlings", "price": 1.00, "unit_size": "per seedling"}
+        ]
+      }
     ]
   },
   {
-    "farm_name": "Living Water Indoor Farm",
-    "region": "Central",
-    "products": ["Greenhouse Vegetables"]
-  },
-  {
-    "farm_name": "Lomond Farms Ltd.",
-    "region": "Western and Labrador",
-    "products": ["Cranberries"]
-  },
-  {
-    "farm_name": "Lone Pine Farm",
-    "region": "Central",
-    "products": ["Field Vegetables", "Hay"]
-  },
-  {
-    "farm_name": "Long Range Poultry Farm",
-    "region": "Western and Labrador",
-    "products": ["Eggs"]
-  },
-  {
-    "farm_name": "M & J Farms",
-    "region": "Western and Labrador",
-    "products": ["Beef", "Lamb"]
-  },
-  {
-    "farm_name": "M & M Farming Company Ltd.",
-    "region": "Western and Labrador",
-    "products": ["Field Vegetables", "Greenhouse Vegetables", "Frozen French Fries", "Pre-Peeled Potatoes", "Hay"]
-  },
-  {
-    "farm_name": "Mark’s Market",
-    "region": "Central",
-    "products": [
-      "Fruit", 
-      "Berries", 
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Jams", 
-      "Jellies", 
-      "Pickles", 
-      "Herbs"
-    ]
-  },
-  {
-    "farm_name": "Mayo’s Farm",
-    "region": "Eastern",
-    "products": ["Field Vegetables", "Greenhouse Vegetables", "Value Added( preserves, jams, etc)"]
-  },
-  {
-    "farm_name": "Miao’s Green Farm Inc.",
-    "region": "Avalon",
-    "products": ["Field Vegetables", "Greenhouse Vegetables", "Sod"]
-  },
-  {
-    "farm_name": "Miao’s Green Farm Inc.",
-    "region": "Avalon",
-    "products": ["Field Vegetables"]
-  },
-  {
-    "farm_name": "Miao’s Sod Farm Inc.",
-    "region": "Avalon",
-    "products": ["Field Vegetables", "Sod"]
-  },
-  {
-    "farm_name": "Miao’s Sod Farm Inc.",
-    "region": "Avalon",
-    "products": ["Sod"]
-  },
-  {
-    "farm_name": "Mike’s Farm",
+    "farm_name": "Nature’s Finest Produce",
     "region": "Western and Labrador",
     "products": [
-      "Berries", 
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Flowers", 
-      "Herbs", 
-      "Eggs"
-    ]
-  },
-  {
-    "farm_name": "Mountain View Farm",
-    "region": "Central",
-    "products": ["Field Vegetables"]
-  },
-  {
-    "farm_name": "Murphy’s Sod Farm",
-    "region": "Avalon",
-    "products": ["Sod"]
-  },
-  {
-    "farm_name": "N&N Farm Limited",
-    "region": "Western and Labrador",
-    "products": ["Milk/Dairy Products"]
-  },
-  {
-    "farm_name": "N. Fagan Meats",
-    "region": "Avalon",
-    "products": ["Field Vegetables", "Herbs", "Beef", "Pork", "Lamb", "Turkey", "Chicken"]
-  },
-  {
-    "farm_name": "Nature’s Best Farm",
-    "region": "Western and Labrador",
-    "products": ["Field Vegetables"]
-  },
-  {
-    "farm_name": "Newfoundland Gardens",
-    "region": "Avalon",
-    "products": [
-      "Fruit", 
-      "Berries", 
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Honey/Honey Products", 
-      "Herbs", 
-      "Microgreens"
-    ]
-  },
-  {
-    "farm_name": "Northern Naturals",
-    "region": "Western and Labrador",
-    "products": [
-      "Berries", 
-      "Eggs", 
-      "Field Vegetables", 
-      "Value Added( preserves, jams, etc)", 
-      "Live Chickens", 
-      "Live Ducks"
-    ]
-  },
-  {
-    "farm_name": "Nuthatch Nursery",
-    "region": "Eastern",
-    "products": ["Berries", "Greenhouse Vegetables", "Flowers"]
-  },
-  {
-    "farm_name": "Olivers Farm",
-    "region": "Avalon",
-    "products": [
-      "Berries", 
-      "Field Vegetables", 
-      "Eggs", 
-      "Honey/Honey Products", 
-      "Beef", 
-      "Pork", 
-      "Lamb", 
-      "Turkey", 
-      "Chicken"
-    ]
-  },
-  {
-    "farm_name": "Omiachi Meat Shop",
-    "region": "Avalon",
-    "products": ["Beef", "Pork", "Lamb", "Chicken"]
-  },
-  {
-    "farm_name": "Organic Farm",
-    "region": "Avalon",
-    "products": [
-      "Fruit", 
-      "Berries", 
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Flowers", 
-      "Herbs", 
-      "Winter Greens", 
-      "Shoots and Micro-Greens"
+      {
+        "name": "Root crops",
+        "item": [
+          {"name": "Root Vegetables", "price": 2.00, "unit_size": "per pound"},
+          {"name": "Carrots", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      },
+      {
+        "name": "Eggs",
+        "item": [
+          {"name": "Chicken Eggs", "price": 3.00, "unit_size": "per dozen"},
+          {"name": "Duck Eggs", "price": 4.00, "unit_size": "per dozen"}
+        ]
+      },
+      {
+        "name": "Jams",
+        "item": [
+          {"name": "Fruit Jams", "price": 5.00, "unit_size": "per jar"},
+          {"name": "Preserves", "price": 6.00, "unit_size": "per jar"}
+        ]
+      }
     ]
   },
   {
     "farm_name": "Outport Acres",
-    "region": "Central",
-    "products": ["Field Vegetables", "Greenhouse Vegetables", "Herbs", "Microgreens"]
+    "region": "Western and Labrador",
+    "products": [
+      {
+        "name": "Field Vegetables",
+        "item": [
+          {"name": "Root Vegetables", "price": 2.00, "unit_size": "per pound"},
+          {"name": "Leafy Greens", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      }
+    ]
   },
   {
-    "farm_name": "O’Neill’s Gardenland",
+    "farm_name": "Partridgeberry Acres",
+    "region": "Western and Labrador",
+    "products": [
+      {
+        "name": "Berries",
+        "item": [
+          {"name": "Partridgeberries", "price": 5.00, "unit_size": "per pint"},
+          {"name": "Blueberries", "price": 4.00, "unit_size": "per pint"}
+        ]
+      },
+      {
+        "name": "Greenhouse Vegetables",
+        "item": [
+          {"name": "Tomatoes", "price": 3.00, "unit_size": "per pound"},
+          {"name": "Peppers", "price": 2.50, "unit_size": "per pound"}
+        ]
+      }
+    ]
+  },
+  {
+    "farm_name": "Peace Garden Ltd.",
     "region": "Avalon",
     "products": [
-      "Fruit", 
-      "Berries", 
-      "Greenhouse Vegetables", 
-      "Flowers", 
-      "Herbs", 
-      "Floral Arrangments", 
-      "Custom Plantings", 
-      "Landscaping", 
-      "Nursery", 
-      "Gardening Related Needs and Gifts"
+      {
+        "name": "Herbs",
+        "item": [
+          {"name": "Basil", "price": 2.00, "unit_size": "per bunch"},
+          {"name": "Mint", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      },
+      {
+        "name": "Vegetables",
+        "item": [
+          {"name": "Root Vegetables", "price": 2.00, "unit_size": "per pound"},
+          {"name": "Leafy Greens", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      }
     ]
   },
   {
-    "farm_name": "Paradise Farms Inc.",
-    "region": "Avalon",
-    "products": ["Honey", "Beeswax candles", "Body care products from beehive"]
-  },
-  {
-    "farm_name": "Parsons’ Farms",
-    "region": "Eastern",
-    "products": ["Berries"]
-  },
-  {
-    "farm_name": "Pinedale Farms",
-    "region": "Eastern",
-    "products": ["Sod"]
-  },
-  {
-    "farm_name": "Pye Centre for Northern Boreal Food Systems",
-    "region": "Western and Labrador",
-    "products": ["Fruit", "Berries", "Field Vegetables", "Greenhouse Vegetables"]
-  },
-  {
-    "farm_name": "Quinlan Farms",
-    "region": "Central",
-    "products": [
-      "Fruit", 
-      "Berries", 
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Jams", 
-      "Jellies"
-    ]
-  },
-  {
-    "farm_name": "Recon Development Inc.",
-    "region": "Central",
-    "products": ["Berries"]
-  },
-  {
-    "farm_name": "Rideout’s Dairy Inc.",
-    "region": "Western and Labrador",
-    "products": ["Milk/Dairy Products"]
-  },
-  {
-    "farm_name": "Rideout’s Farm Inc.",
-    "region": "Western and Labrador",
-    "products": [
-      "Field Vegetables", 
-      "Pickles", 
-      "Jams", 
-      "Jellies", 
-      "Baked Goods", 
-      "Knitted Goods", 
-      "Homemade Crafts", 
-      "Preserves"
-    ]
-  },
-  {
-    "farm_name": "Ridgeway Farms",
-    "region": "Avalon",
-    "products": ["Field Vegetables", "Hay"]
-  },
-  {
-    "farm_name": "Ripple Trail Farm Ltd.",
-    "region": "Avalon",
-    "products": [
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Flowers", 
-      "Herbs", 
-      "Value-Added", 
-      "Vegetable Plants"
-    ]
-  },
-  {
-    "farm_name": "Riverside Farms",
-    "region": "Western and Labrador",
-    "products": ["Field Vegetables", "Greenhouse Vegetables", "Herbs"]
-  },
-  {
-    "farm_name": "Robbins Family Farm & Gardens",
-    "region": "Western and Labrador",
-    "products": [
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Flowers", 
-      "Herbs", 
-      "Beef", 
-      "Pork", 
-      "Lamb", 
-      "Turkey"
-    ]
-  },
-  {
-    "farm_name": "Rocks to Riches Farm",
-    "region": "Avalon",
-    "products": [
-      "Field Vegetables", 
-      "Herbs", 
-      "Greenhouse Vegetables", 
-      "Chicken", 
-      "Eggs"
-    ]
-  },
-  {
-    "farm_name": "Rocky River Farms NL",
-    "region": "Western and Labrador",
-    "products": ["Berries", "Field Vegetables"]
-  },
-  {
-    "farm_name": "Rolling Acres Farm",
-    "region": "Central",
-    "products": ["Field Vegetables"]
-  },
-  {
-    "farm_name": "Romain’s Farm",
-    "region": "Western and Labrador",
-    "products": ["Field Vegetables", "Forage"]
-  },
-  {
-    "farm_name": "Roots Farm",
-    "region": "Avalon",
-    "products": [
-      "Berries", 
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Eggs", 
-      "Herbs", 
-      "Value Added( preserves, jams, etc)"
-    ]
-  },
-  {
-    "farm_name": "Shell-Ex",
-    "region": "Central",
-    "products": [
-      "Pasteurized Kelp and Shell Powders for Feed and Fertilizers", 
-      "Seed Starters", 
-      "Fish Hyrdolysate 'liquid fish' Fertilizer"
-    ]
-  },
-  {
-    "farm_name": "Spring Meadow Farm",
-    "region": "Central",
-    "products": [
-      "Eggs", 
-      "Honey/Honey Products", 
-      "Beef", 
-      "Pork", 
-      "Lamb", 
-      "Turkey", 
-      "Chicken"
-    ]
-  },
-  {
-    "farm_name": "Spruce Grove Farm",
-    "region": "Western and Labrador",
-    "products": [
-      "Beef", 
-      "Lamb", 
-      "Secondary processed beef and lamb products", 
-      "Registered Purebred North Country Cheviot", 
-      "Hereford cattle stock for resale"
-    ]
-  },
-  {
-    "farm_name": "Spruce Meadow Farms Ltd.",
-    "region": "Western and Labrador",
-    "products": [
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Flowers", 
-      "Herbs"
-    ]
-  },
-  {
-    "farm_name": "Stoney Ridge Farm",
-    "region": "Avalon",
-    "products": ["Eggs", "Turkey"]
-  },
-  {
-    "farm_name": "Sunrise Dairy Ltd.",
-    "region": "Eastern",
-    "products": ["Milk/Dairy Products"]
-  },
-  {
-    "farm_name": "Sweet Berry Farms Ltd.",
-    "region": "Western and Labrador",
-    "products": [
-      "Berries", 
-      "Field Vegetables", 
-      "Eggs", 
-      "Jams", 
-      "Pickles", 
-      "Jellies", 
-      "Beef", 
-      "Lamb"
-    ]
-  },
-  {
-    "farm_name": "Taiga Valley Farms",
-    "region": "Western and Labrador",
-    "products": [
-      "Fruit", 
-      "Berries", 
-      "Field Vegetables", 
-      "Eggs", 
-      "Flowers", 
-      "Herbs", 
-      "Pork"
-    ]
-  },
-  {
-    "farm_name": "Terra Nova Farms",
-    "region": "Eastern",
-    "products": [
-      "Berries", 
-      "Field Vegetables", 
-      "Value-Added"
-    ]
-  },
-  {
-    "farm_name": "The Foxtrap Access Road Market (F.A.R.M)",
-    "region": "Avalon",
-    "products": [
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Herbs", 
-      "Value-Added"
-    ]
-  },
-  {
-    "farm_name": "The Natural Gardener Inc.",
-    "region": "Avalon",
-    "products": [
-      "Fruit", 
-      "Berries", 
-      "Field Vegetables", 
-      "Plant Booster Liquid Concentrate", 
-      "Kelp Based Soil Conditioners"
-    ]
-  },
-  {
-    "farm_name": "The Settlement NL (Upper Humber Settlement)",
-    "region": "Western and Labrador",
-    "products": [
-      "Fruit", 
-      "Berries", 
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Eggs", 
-      "Herbs", 
-      "Permaculture Farm Tours", 
-      "Farm and Forage Culinary Experience", 
-      "Farm to Table Storytelling Dinners"
-    ]
-  },
-  {
-    "farm_name": "Thistle’s Limited",
-    "region": "Western and Labrador",
-    "products": [
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Flowers", 
-      "Herbs"
-    ]
-  },
-  {
-    "farm_name": "Three Mile Ridge",
-    "region": "Eastern",
-    "products": [
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Honey/Honey Products", 
-      "Herbs", 
-      "Milk/Dairy Products", 
-      "Preserves", 
-      "Beef"
-    ]
-  },
-  {
-    "farm_name": "Triple E Farms Ltd.",
+    "farm_name": "Pristine Valley Herb Farm",
    
 
  "region": "Western and Labrador",
     "products": [
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Jams", 
-      "Jellies", 
-      "Pickles", 
-      "Herbs", 
-      "Value-Added"
+      {
+        "name": "Fresh Herbs",
+        "item": [
+          {"name": "Basil", "price": 2.00, "unit_size": "per bunch"},
+          {"name": "Mint", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      },
+      {
+        "name": "Dried Herbs",
+        "item": [
+          {"name": "Dried Basil", "price": 5.00, "unit_size": "per jar"},
+          {"name": "Dried Mint", "price": 4.00, "unit_size": "per jar"}
+        ]
+      }
     ]
   },
   {
-    "farm_name": "Tuck’s Bee Better Farm",
-    "region": "Western and Labrador",
-    "products": [
-      "Fruit", 
-      "Berries", 
-      "Greenhouse Vegetables", 
-      "Honey/Honey Products", 
-      "Herbs", 
-      "Microgreens"
-    ]
-  },
-  {
-    "farm_name": "Twisted Whiskers Homestead",
-    "region": "Western and Labrador",
-    "products": [
-      "Berries", 
-      "Eggs", 
-      "Field Vegetables", 
-      "Honey/Honey Products", 
-      "Herbs", 
-      "Microgreens", 
-      "Wool", 
-      "Beef", 
-      "Lamb", 
-      "Chicken", 
-      "Rabbit"
-    ]
-  },
-  {
-    "farm_name": "Two Maple Farms Ltd.",
+    "farm_name": "Red Island Farm",
     "region": "Central",
     "products": [
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Beef", 
-      "Pork", 
-      "Lamb"
+      {
+        "name": "Berries",
+        "item": [
+          {"name": "Blueberries", "price": 4.00, "unit_size": "per pint"},
+          {"name": "Strawberries", "price": 4.00, "unit_size": "per pint"}
+        ]
+      },
+      {
+        "name": "Fresh Herbs",
+        "item": [
+          {"name": "Basil", "price": 2.00, "unit_size": "per bunch"},
+          {"name": "Mint", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      }
     ]
   },
   {
-    "farm_name": "Valley Brook Farms",
-    "region": "Western and Labrador",
-    "products": ["Field Vegetables", "Greenhouse Vegetables", "Herbs"]
-  },
-  {
-    "farm_name": "Victory Gardens",
-    "region": "Western and Labrador",
-    "products": ["Berries", "Field Vegetables", "Greenhouse Vegetables"]
-  },
-  {
-    "farm_name": "WBP Holdings Ltd.",
-    "region": "Western and Labrador",
-    "products": ["Berries", "Field Vegetables"]
-  },
-  {
-    "farm_name": "Wells & Sons Farm",
-    "region": "Western and Labrador",
-    "products": ["Field Vegetables", "Hay"]
-  },
-  {
-    "farm_name": "Western Agriculture Centre",
-    "region": "Western and Labrador",
-    "products": ["Fruit", "Berries", "Field Vegetables"]
-  },
-  {
-    "farm_name": "Western Farm & Market",
-    "region": "Western and Labrador",
-    "products": ["Berries", "Field Vegetables"]
-  },
-  {
-    "farm_name": "Wild Cove Produce",
+    "farm_name": "Rolling Hills Pastures",
     "region": "Central",
     "products": [
-      "Fruit", 
-      "Berries", 
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Jams", 
-      "Jellies", 
-      "Pickles"
+      {
+        "name": "Lamb",
+        "item": [
+          {"name": "Lamb Chops", "price": 12.00, "unit_size": "per pound"},
+          {"name": "Lamb Roast", "price": 10.00, "unit_size": "per pound"}
+        ]
+      },
+      {
+        "name": "Beef",
+        "item": [
+          {"name": "Beef Cuts", "price": 8.00, "unit_size": "per pound"},
+          {"name": "Beef Sausage", "price": 7.00, "unit_size": "per pound"}
+        ]
+      }
     ]
   },
   {
-    "farm_name": "Wild Island Farm",
+    "farm_name": "Rosie’s Regenerations",
+    "region": "Western and Labrador",
+    "products": [
+      {
+        "name": "Flowers",
+        "item": [
+          {"name": "Annuals", "price": 3.00, "unit_size": "per plant"},
+          {"name": "Perennials", "price": 10.00, "unit_size": "per plant"}
+        ]
+      },
+      {
+        "name": "Herbs",
+        "item": [
+          {"name": "Basil", "price": 2.00, "unit_size": "per bunch"},
+          {"name": "Mint", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      }
+    ]
+  },
+  {
+    "farm_name": "Saltwater Hills",
+    "region": "Western and Labrador",
+    "products": [
+      {
+        "name": "Lamb",
+        "item": [
+          {"name": "Lamb Chops", "price": 12.00, "unit_size": "per pound"},
+          {"name": "Lamb Roast", "price": 10.00, "unit_size": "per pound"}
+        ]
+      },
+      {
+        "name": "Beef",
+        "item": [
+          {"name": "Beef Cuts", "price": 8.00, "unit_size": "per pound"},
+          {"name": "Beef Sausage", "price": 7.00, "unit_size": "per pound"}
+        ]
+      }
+    ]
+  },
+  {
+    "farm_name": "Smith's Blueberries",
+    "region": "Central",
+    "products": [
+      {
+        "name": "Berries",
+        "item": [
+          {"name": "Blueberries", "price": 4.00, "unit_size": "per pint"},
+          {"name": "Strawberries", "price": 4.00, "unit_size": "per pint"}
+        ]
+      }
+    ]
+  },
+  {
+    "farm_name": "Spring Valley Farms",
+    "region": "Central",
+    "products": [
+      {
+        "name": "Fruit",
+        "item": [
+          {"name": "Berries", "price": 4.00, "unit_size": "per pint"},
+          {"name": "Tree Fruit", "price": 2.00, "unit_size": "per piece"}
+        ]
+      },
+      {
+        "name": "Vegetables",
+        "item": [
+          {"name": "Root Vegetables", "price": 2.00, "unit_size": "per pound"},
+          {"name": "Leafy Greens", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      }
+    ]
+  },
+  {
+    "farm_name": "Sunnybank Farm",
+    "region": "Western and Labrador",
+    "products": [
+      {
+        "name": "Root crops",
+        "item": [
+          {"name": "Root Vegetables", "price": 2.00, "unit_size": "per pound"},
+          {"name": "Carrots", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      },
+      {
+        "name": "Leafy greens",
+        "item": [
+          {"name": "Lettuce", "price": 1.50, "unit_size": "per bunch"},
+          {"name": "Spinach", "price": 2.00, "unit_size": "per bunch"}
+        ]
+      }
+    ]
+  },
+  {
+    "farm_name": "The Veggie Patch",
+    "region": "Western and Labrador",
+    "products": [
+      {
+        "name": "Root crops",
+        "item": [
+          {"name": "Root Vegetables", "price": 2.00, "unit_size": "per pound"},
+          {"name": "Carrots", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      },
+      {
+        "name": "Leafy greens",
+        "item": [
+          {"name": "Lettuce", "price": 1.50, "unit_size": "per bunch"},
+          {"name": "Spinach", "price": 2.00, "unit_size": "per bunch"}
+        ]
+      },
+      {
+        "name": "Field crops",
+        "item": [
+          {"name": "Corn", "price": 3.00, "unit_size": "per dozen"},
+          {"name": "Wheat", "price": 15.00, "unit_size": "per bushel"}
+        ]
+      }
+    ]
+  },
+  {
+    "farm_name": "Topsail Turf Farm",
     "region": "Avalon",
-    "products": ["Berries", "Field Vegetables"]
+    "products": [
+      {
+        "name": "Turf",
+        "item": [
+          {"name": "Sod", "price": 4.99, "unit_size": "per square foot"},
+          {"name": "Lawn Turf", "price": 3.99, "unit_size": "per square foot"}
+        ]
+      },
+      {
+        "name": "Flowers",
+        "item": [
+          {"name": "Annuals", "price": 3.00, "unit_size": "per plant"},
+          {"name": "Perennials", "price": 10.00, "unit_size": "per plant"}
+        ]
+      }
+    ]
   },
   {
-    "farm_name": "Wildwood Farm",
+    "farm_name": "Valley Growers Ltd.",
+    "region": "Central",
+    "products": [
+      {
+        "name": "Vegetables",
+        "item": [
+          {"name": "Root Vegetables", "price": 2.00, "unit_size": "per pound"},
+          {"name": "Leafy Greens", "price": 1.50, "unit_size": "per bunch"}
+        ]
+      }
+    ]
+  },
+  {
+    "farm_name": "Wholesome Harvest",
     "region": "Western and Labrador",
-    "products": ["Berries", "Field Vegetables", "Flowers"]
+    "products": [
+      {
+        "name": "Eggs",
+        "item": [
+          {"name": "Chicken Eggs", "price": 3.00, "unit_size": "per dozen"},
+          {"name": "Duck Eggs", "price": 4.00, "unit_size": "per dozen"}
+        ]
+      },
+      {
+        "name": "Poultry",
+        "item": [
+          {"name": "Chicken Meat", "price": 5.00, "unit_size": "per pound"},
+          {"name": "Turkey Meat", "price": 6.00, "unit_size": "per pound"}
+        ]
+      },
+      {
+        "name": "Berries",
+        "item": [
+          {"name": "Blueberries", "price": 4.00, "unit_size": "per pint"},
+          {"name": "Strawberries", "price": 4.00, "unit_size": "per pint"}
+        ]
+      },
+      {
+        "name": "Greenhouse Vegetables",
+        "item": [
+          {"name": "Tomatoes", "price": 3.00, "unit_size": "per pound"},
+          {"name": "Peppers", "price": 2.50, "unit_size": "per pound"}
+        ]
+      }
+    ]
+
+
+  },
+  {
+    "farm_name": "Willowbank Farm",
+    "region": "Central",
+    "products": [
+      {
+        "name": "Goat Milk",
+        "item": [
+          {"name": "Goat Cheese", "price": 10.00, "unit_size": "per pound"},
+          {"name": "Goat Yogurt", "price": 5.00, "unit_size": "per container"}
+        ]
+      },
+      {
+        "name": "Goat Meat",
+        "item": [
+          {"name": "Goat Sausage", "price": 8.00, "unit_size": "per pound"},
+          {"name": "Goat Cuts", "price": 10.00, "unit_size": "per pound"}
+        ]
+      },
+      {
+        "name": "Pork",
+        "item": [
+          {"name": "Pork Chops", "price": 6.00, "unit_size": "per pound"},
+          {"name": "Bacon", "price": 7.00, "unit_size": "per pound"}
+        ]
+      }
+    ]
   },
   {
     "farm_name": "Windy Heights Farm",
     "region": "Avalon",
-    "products": ["Berries", "Field Vegetables", "Honey/Honey Products", "Herbs", "Microgreens"]
-  },
-  {
-    "farm_name": "Windy Heights Farm",
-    "region": "Avalon",
-    "products": ["Berries", "Field Vegetables", "Honey/Honey Products", "Herbs"]
-  },
-  {
-    "farm_name": "Winterhouse Farm",
-    "region": "Avalon",
     "products": [
-      "Field Vegetables", 
-      "Greenhouse Vegetables", 
-      "Eggs", 
-      "Milk/Dairy Products", 
-      "Beef", 
-      "Pork", 
-      "Lamb", 
-      "Chicken"
+      {
+        "name": "Berries",
+        "item": [
+          {"name": "Blueberries", "price": 4.00, "unit_size": "per pint"},
+          {"name": "Strawberries", "price": 4.00, "unit_size": "per pint"}
+        ]
+      },
+      {
+        "name": "Tree Fruit",
+        "item": [
+          {"name": "Apples", "price": 1.00, "unit_size": "per piece"},
+          {"name": "Pears", "price": 1.00, "unit_size": "per piece"}
+        ]
+      }
     ]
-  },
-  {
-    "farm_name": "Woodwynd Farm Inc.",
-    "region": "Western and Labrador",
-    "products": ["Milk/Dairy Products", "Beef", "Pork", "Lamb"]
   }
 ]
