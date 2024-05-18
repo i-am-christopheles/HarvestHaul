@@ -9,7 +9,7 @@ specifies that any user authenticated via an API key can "create", "read",
 const schema = a.schema({
     Producer: a
         .model({
-            producerid: a.string(),
+            id: a.string(),
             farm_name: a.string(),
             region: a.string(),
             address: a.string(),
@@ -20,7 +20,7 @@ const schema = a.schema({
     Products: a
         .model({
             productid: a.string(),
-            producer: a.belongsTo("Producer", "producerid"),
+            producer: a.belongsTo("Producer", "id"),
             product: a.string(),
             items: a.hasMany("Items", "itemid")
         }),
