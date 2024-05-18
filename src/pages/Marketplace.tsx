@@ -1,12 +1,12 @@
 import React from 'react';
 import NavBar from '../components/NavBar';
 
-const About: React.FC = () => {
+const Marketplace: React.FC = () => {
   return (
     <>
       <NavBar />
-      <h1>About</h1>
+      <h1>Marketplace</h1>
     </>
   );
 }
-export default About;
+export default Marketplace;

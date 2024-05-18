@@ -1,12 +1,12 @@
 import React from 'react';
 import NavBar from '../components/NavBar';
 
-const About: React.FC = () => {
+const Farmers: React.FC = () => {
   return (
     <>
       <NavBar />
-      <h1>About</h1>
+      <h1>Farmers</h1>
     </>
   );
 }
-export default About;
+export default Farmers;
