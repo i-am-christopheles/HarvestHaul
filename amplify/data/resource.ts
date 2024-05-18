@@ -16,7 +16,7 @@ const schema = a.schema({
         .model({
             name: a.string(),
             region: a.string(),
-            products: a.string()
+            products: a.string().array(),
         })
         .authorization((allow) => [allow.publicApiKey()]),
 });
