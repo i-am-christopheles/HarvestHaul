@@ -2060,9 +2060,9 @@
     {
         "farm_name": "N. Fagan Meats",
         "region": "Avalon",
-        "address": "",
-        "community": "",
-        "postalCode": "", 
+        "address": "55 Peachytown Road",
+        "community": "Conception Bay South",
+        "postalCode": "A1X 7C7", 
         "products": [
             {
                 "product": "Field Vegetables",
@@ -2174,6 +2174,8 @@
     {
         "farm_name": "Newfoundland Gardens",
         "region": "Avalon",
+        "address": "8 Dora Bessie's Lane",
+        "community": "Dildo",
         "products": [
             {
                 "product": "Fruit",
@@ -2285,6 +2287,9 @@
     {
         "farm_name": "Nuthatch Nursery",
         "region": "Eastern",
+        "address": "12 Brown's Lane",
+        "community": "Lethbridge",
+        "postalCode": "A0C 1V0", 
         "products": [
             {
                 "product": "Berries",
@@ -2336,6 +2341,7 @@
     {
         "farm_name": "Olivers Farm",
         "region": "Avalon",
+        "community": "Placentia Junction",
         "products": [
             {
                 "product": "Berries",
@@ -2479,6 +2485,9 @@
     {
         "farm_name": "Omiachi Meat Shop",
         "region": "Avalon",
+        "address": "43 Swansea Road",
+        "community": "Victoria",
+        "postalCode": "A0A 4G0", 
         "products": [
             {
                 "product": "Beef",
@@ -2545,6 +2554,9 @@
     {
         "farm_name": "Organic Farm",
         "region": "Avalon",
+        "address": "42 Churchill Rd.",
+        "community": "Portugal Cove - St. Philips",
+        "postalCode": "A1M 2P6", 
         "products": [
             {
                 "product": "Fruit",
@@ -2671,6 +2683,9 @@
     {
         "farm_name": "O’Neill’s Gardenland",
         "region": "Avalon",
+        "address": "P.O Box 160",
+        "community": "Spaniard's Bay",
+        "postalCode": "A0A 3X0", 
         "products": [
             {
                 "product": "Fruit",
@@ -2827,6 +2842,9 @@
     {
         "farm_name": "Paradise Farms Inc.",
         "region": "Avalon",
+        "address": "97 St. Thomas Line",
+        "community": "Paradise",
+        "postalCode": "A1L 2P9", 
         "products": [
             {
                 "product": "Honey",
@@ -2878,6 +2896,9 @@
     {
         "farm_name": "Parsons’ Farms",
         "region": "Eastern",
+        "address": "1 Farm Road",
+        "community": "Hillview",
+        "postalCode": "A0E 2A0", 
         "products": [
             {
                 "product": "Berries",
@@ -2899,6 +2920,7 @@
     {
         "farm_name": "Pinedale Farms",
         "region": "Eastern",
+        "community": "Terra Nova",
         "products": [
             {
                 "product": "Sod",
@@ -2920,6 +2942,7 @@
     {
         "farm_name": "Ridgeway Farms",
         "region": "Avalon",
+        "community": "Torbay",
         "products": [
             {
                 "product": "Field Vegetables",
@@ -2956,6 +2979,9 @@
     {
         "farm_name": "Ripple Trail Farm Ltd.",
         "region": "Avalon",
+        "address": "131 Main Road",
+        "community": "Markland",
+        "postalCode": "A0B 3K0", 
         "products": [
             {
                 "product": "Field Vegetables",
@@ -3052,6 +3078,8 @@
     {
         "farm_name": "Rocks to Riches Farm",
         "region": "Avalon",
+        "address": "Witch Hazel Road",
+        "community": "Portugal Cove - St. Philips",
         "products": [
             {
                 "product": "Field Vegetables",
@@ -3133,6 +3161,9 @@
     {
         "farm_name": "Roots Farm",
         "region": "Avalon",
+        "address": "P.O. Box 1088",
+        "community": "Bay Roberts",
+        "postalCode": "A0A 1G0", 
         "products": [
             {
                 "product": "Berries",
@@ -3231,6 +3262,9 @@
     {
         "farm_name": "Stoney Ridge Farm",
         "region": "Avalon",
+        "address": "170 Bennetts Road",
+        "community": "Portugal Cove - St. Philips",
+        "postalCode": "A1M 1X3", 
         "products": [
             {
                 "product": "Eggs",
@@ -3267,6 +3301,8 @@
     {
         "farm_name": "Sunrise Dairy Ltd.",
         "region": "Eastern",
+        "address": "Bunyan's Cove Road",
+        "community": "Musgravetown",
         "products": [
             {
                 "product": "Milk/Dairy Products",
@@ -3288,6 +3324,7 @@
     {
         "farm_name": "Terra Nova Farms",
         "region": "Eastern",
+        "community": "Terra Nova",
         "products": [
             {
                 "product": "Berries",
@@ -3339,6 +3376,8 @@
     {
         "farm_name": "The Foxtrap Access Road Market (F.A.R.M)",
         "region": "Avalon",
+        "address": " 242 Foxtrap Access Road",
+        "community": "Foxtrap",
         "products": [
             {
                 "product": "Field Vegetables",
@@ -3405,6 +3444,9 @@
     {
         "farm_name": "The Natural Gardener Inc.",
         "region": "Avalon",
+        "address": "8 Sunny Hill Road",
+        "community": "Ferryland",
+        "postalCode": "A0A 2H0", 
         "products": [
             {
                 "product": "Fruit",
@@ -3486,6 +3528,9 @@
     {
         "farm_name": "Three Mile Ridge",
         "region": "Eastern",
+        "address": "345 Discovery Trail",
+        "community": "Lethbridge",
+        "postalCode": "A0C 1V0", 
         "products": [
             {
                 "product": "Field Vegetables",
@@ -3597,6 +3642,9 @@
     {
         "farm_name": "Trouter’s Special Worm Farm",
         "region": "Avalon",
+        "address": "P.O Box 118",
+        "community": "Bay Bulls",
+        "postalCode": "A0A 1C0", 
         "products": [
             {
                 "product": "Worms",
@@ -3633,6 +3681,8 @@
     {
         "farm_name": "Troy Holloway",
         "region": "Eastern",
+        "address": "P.O Box 293",
+        "community": "Musgravetown",
         "products": [
             {
                 "product": "Hay",
@@ -3654,6 +3704,9 @@
     {
         "farm_name": "Tucker’s Farm",
         "region": "Avalon",
+        "address": "144 Tolt Road",
+        "community": "Portugal Cove - St. Philips",
+        "postalCode": "A1M 1R9", 
         "products": [
             {
                 "product": "Field Vegetables",
@@ -3675,6 +3728,9 @@
     {
         "farm_name": "Walsh’s Blueberry Farm",
         "region": "Avalon",
+        "address": "86 Springdale Street",
+        "community": "St. John's",
+        "postalCode": "A1C 5B6", 
         "products": [
             {
                 "product": "Blueberries",
@@ -3709,29 +3765,11 @@
         ]
     },
     {
-        "farm_name": "Walsh’s Blueberry Farms Ltd",
-        "region": "Avalon",
-        "products": [
-            {
-                "product": "Berries",
-                "items": [
-                    {
-                        "item": "Blueberries",
-                        "price": "$6.00",
-                        "unit_size": "500g"
-                    },
-                    {
-                        "item": "Strawberries",
-                        "price": "$5.00",
-                        "unit_size": "500g"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "farm_name": "Walsh’s Farm",
         "region": "Avalon",
+        "address": "323 Freshwater Road",
+        "community": "St. John's",
+        "postalCode": "A1B 2C3", 
         "products": [
             {
                 "product": "Berries",
@@ -3753,6 +3791,9 @@
     {
         "farm_name": "Windy Heights Farm",
         "region": "Avalon",
+        "address": "374 Bauline Line Extension",
+        "community": "Portugal Cove - St. Philips",
+        "postalCode": "A1M 2W1", 
         "products": [
             {
                 "product": "Field Vegetables",
@@ -3845,56 +3886,5 @@
                 ]
             }
         ]
-    },
-    {
-        "farm_name": "Windy Heights Farm",
-        "region": "Eastern",
-        "products": [
-            {
-                "product": "Hay",
-                "items": [
-                    {
-                        "item": "Alfalfa",
-                        "price": "$10.00",
-                        "unit_size": "Bale"
-                    },
-                    {
-                        "item": "Timothy",
-                        "price": "$8.00",
-                        "unit_size": "Bale"
-                    }
-                ]
-            },
-            {
-                "product": "Sod",
-                "items": [
-                    {
-                        "item": "Kentucky Bluegrass",
-                        "price": "$4.00",
-                        "unit_size": "1m²"
-                    },
-                    {
-                        "item": "Fescue",
-                        "price": "$4.00",
-                        "unit_size": "1m²"
-                    }
-                ]
-            },
-            {
-                "product": "Gourmet Mushrooms",
-                "items": [
-                    {
-                        "item": "Shiitake",
-                        "price": "$10.00",
-                        "unit_size": "250g"
-                    },
-                    {
-                        "item": "Oyster",
-                        "price": "$8.00",
-                        "unit_size": "250g"
-                    }
-                ]
-            }
-        ]
     }
-]
+   ]
