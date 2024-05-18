@@ -20,6 +20,8 @@
     "axios": "^1.6.8",
     "dom": "^0.0.3",
     "framer-motion": "^11.2.4",
+    "maplibre-gl": "^2.4.0",
+    "maplibre-gl-js-amplify": "^4.0.0",
     "openai": "^4.47.1",
     "react": "^18.3.1",
     "react-dom": "^18.2.0",

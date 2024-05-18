@@ -9,12 +9,31 @@ specifies that any user authenticated via an API key can "create", "read",
 const schema = a.schema({
     Producer: a
         .model({
+            id: a.string(),
             farm_name: a.string(),
             region: a.string(),
-            products: a.string().array(),
+            address: a.string(),
+            community: a.string(),
+            postalCode: a.string(),
+            products: a.hasMany("Products", "id")
+            }),
+    Products: a
+        .model({
+            id: a.string(),
+            producer: a.belongsTo("Producer", "id"),
+            product: a.string(),
+            items: a.hasMany("Items", "id")
+        }).identifier([]),
+    Items: a
+        .model({
+            id:a.string(),
+            products: a.belongsTo("Products", "id"),
+            item: a.string(),
+            price: a.string(),
+            unit_size: a.string()
         })
-        .authorization((allow) => [allow.publicApiKey()]),
-});
+    })
+    .authorization((allow) => [allow.publicApiKey()]);
 
 export type Schema = ClientSchema<typeof schema>;
 

@@ -47,8 +47,13 @@ const Farmers: React.FC = () => {
 
     const sortByName = () => {
         const sortedProfiles = [...profiles].sort((a, b) => {
+<<<<<<< HEAD
             const nameA = a.name ?? '';
             const nameB = b.name ?? '';
+=======
+            const nameA = a.farm_name ?? '';
+            const nameB = b.farm_name ?? '';
+>>>>>>> ef879c957fa32d72c51693577d92c5d2bd8024f1
             if (sortOrder === 'asc') {
                 return nameA.localeCompare(nameB);
             } else {
@@ -85,7 +90,7 @@ const Farmers: React.FC = () => {
                 {error ? (
                     <p>{error}</p>
                 ) : (
-                    profiles.map(({ id, name, region }) => (
+                    profiles.map(({ id, farm_name, region }) => (
                         <Box key={id} mb={4} width={['100%', '45%', '30%']} flexBasis={['100%', '45%', '30%']} marginLeft="auto" marginRight="auto">
 
                             <Card direction={{ base: 'column', sm: 'row' }} variant='outline'>
@@ -98,7 +103,11 @@ const Farmers: React.FC = () => {
 
                                 <Stack>
                                     <CardBody>
+<<<<<<< HEAD
                                         <Heading size='sm' style={{ fontSize: 'clamp(12px, 4vw, 20px)' }}>{name}</Heading>
+=======
+                                        <Heading size='sm' style={{ fontSize: 'clamp(12px, 4vw, 20px)' }}>{farm_name}</Heading>
+>>>>>>> ef879c957fa32d72c51693577d92c5d2bd8024f1
                                         <Text py='2' style={{ fontSize: 'clamp(12px, 4vw, 20px)' }}>
                                             Region: {region}
                                         </Text>

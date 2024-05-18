@@ -20,7 +20,7 @@ const Profile: React.FC = () => {
 
     const createProfile = async () => {
         await client.models.Producer.create({
-            name: window.prompt("Name?"),
+            farm_name: window.prompt("Name?"),
             region: window.prompt("Region?"),
         });
 
@@ -32,9 +32,9 @@ const Profile: React.FC = () => {
         <div>
             <button onClick={createProfile}>Add new Profile</button>
             <ul>
-                {profiles.map(({ id, name, region }) => (
+                {profiles.map(({ id, farm_name, region }) => (
                     <>
-                        <li key={id}>Farm name: {name}</li>
+                        <li key={id}>Farm name: {farm_name}</li>
                         <li key={id}>Region: {region}</li>
                     </>
                 ))}
