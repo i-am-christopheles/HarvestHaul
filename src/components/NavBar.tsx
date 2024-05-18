@@ -268,7 +268,7 @@ const NAV_ITEMS: Array<NavItem> = [
   },
   {
     label: 'Farmers',
-    href: '/marketplace',
+    href: '/farmers',
   },
   {
     label: 'Marketplace',
