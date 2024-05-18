@@ -1,11 +1,12 @@
 import React from 'react';
 import NavBar from '../components/NavBar';
+import AboutHero from '../components/AboutHero';
 
 const About: React.FC = () => {
   return (
     <>
       <NavBar />
-      <h1>About</h1>
+      <AboutHero />
     </>
   );
 }
