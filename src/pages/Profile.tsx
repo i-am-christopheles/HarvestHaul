@@ -32,8 +32,11 @@ const Profile: React.FC = () => {
         <div>
             <button onClick={createProfile}>Add new Profile</button>
             <ul>
-                {profiles.map(({ id, name }) => (
-                    <li key={id}>{name}</li>
+                {profiles.map(({ id, name, region }) => (
+                    <>
+                        <li key={id}>{name}</li>
+                        <li key={id}>{region}</li>
+                    </>
                 ))}
             </ul>
         </div>
