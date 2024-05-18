@@ -1,15 +1,15 @@
-
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import React from 'react';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Home from './pages/Home';
 import About from './pages/About';
 
-function App() {
+const App: React.FC = () => {
   return (
     <Router>
-      <Switch>
-        <Route path="/" exact component={Home} />
-        <Route path="/about" component={About} />
-      </Switch>
+      <Routes>
+        <Route path="/" element={ <Home />} />
+        <Route path="/about" element={ <About />} />
+      </Routes>
     </Router>
   );
 }
