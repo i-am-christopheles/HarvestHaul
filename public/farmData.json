@@ -3,6 +3,9 @@
     {
         "farm_name": "Adelaide’s Newfoundland Honey Inc and Adelaide’s Honey Bee Pollinator and Wildflower Reserve",
         "region": "Avalon",
+        "address": "274 Back Line",
+        "community": "Goulds",
+        "postalCode": "A1S 1H2", 
         "products": [
             {
                 "product": "Honey/Honey Products",
@@ -114,6 +117,8 @@
     {
         "farm_name": "Backside Acres (Butterworths Farms)",
         "region": "Avalon",
+        "address": "57 Hurley's Road",
+        "community": "Markland",
         "products": [
             {
                 "product": "Field Vegetables",
@@ -150,6 +155,9 @@
     {
         "farm_name": "Bayview Gardens Ltd.",
         "region": "Eastern",
+        "address": "P.O Box 214",
+        "community": "Lethbridge",
+        "postalCode": "A0C 1V0", 
         "products": [
             {
                 "product": "Greenhouse Vegetables",
@@ -246,6 +254,9 @@
     {
         "farm_name": "Brown’s Family Farm Ltd.",
         "region": "Avalon",
+        "address": "75 Hopedale Cres.",
+        "community": "St. John's",
+        "postalCode": "A1B 0B3", 
         "products": [
             {
                 "product": "Berries",
@@ -267,27 +278,9 @@
     {
         "farm_name": "Bullrush Farms Limited",
         "region": "Avalon",
-        "products": [
-            {
-                "product": "Berries",
-                "items": [
-                    {
-                        "item": "Blueberries",
-                        "price": "$6.00",
-                        "unit_size": "500g"
-                    },
-                    {
-                        "item": "Strawberries",
-                        "price": "$5.00",
-                        "unit_size": "500g"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "farm_name": "Bullrush Farms Ltd.",
-        "region": "Eastern",
+        "address": "P.O Box 80, RR#1",
+        "community": "Markland",
+        "postalCode": "A0B 3K0", 
         "products": [
             {
                 "product": "Berries",
@@ -309,6 +302,8 @@
     {
         "farm_name": "C.D.’s Trees",
         "region": "Avalon",
+        "address": "406 Marine Drive",
+        "community": "Logy Bay",
         "products": [
             {
                 "product": "Trees",
@@ -345,6 +340,9 @@
     {
         "farm_name": "Clay Oates Landscaping and Construction Limited",
         "region": "Avalon",
+        "address": "4 Kelby Corners",
+        "community": "Carbonear",
+        "postalCode": "A1Y 1A4", 
         "products": [
             {
                 "product": "Turf Sod",
@@ -366,6 +364,9 @@
     {
         "farm_name": "Crooked Branch Apple Orchard",
         "region": "Eastern",
+        "address": "10 Long Beach Road",
+        "community": "Jamestown",
+        "postalCode": "A0C 1V0", 
         "products": [
             {
                 "product": "Fruit",
@@ -404,6 +405,9 @@
     {
         "farm_name": "Double D Farm",
         "region": "Eastern",
+        "address": "29 Jasmine Place",
+        "community": "Conception Bay South",
+        "postalCode": "A1X 4B9", 
         "products": [
             {
                 "product": "Field Vegetables",
@@ -425,6 +429,9 @@
     {
         "farm_name": "Double Diamond Farm",
         "region": "Avalon",
+        "address": "348 RUBY LINE",
+        "community": "St. John's",
+        "postalCode": "A1G 0A2", 
         "products": [
             {
                 "product": "Lamb",
@@ -461,6 +468,9 @@
     {
         "farm_name": "Fahey Farm/ Baynoddy Knitwear, Spinning and Weaving",
         "region": "Avalon",
+        "address": "135 Point Road, Box 18",
+        "community": "Chapel's Cove",
+        "postalCode": "A0A 1V0", 
         "products": [
             {
                 "product": "Fibre",
@@ -557,6 +567,9 @@
     {
         "farm_name": "Festive Farmer (a division of Russwood Claredale Farms)",
         "region": "Eastern",
+        "address": "1088 Roaches Line Site 4, Box 8, RR#1",
+        "community": "Clarke's Beach",
+        "postalCode": "A0A 1W0", 
         "products": [
             {
                 "product": "Christmas Trees",
@@ -593,6 +606,7 @@
     {
         "farm_name": "Firehill Farms",
         "region": "Avalon",
+        "community": "Conception Bay South",
         "products": [
             {
                 "product": "Berries",
@@ -674,6 +688,8 @@
     {
         "farm_name": "Five Brothers Artisan Cheese",
         "region": "Avalon",
+        "address": "151 Main Road",
+        "community": "Goulds",
         "products": [
             {
                 "product": "Milk/Dairy Products",
@@ -695,6 +711,9 @@
     {
         "farm_name": "Garden of Eat’en",
         "region": "Avalon",
+        "address": "307 Bay Bulls Road",
+        "community": "Bay Bulls",
+        "postalCode": "A1G 1B9", 
         "products": [
             {
                 "product": "Berries",
@@ -761,6 +780,9 @@
     {
         "farm_name": "Green Farm NL",
         "region": "Avalon",
+        "address": "27C Sagona Avenue",
+        "community": "Mount Pearl",
+        "postalCode": "A1C 5B6", 
         "products": [
             {
                 "product": "Greenhouse Vegetables",
@@ -812,6 +834,9 @@
     {
         "farm_name": "H&E Williams Dairy Farms Ltd.",
         "region": "Avalon",
+        "address": "331 Main Road",
+        "community": "Goulds",
+        "postalCode": "A1S 1G5", 
         "products": [
             {
                 "product": "Milk/Dairy Products",
@@ -833,6 +858,9 @@
     {
         "farm_name": "Haricot Farms",
         "region": "Avalon",
+        "address": "Haricot",
+        "community": "St. Mary's Bay",
+        "postalCode": "(709) 521-2890", 
         "products": [
             {
                 "product": "Beef",
@@ -914,6 +942,7 @@
     {
         "farm_name": "Hayes Farm",
         "region": "Avalon",
+        "address": "Goulds",
         "products": [
             {
                 "product": "Lamb",
@@ -935,6 +964,9 @@
     {
         "farm_name": "Heritage Farm",
         "region": "Avalon",
+        "address": "11 Myrick Place",
+        "community": "St. John's",
+        "postalCode": "A1G 0A2", 
         "products": [
             {
                 "product": "Eggs",
@@ -1001,6 +1033,9 @@
     {
         "farm_name": "Hickey’s Greenhouses and Nursery Ltd.",
         "region": "Avalon",
+        "address": "689 CBS Highway",
+        "community": "Kelligrews",
+        "postalCode": "A1X 3A8", 
         "products": [
             {
                 "product": "Greenhouse Vegetables",
@@ -1127,6 +1162,9 @@
     {
         "farm_name": "Hillview Farms",
         "region": "Eastern",
+        "address": "224 GooseBay Drive P.O Box 245",
+        "community": "Musgravetown",
+        "postalCode": "A0C 1Z0", 
         "products": [
             {
                 "product": "Field Vegetables",
@@ -1139,9 +1177,7 @@
                     {
                         "item": "Potatoes",
                         "price": "$3.00",
-                        "unit_size":
-
- "2kg"
+                        "unit_size": "2kg"
                     }
                 ]
             }
@@ -1150,6 +1186,9 @@
     {
         "farm_name": "J&C Sod Farm",
         "region": "Avalon",
+        "address": "P.O Box 118",
+        "community": "Bay Bulls",
+        "postalCode": "A0A 1C0", 
         "products": [
             {
                 "product": "Soil",
@@ -1186,6 +1225,9 @@
     {
         "farm_name": "JAR Farm",
         "region": "Avalon",
+        "address": "217 Old Cabot Highway",
+        "community": "Chapel Arm",
+        "postalCode": "A0B 1L0", 
         "products": [
             {
                 "product": "Fruit",
@@ -1237,6 +1279,8 @@
     {
         "farm_name": "Juanita Burt",
         "region": "Avalon",
+        "address": "Highway 331",
+        "community": "Rogers Cove",
         "products": [
             {
                 "product": "Field Vegetables",
@@ -1273,6 +1317,9 @@
     {
         "farm_name": "Kennedy Farm Inc.",
         "region": "Avalon",
+        "address": "175 Freshwater Road",
+        "community": "Freshwater",
+        "postalCode": "A0A 4G0", 
         "products": [
             {
                 "product": "Turkey",
@@ -1294,6 +1341,8 @@
     {
         "farm_name": "Kennedy’s Produce",
         "region": "Avalon",
+        "address": "64 Peachytown Road, Foxtrap",
+        "community": "Conception Bay South",
         "products": [
             {
                 "product": "Field Vegetables",
@@ -1315,6 +1364,9 @@
     {
         "farm_name": "Lester’s Farm Chalet",
         "region": "Avalon",
+        "address": "92 Pearltown Road",
+        "community": "St. John's",
+        "postalCode": "A1G 1P3", 
         "products": [
             {
                 "product": "Fruit",
@@ -1561,6 +1613,8 @@
     {
         "farm_name": "Lester’s Farm Market",
         "region": "Avalon",
+        "address": "173 Brookfield Road",
+        "community": "St. John's",
         "products": [
             {
                 "product": "Fruit",
@@ -1837,6 +1891,8 @@
     {
         "farm_name": "Mayo’s Farm",
         "region": "Eastern",
+        "address": "Black Brook",
+        "community": "Creson South",
         "products": [
             {
                 "product": "Field Vegetables",
@@ -1888,6 +1944,9 @@
     {
         "farm_name": "Miao’s Green Farm Inc.",
         "region": "Avalon",
+        "address": " 54 Gully Pond Road",
+        "community": "Conception Bay South",
+        "postalCode": "A1X 6Y9", 
         "products": [
             {
                 "product": "Field Vegetables",
@@ -1939,6 +1998,9 @@
     {
         "farm_name": "Miao’s Sod Farm Inc.",
         "region": "Avalon",
+        "address": "20 Rosalind Street",
+        "community": "St. John's",
+        "postalCode": "A1B 0J1", 
         "products": [
             {
                 "product": "Field Vegetables",
@@ -1975,6 +2037,8 @@
     {
         "farm_name": "Murphy’s Sod Farm",
         "region": "Avalon",
+        "address": "TCH - Whitbourne",
+        "community": "Whitbourne",
         "products": [
             {
                 "product": "Sod",
@@ -1996,6 +2060,9 @@
     {
         "farm_name": "N. Fagan Meats",
         "region": "Avalon",
+        "address": "",
+        "community": "",
+        "postalCode": "", 
         "products": [
             {
                 "product": "Field Vegetables",
