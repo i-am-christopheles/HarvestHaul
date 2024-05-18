@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
 import NavBar from '../components/NavBar';
 import {Schema} from "../../amplify/data/resource.ts";
-import {generateClient} from "aws-amplify/src/api";
+import {generateClient} from "aws-amplify/api";
 
 const client = generateClient<Schema>();
 
