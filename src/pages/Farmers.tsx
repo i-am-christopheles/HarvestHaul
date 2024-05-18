@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import NavBar from '../components/NavBar';
 import { Schema } from "../../amplify/data/resource.ts";
-import { generateClient } from "aws-amplify/src/api";
+import { generateClient } from "aws-amplify/api";
 import { Card, Stack, Image, CardBody, Heading, Text, CardFooter, Button } from '@chakra-ui/react';
 
 const client = generateClient<Schema>();
