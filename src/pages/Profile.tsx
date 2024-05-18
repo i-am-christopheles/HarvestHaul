@@ -34,8 +34,8 @@ const Profile: React.FC = () => {
             <ul>
                 {profiles.map(({ id, name, region }) => (
                     <>
-                        <li key={id}>{name}</li>
-                        <li key={id}>{region}</li>
+                        <li key={id}>Farm name: {name}</li>
+                        <li key={id}>Region: {region}</li>
                     </>
                 ))}
             </ul>
