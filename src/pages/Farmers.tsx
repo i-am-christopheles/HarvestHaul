@@ -11,6 +11,7 @@ const Farmers: React.FC = () => {
     const [nextToken, setNextToken] = useState<string | null>(null);
     const [currentPage, setCurrentPage] = useState<number>(1);
     const [error, setError] = useState<string | null>(null);
+    const [sortOrder, setSortOrder] = useState<'asc' | 'desc'>('asc');
 
     const fetchProfiles = async () => {
         try {
@@ -44,15 +45,49 @@ const Farmers: React.FC = () => {
         }
     };
 
+    const sortByName = () => {
+        const sortedProfiles = [...profiles].sort((a, b) => {
+            const nameA = a.farm_name ?? '';
+            const nameB = b.farm_name ?? '';
+            if (sortOrder === 'asc') {
+                return nameA.localeCompare(nameB);
+            } else {
+                return nameB.localeCompare(nameA);
+            }
+        });
+        setProfiles(sortedProfiles);
+        setSortOrder(sortOrder === 'asc' ? 'desc' : 'asc');
+    };
+
+    // const sortByRegion = () => {
+    //     const sortedProfiles = [...profiles].sort((a, b) => {
+    //         const regionA = a.region ?? '';
+    //         const regionB = b.region ?? '';
+    //         return sortOrder === 'asc' ? regionA.localeCompare(regionB) : regionB.localeCompare(regionA);
+    //     });
+    //     setProfiles(sortedProfiles);
+    //     setSortOrder(sortOrder === 'asc' ? 'desc' : 'asc');
+    // };
+    
     return (
         <>
             <NavBar />
+            <div style={{ fontSize: '20px', textAlign: 'center', marginTop: '20px',  marginBottom: '20px', marginLeft: '100px', marginRight: '100px' }}>
+                <p>Discover the faces and stories behind your food. From farm to table, explore the passion and dedication of our local farmers. Support quality, support community. Dive in and connect with the heart of agriculture today!</p>
+            </div>
+            <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '20px' }}>
+                <div style={{ display: 'flex', gap: '10px', alignItems: 'center' }}>
+                    <Button onClick={sortByName}>Sort by Name {sortOrder === 'asc' ? 'A-Z' : 'Z-A'}</Button>
+                    {/* <Button onClick={sortByRegion}>Sort by Region</Button>  */}
+                </div>
+            </div>
             <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', margin: '0 auto', maxWidth: '1200px', padding: '0 16px' }}>
                 {error ? (
                     <p>{error}</p>
                 ) : (
                     profiles.map(({ id, farm_name, region }) => (
                         <Box key={id} mb={4} width={['100%', '45%', '30%']} flexBasis={['100%', '45%', '30%']} marginLeft="auto" marginRight="auto">
+
                             <Card direction={{ base: 'column', sm: 'row' }} variant='outline'>
                                 <Image
                                     objectFit='cover'
@@ -63,14 +98,19 @@ const Farmers: React.FC = () => {
 
                                 <Stack>
                                     <CardBody>
+<<<<<<< HEAD
+                                        <Heading size='sm' style={{ fontSize: 'clamp(12px, 4vw, 20px)' }}>{farm_name}</Heading>
+                                        <Text py='2' style={{ fontSize: 'clamp(12px, 4vw, 20px)' }}>
+=======
                                         <Heading size='md'>{farm_name}</Heading>
                                         <Text py='2'>
+>>>>>>> d7c5ae898e42eaa9b1c8e248c29f51e6fdf4a4c7
                                             Region: {region}
                                         </Text>
                                     </CardBody>
 
                                     <CardFooter>
-                                        <Button variant='solid' colorScheme='blue'>
+                                        <Button variant='solid' colorScheme='green'>
                                             Learn More
                                         </Button>
                                     </CardFooter>
@@ -80,11 +120,12 @@ const Farmers: React.FC = () => {
                     ))
                 )}
             </div>
-            <div>
+            <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '20px' }}>
+                <div style={{ display: 'flex', gap: '10px', alignItems: 'center' }}>
                 <Button onClick={handlePrevPage}>Previous</Button>
                 <Button onClick={handleNextPage}>Next</Button>
             </div>
-            <p>Page {currentPage}</p>
+            </div>
         </>
     );
 }
