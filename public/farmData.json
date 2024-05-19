@@ -12,14 +12,20 @@
           {
             "item": "Fireweed Comb Honey",
             "price": "$12.00",
-            "unit_size": "250g"
+            "unit_size": "250g",
+            "id": "111",
+            "products": "11"
           },
           {
             "item": "Raw Wildflower Honey",
             "price": "$10.00",
-            "unit_size": "250g"
+            "unit_size": "250g",
+            "id": "112",
+            "products": "11"
           }
-        ]
+        ],
+        "id": "11",
+        "producer": "1"
       },
       {
         "product": "Pollination Services",
@@ -27,14 +33,20 @@
           {
             "item": "Adopt-a-Hive",
             "price": "$200.00",
-            "unit_size": "Season"
+            "unit_size": "Season",
+            "id": "121",
+            "products": "12"
           },
           {
             "item": "The Honey Bee Hike",
             "price": "$15.00",
-            "unit_size": "Per Person"
+            "unit_size": "Per Person",
+            "id": "122",
+            "products": "12"
           }
-        ]
+        ],
+        "id": "12",
+        "producer": "1"
       },
       {
         "product": "Bees wax",
@@ -42,14 +54,20 @@
           {
             "item": "Beeswax candles",
             "price": "$5.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "131",
+            "products": "13"
           },
           {
             "item": "Beeswax wraps",
             "price": "$10.00",
-            "unit_size": "Set of 3"
+            "unit_size": "Set of 3",
+            "id": "132",
+            "products": "13"
           }
-        ]
+        ],
+        "id": "13",
+        "producer": "1"
       },
       {
         "product": "Honey Bee Rescue",
@@ -57,14 +75,20 @@
           {
             "item": "Swarm Removal",
             "price": "$100.00",
-            "unit_size": "Per Service"
+            "unit_size": "Per Service",
+            "id": "141",
+            "products": "14"
           },
           {
             "item": "Bee Relocation",
             "price": "$150.00",
-            "unit_size": "Per Service"
+            "unit_size": "Per Service",
+            "id": "142",
+            "products": "14"
           }
-        ]
+        ],
+        "id": "14",
+        "producer": "1"
       },
       {
         "product": "Swarm Prevention Program",
@@ -72,14 +96,20 @@
           {
             "item": "Swarm Traps",
             "price": "$25.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "151",
+            "products": "15"
           },
           {
             "item": "Hive Inspections",
             "price": "$75.00",
-            "unit_size": "Per Visit"
+            "unit_size": "Per Visit",
+            "id": "152",
+            "products": "15"
           }
-        ]
+        ],
+        "id": "15",
+        "producer": "1"
       },
       {
         "product": "Liquid Honey",
@@ -87,14 +117,20 @@
           {
             "item": "Wildflower Honey",
             "price": "$10.00",
-            "unit_size": "250g"
+            "unit_size": "250g",
+            "id": "161",
+            "products": "16"
           },
           {
             "item": "Clover Honey",
             "price": "$10.00",
-            "unit_size": "250g"
+            "unit_size": "250g",
+            "id": "162",
+            "products": "16"
           }
-        ]
+        ],
+        "id": "16",
+        "producer": "1"
       },
       {
         "product": "Comb Honey",
@@ -102,14 +138,20 @@
           {
             "item": "Honeycomb",
             "price": "$15.00",
-            "unit_size": "300g"
+            "unit_size": "300g",
+            "id": "171",
+            "products": "17"
           },
           {
             "item": "Chunk Honey",
             "price": "$12.00",
-            "unit_size": "250g"
+            "unit_size": "250g",
+            "id": "172",
+            "products": "17"
           }
-        ]
+        ],
+        "id": "17",
+        "producer": "1"
       }
     ],
     "id": "1"
@@ -126,14 +168,20 @@
           {
             "item": "Carrots",
             "price": "$2.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "211",
+            "products": "21"
           },
           {
             "item": "Potatoes",
             "price": "$3.00",
-            "unit_size": "2kg"
+            "unit_size": "2kg",
+            "id": "212",
+            "products": "21"
           }
-        ]
+        ],
+        "id": "21",
+        "producer": "2"
       },
       {
         "product": "Value Added( preserves, jams, etc)",
@@ -141,14 +189,20 @@
           {
             "item": "Strawberry Jam",
             "price": "$5.00",
-            "unit_size": "250ml"
+            "unit_size": "250ml",
+            "id": "221",
+            "products": "22"
           },
           {
             "item": "Pickles",
             "price": "$4.00",
-            "unit_size": "500ml"
+            "unit_size": "500ml",
+            "id": "222",
+            "products": "22"
           }
-        ]
+        ],
+        "id": "22",
+        "producer": "2"
       }
     ],
     "id": "2"
@@ -166,14 +220,20 @@
           {
             "item": "Tomatoes",
             "price": "$3.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "311",
+            "products": "31"
           },
           {
             "item": "Peppers",
             "price": "$4.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "312",
+            "products": "31"
           }
-        ]
+        ],
+        "id": "31",
+        "producer": "3"
       },
       {
         "product": "Hanging Baskets",
@@ -181,14 +241,20 @@
           {
             "item": "Petunias",
             "price": "$15.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "321",
+            "products": "32"
           },
           {
             "item": "Begonias",
             "price": "$15.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "322",
+            "products": "32"
           }
-        ]
+        ],
+        "id": "32",
+        "producer": "3"
       },
       {
         "product": "Perennials",
@@ -196,14 +262,20 @@
           {
             "item": "Hostas",
             "price": "$10.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "331",
+            "products": "33"
           },
           {
             "item": "Daylilies",
             "price": "$10.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "332",
+            "products": "33"
           }
-        ]
+        ],
+        "id": "33",
+        "producer": "3"
       },
       {
         "product": "Shrubs",
@@ -211,14 +283,20 @@
           {
             "item": "Boxwood",
             "price": "$20.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "341",
+            "products": "34"
           },
           {
             "item": "Hydrangea",
             "price": "$25.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "342",
+            "products": "34"
           }
-        ]
+        ],
+        "id": "34",
+        "producer": "3"
       },
       {
         "product": "Trees",
@@ -226,14 +304,20 @@
           {
             "item": "Maple",
             "price": "$50.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "351",
+            "products": "35"
           },
           {
             "item": "Oak",
             "price": "$60.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "352",
+            "products": "35"
           }
-        ]
+        ],
+        "id": "35",
+        "producer": "3"
       },
       {
         "product": "Garden Supplies",
@@ -241,14 +325,20 @@
           {
             "item": "Soil",
             "price": "$5.00",
-            "unit_size": "20L"
+            "unit_size": "20L",
+            "id": "361",
+            "products": "36"
           },
           {
             "item": "Fertilizer",
             "price": "$10.00",
-            "unit_size": "5kg"
+            "unit_size": "5kg",
+            "id": "362",
+            "products": "36"
           }
-        ]
+        ],
+        "id": "36",
+        "producer": "3"
       }
     ],
     "id": "3"
@@ -266,14 +356,20 @@
           {
             "item": "Blueberries",
             "price": "$6.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "411",
+            "products": "41"
           },
           {
             "item": "Strawberries",
             "price": "$5.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "412",
+            "products": "41"
           }
-        ]
+        ],
+        "id": "41",
+        "producer": "4"
       }
     ],
     "id": "4"
@@ -291,14 +387,20 @@
           {
             "item": "Blueberries",
             "price": "$6.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "511",
+            "products": "51"
           },
           {
             "item": "Strawberries",
             "price": "$5.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "512",
+            "products": "51"
           }
-        ]
+        ],
+        "id": "51",
+        "producer": "5"
       }
     ],
     "id": "5"
@@ -315,14 +417,20 @@
           {
             "item": "Maple",
             "price": "$50.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "611",
+            "products": "61"
           },
           {
             "item": "Oak",
             "price": "$60.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "612",
+            "products": "61"
           }
-        ]
+        ],
+        "id": "61",
+        "producer": "6"
       },
       {
         "product": "Shrubs",
@@ -330,14 +438,20 @@
           {
             "item": "Boxwood",
             "price": "$20.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "621",
+            "products": "62"
           },
           {
             "item": "Hydrangea",
             "price": "$25.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "622",
+            "products": "62"
           }
-        ]
+        ],
+        "id": "62",
+        "producer": "6"
       }
     ],
     "id": "6"
@@ -355,14 +469,20 @@
           {
             "item": "Kentucky Bluegrass",
             "price": "$4.00",
-            "unit_size": "1m²"
+            "unit_size": "1m²",
+            "id": "711",
+            "products": "71"
           },
           {
             "item": "Fescue",
             "price": "$4.00",
-            "unit_size": "1m²"
+            "unit_size": "1m²",
+            "id": "712",
+            "products": "71"
           }
-        ]
+        ],
+        "id": "71",
+        "producer": "7"
       }
     ],
     "id": "7"
@@ -380,14 +500,20 @@
           {
             "item": "Apples",
             "price": "$3.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "811",
+            "products": "81"
           },
           {
             "item": "Pears",
             "price": "$4.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "812",
+            "products": "81"
           }
-        ]
+        ],
+        "id": "81",
+        "producer": "8"
       },
       {
         "product": "Apples",
@@ -395,14 +521,20 @@
           {
             "item": "Granny Smith",
             "price": "$3.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "821",
+            "products": "82"
           },
           {
             "item": "Honeycrisp",
             "price": "$4.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "822",
+            "products": "82"
           }
-        ]
+        ],
+        "id": "82",
+        "producer": "8"
       }
     ],
     "id": "8"
@@ -420,14 +552,20 @@
           {
             "item": "Carrots",
             "price": "$2.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "911",
+            "products": "91"
           },
           {
             "item": "Potatoes",
             "price": "$3.00",
-            "unit_size": "2kg"
+            "unit_size": "2kg",
+            "id": "912",
+            "products": "91"
           }
-        ]
+        ],
+        "id": "91",
+        "producer": "9"
       }
     ],
     "id": "9"
@@ -445,14 +583,20 @@
           {
             "item": "Lamb Chops",
             "price": "$15.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "1011",
+            "products": "101"
           },
           {
             "item": "Lamb Shanks",
             "price": "$12.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "1012",
+            "products": "101"
           }
-        ]
+        ],
+        "id": "101",
+        "producer": "10"
       },
       {
         "product": "Wool",
@@ -460,14 +604,20 @@
           {
             "item": "Yarn",
             "price": "$8.00",
-            "unit_size": "100g"
+            "unit_size": "100g",
+            "id": "1021",
+            "products": "102"
           },
           {
             "item": "Wool Roving",
             "price": "$10.00",
-            "unit_size": "100g"
+            "unit_size": "100g",
+            "id": "1022",
+            "products": "102"
           }
-        ]
+        ],
+        "id": "102",
+        "producer": "10"
       }
     ],
     "id": "10"
@@ -485,14 +635,20 @@
           {
             "item": "Wool",
             "price": "$8.00",
-            "unit_size": "100g"
+            "unit_size": "100g",
+            "id": "1111",
+            "products": "111"
           },
           {
             "item": "Alpaca",
             "price": "$12.00",
-            "unit_size": "100g"
+            "unit_size": "100g",
+            "id": "1112",
+            "products": "111"
           }
-        ]
+        ],
+        "id": "111",
+        "producer": "11"
       },
       {
         "product": "Handspun Yarn",
@@ -500,14 +656,20 @@
           {
             "item": "Merino",
             "price": "$10.00",
-            "unit_size": "100g"
+            "unit_size": "100g",
+            "id": "1121",
+            "products": "112"
           },
           {
             "item": "Shetland",
             "price": "$9.00",
-            "unit_size": "100g"
+            "unit_size": "100g",
+            "id": "1122",
+            "products": "112"
           }
-        ]
+        ],
+        "id": "112",
+        "producer": "11"
       },
       {
         "product": "Knitted and Handwoven Sweaters",
@@ -515,14 +677,20 @@
           {
             "item": "Wool Sweaters",
             "price": "$80.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "1131",
+            "products": "113"
           },
           {
             "item": "Cotton Sweaters",
             "price": "$60.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "1132",
+            "products": "113"
           }
-        ]
+        ],
+        "id": "113",
+        "producer": "11"
       },
       {
         "product": "Shawl",
@@ -530,14 +698,20 @@
           {
             "item": "Wool Shawl",
             "price": "$40.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "1141",
+            "products": "114"
           },
           {
             "item": "Silk Shawl",
             "price": "$50.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "1142",
+            "products": "114"
           }
-        ]
+        ],
+        "id": "114",
+        "producer": "11"
       },
       {
         "product": "Llamas",
@@ -545,14 +719,20 @@
           {
             "item": "Llama Wool",
             "price": "$15.00",
-            "unit_size": "100g"
+            "unit_size": "100g",
+            "id": "1151",
+            "products": "115"
           },
           {
             "item": "Llama Yarn",
             "price": "$20.00",
-            "unit_size": "100g"
+            "unit_size": "100g",
+            "id": "1152",
+            "products": "115"
           }
-        ]
+        ],
+        "id": "115",
+        "producer": "11"
       },
       {
         "product": "Angora Goats",
@@ -560,14 +740,20 @@
           {
             "item": "Angora Wool",
             "price": "$18.00",
-            "unit_size": "100g"
+            "unit_size": "100g",
+            "id": "1161",
+            "products": "116"
           },
           {
             "item": "Angora Yarn",
             "price": "$22.00",
-            "unit_size": "100g"
+            "unit_size": "100g",
+            "id": "1162",
+            "products": "116"
           }
-        ]
+        ],
+        "id": "116",
+        "producer": "11"
       }
     ],
     "id": "11"
@@ -585,14 +771,20 @@
           {
             "item": "Fir",
             "price": "$30.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "1211",
+            "products": "121"
           },
           {
             "item": "Spruce",
             "price": "$25.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "1212",
+            "products": "121"
           }
-        ]
+        ],
+        "id": "121",
+        "producer": "12"
       },
       {
         "product": "Christmas Wreaths",
@@ -600,14 +792,20 @@
           {
             "item": "Fir Wreath",
             "price": "$20.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "1221",
+            "products": "122"
           },
           {
             "item": "Pine Wreath",
             "price": "$15.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "1222",
+            "products": "122"
           }
-        ]
+        ],
+        "id": "122",
+        "producer": "12"
       }
     ],
     "id": "12"
@@ -623,14 +821,20 @@
           {
             "item": "Blueberries",
             "price": "$6.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "1311",
+            "products": "131"
           },
           {
             "item": "Strawberries",
             "price": "$5.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "1312",
+            "products": "131"
           }
-        ]
+        ],
+        "id": "131",
+        "producer": "13"
       },
       {
         "product": "Field Vegetables",
@@ -638,14 +842,20 @@
           {
             "item": "Carrots",
             "price": "$2.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "1321",
+            "products": "132"
           },
           {
             "item": "Potatoes",
             "price": "$3.00",
-            "unit_size": "2kg"
+            "unit_size": "2kg",
+            "id": "1322",
+            "products": "132"
           }
-        ]
+        ],
+        "id": "132",
+        "producer": "13"
       },
       {
         "product": "Greenhouse Vegetables",
@@ -653,14 +863,20 @@
           {
             "item": "Tomatoes",
             "price": "$3.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "1331",
+            "products": "133"
           },
           {
             "item": "Peppers",
             "price": "$4.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "1332",
+            "products": "133"
           }
-        ]
+        ],
+        "id": "133",
+        "producer": "13"
       },
       {
         "product": "Herbs",
@@ -668,14 +884,20 @@
           {
             "item": "Basil",
             "price": "$2.00",
-            "unit_size": "30g"
+            "unit_size": "30g",
+            "id": "1341",
+            "products": "134"
           },
           {
             "item": "Thyme",
             "price": "$2.00",
-            "unit_size": "30g"
+            "unit_size": "30g",
+            "id": "1342",
+            "products": "134"
           }
-        ]
+        ],
+        "id": "134",
+        "producer": "13"
       },
       {
         "product": "Value Added( preserves, jams, etc)",
@@ -683,14 +905,20 @@
           {
             "item": "Strawberry Jam",
             "price": "$5.00",
-            "unit_size": "250ml"
+            "unit_size": "250ml",
+            "id": "1351",
+            "products": "135"
           },
           {
             "item": "Pickles",
             "price": "$4.00",
-            "unit_size": "500ml"
+            "unit_size": "500ml",
+            "id": "1352",
+            "products": "135"
           }
-        ]
+        ],
+        "id": "135",
+        "producer": "13"
       }
     ],
     "id": "13"
@@ -707,14 +935,20 @@
           {
             "item": "Cheese",
             "price": "$8.00",
-            "unit_size": "200g"
+            "unit_size": "200g",
+            "id": "1411",
+            "products": "141"
           },
           {
             "item": "Milk",
             "price": "$3.00",
-            "unit_size": "1L"
+            "unit_size": "1L",
+            "id": "1412",
+            "products": "141"
           }
-        ]
+        ],
+        "id": "141",
+        "producer": "14"
       }
     ],
     "id": "14"
@@ -732,14 +966,20 @@
           {
             "item": "Blueberries",
             "price": "$6.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "1511",
+            "products": "151"
           },
           {
             "item": "Strawberries",
             "price": "$5.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "1512",
+            "products": "151"
           }
-        ]
+        ],
+        "id": "151",
+        "producer": "15"
       },
       {
         "product": "Field Vegetables",
@@ -747,14 +987,20 @@
           {
             "item": "Carrots",
             "price": "$2.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "1521",
+            "products": "152"
           },
           {
             "item": "Potatoes",
             "price": "$3.00",
-            "unit_size": "2kg"
+            "unit_size": "2kg",
+            "id": "1522",
+            "products": "152"
           }
-        ]
+        ],
+        "id": "152",
+        "producer": "15"
       },
       {
         "product": "Splits",
@@ -762,14 +1008,20 @@
           {
             "item": "Tomato Splits",
             "price": "$2.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "1531",
+            "products": "153"
           },
           {
             "item": "Pepper Splits",
             "price": "$2.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "1532",
+            "products": "153"
           }
-        ]
+        ],
+        "id": "153",
+        "producer": "15"
       },
       {
         "product": "Plants",
@@ -777,14 +1029,20 @@
           {
             "item": "Tomato Plants",
             "price": "$3.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "1541",
+            "products": "154"
           },
           {
             "item": "Pepper Plants",
             "price": "$3.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "1542",
+            "products": "154"
           }
-        ]
+        ],
+        "id": "154",
+        "producer": "15"
       }
     ],
     "id": "15"
@@ -802,14 +1060,20 @@
           {
             "item": "Tomatoes",
             "price": "$3.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "1611",
+            "products": "161"
           },
           {
             "item": "Peppers",
             "price": "$4.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "1612",
+            "products": "161"
           }
-        ]
+        ],
+        "id": "161",
+        "producer": "16"
       },
       {
         "product": "Herbs",
@@ -817,14 +1081,20 @@
           {
             "item": "Basil",
             "price": "$2.00",
-            "unit_size": "30g"
+            "unit_size": "30g",
+            "id": "1621",
+            "products": "162"
           },
           {
             "item": "Thyme",
             "price": "$2.00",
-            "unit_size": "30g"
+            "unit_size": "30g",
+            "id": "1622",
+            "products": "162"
           }
-        ]
+        ],
+        "id": "162",
+        "producer": "16"
       },
       {
         "product": "Microgreens",
@@ -832,14 +1102,20 @@
           {
             "item": "Radish Microgreens",
             "price": "$3.00",
-            "unit_size": "50g"
+            "unit_size": "50g",
+            "id": "1631",
+            "products": "163"
           },
           {
             "item": "Broccoli Microgreens",
             "price": "$3.00",
-            "unit_size": "50g"
+            "unit_size": "50g",
+            "id": "1632",
+            "products": "163"
           }
-        ]
+        ],
+        "id": "163",
+        "producer": "16"
       }
     ],
     "id": "16"
@@ -857,14 +1133,20 @@
           {
             "item": "Cheese",
             "price": "$8.00",
-            "unit_size": "200g"
+            "unit_size": "200g",
+            "id": "1711",
+            "products": "171"
           },
           {
             "item": "Milk",
             "price": "$3.00",
-            "unit_size": "1L"
+            "unit_size": "1L",
+            "id": "1712",
+            "products": "171"
           }
-        ]
+        ],
+        "id": "171",
+        "producer": "17"
       }
     ],
     "id": "17"
@@ -882,14 +1164,20 @@
           {
             "item": "Steak",
             "price": "$15.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "1811",
+            "products": "181"
           },
           {
             "item": "Ground Beef",
             "price": "$10.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "1812",
+            "products": "181"
           }
-        ]
+        ],
+        "id": "181",
+        "producer": "18"
       },
       {
         "product": "Pork",
@@ -897,14 +1185,20 @@
           {
             "item": "Pork Chops",
             "price": "$12.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "1821",
+            "products": "182"
           },
           {
             "item": "Bacon",
             "price": "$8.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "1822",
+            "products": "182"
           }
-        ]
+        ],
+        "id": "182",
+        "producer": "18"
       },
       {
         "product": "Lamb",
@@ -912,14 +1206,20 @@
           {
             "item": "Lamb Chops",
             "price": "$15.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "1831",
+            "products": "183"
           },
           {
             "item": "Lamb Shanks",
             "price": "$12.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "1832",
+            "products": "183"
           }
-        ]
+        ],
+        "id": "183",
+        "producer": "18"
       },
       {
         "product": "Primal cuts & Secondary products(sausages, ground and meatballs)",
@@ -927,14 +1227,20 @@
           {
             "item": "Sausages",
             "price": "$8.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "1841",
+            "products": "184"
           },
           {
             "item": "Meatballs",
             "price": "$10.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "1842",
+            "products": "184"
           }
-        ]
+        ],
+        "id": "184",
+        "producer": "18"
       },
       {
         "product": "Chicken",
@@ -942,14 +1248,20 @@
           {
             "item": "Chicken Breasts",
             "price": "$10.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "1851",
+            "products": "185"
           },
           {
             "item": "Chicken Thighs",
             "price": "$8.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "1852",
+            "products": "185"
           }
-        ]
+        ],
+        "id": "185",
+        "producer": "18"
       }
     ],
     "id": "18"
@@ -965,14 +1277,20 @@
           {
             "item": "Lamb Chops",
             "price": "$15.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "1911",
+            "products": "191"
           },
           {
             "item": "Lamb Shanks",
             "price": "$12.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "1912",
+            "products": "191"
           }
-        ]
+        ],
+        "id": "191",
+        "producer": "19"
       }
     ],
     "id": "19"
@@ -990,14 +1308,20 @@
           {
             "item": "Chicken Eggs",
             "price": "$3.00",
-            "unit_size": "Dozen"
+            "unit_size": "Dozen",
+            "id": "2011",
+            "products": "201"
           },
           {
             "item": "Duck Eggs",
             "price": "$5.00",
-            "unit_size": "Dozen"
+            "unit_size": "Dozen",
+            "id": "2012",
+            "products": "201"
           }
-        ]
+        ],
+        "id": "201",
+        "producer": "20"
       },
       {
         "product": "Wool",
@@ -1005,14 +1329,20 @@
           {
             "item": "Yarn",
             "price": "$8.00",
-            "unit_size": "100g"
+            "unit_size": "100g",
+            "id": "2021",
+            "products": "202"
           },
           {
             "item": "Wool Roving",
             "price": "$10.00",
-            "unit_size": "100g"
+            "unit_size": "100g",
+            "id": "2022",
+            "products": "202"
           }
-        ]
+        ],
+        "id": "202",
+        "producer": "20"
       },
       {
         "product": "Lamb",
@@ -1020,14 +1350,20 @@
           {
             "item": "Lamb Chops",
             "price": "$15.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "2031",
+            "products": "203"
           },
           {
             "item": "Lamb Shanks",
             "price": "$12.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "2032",
+            "products": "203"
           }
-        ]
+        ],
+        "id": "203",
+        "producer": "20"
       },
       {
         "product": "Turkey",
@@ -1035,14 +1371,20 @@
           {
             "item": "Turkey Breast",
             "price": "$20.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "2041",
+            "products": "204"
           },
           {
             "item": "Turkey Thighs",
             "price": "$15.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "2042",
+            "products": "204"
           }
-        ]
+        ],
+        "id": "204",
+        "producer": "20"
       }
     ],
     "id": "20"
@@ -1060,14 +1402,20 @@
           {
             "item": "Tomatoes",
             "price": "$3.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "2111",
+            "products": "211"
           },
           {
             "item": "Peppers",
             "price": "$4.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "2112",
+            "products": "211"
           }
-        ]
+        ],
+        "id": "211",
+        "producer": "21"
       },
       {
         "product": "Flowers",
@@ -1075,14 +1423,20 @@
           {
             "item": "Roses",
             "price": "$15.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "2121",
+            "products": "212"
           },
           {
             "item": "Lilies",
             "price": "$10.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "2122",
+            "products": "212"
           }
-        ]
+        ],
+        "id": "212",
+        "producer": "21"
       },
       {
         "product": "Soil",
@@ -1090,14 +1444,20 @@
           {
             "item": "Potting Soil",
             "price": "$5.00",
-            "unit_size": "20L"
+            "unit_size": "20L",
+            "id": "2131",
+            "products": "213"
           },
           {
             "item": "Topsoil",
             "price": "$3.00",
-            "unit_size": "20L"
+            "unit_size": "20L",
+            "id": "2132",
+            "products": "213"
           }
-        ]
+        ],
+        "id": "213",
+        "producer": "21"
       },
       {
         "product": "Fertilizer",
@@ -1105,14 +1465,20 @@
           {
             "item": "Organic Fertilizer",
             "price": "$10.00",
-            "unit_size": "5kg"
+            "unit_size": "5kg",
+            "id": "2141",
+            "products": "214"
           },
           {
             "item": "Chemical Fertilizer",
             "price": "$8.00",
-            "unit_size": "5kg"
+            "unit_size": "5kg",
+            "id": "2142",
+            "products": "214"
           }
-        ]
+        ],
+        "id": "214",
+        "producer": "21"
       },
       {
         "product": "Baskets",
@@ -1120,14 +1486,20 @@
           {
             "item": "Hanging Baskets",
             "price": "$15.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "2151",
+            "products": "215"
           },
           {
             "item": "Flower Baskets",
             "price": "$10.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "2152",
+            "products": "215"
           }
-        ]
+        ],
+        "id": "215",
+        "producer": "21"
       },
       {
         "product": "Planters",
@@ -1135,14 +1507,20 @@
           {
             "item": "Wooden Planters",
             "price": "$20.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "2161",
+            "products": "216"
           },
           {
             "item": "Plastic Planters",
             "price": "$10.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "2162",
+            "products": "216"
           }
-        ]
+        ],
+        "id": "216",
+        "producer": "21"
       },
       {
         "product": "Compost",
@@ -1150,14 +1528,20 @@
           {
             "item": "Organic Compost",
             "price": "$5.00",
-            "unit_size": "20L"
+            "unit_size": "20L",
+            "id": "2171",
+            "products": "217"
           },
           {
             "item": "Mushroom Compost",
             "price": "$6.00",
-            "unit_size": "20L"
+            "unit_size": "20L",
+            "id": "2172",
+            "products": "217"
           }
-        ]
+        ],
+        "id": "217",
+        "producer": "21"
       },
       {
         "product": "Mulch",
@@ -1165,14 +1549,20 @@
           {
             "item": "Wood Mulch",
             "price": "$4.00",
-            "unit_size": "1m³"
+            "unit_size": "1m³",
+            "id": "2181",
+            "products": "218"
           },
           {
             "item": "Bark Mulch",
             "price": "$5.00",
-            "unit_size": "1m³"
+            "unit_size": "1m³",
+            "id": "2182",
+            "products": "218"
           }
-        ]
+        ],
+        "id": "218",
+        "producer": "21"
       }
     ],
     "id": "21"
@@ -1190,14 +1580,20 @@
           {
             "item": "Carrots",
             "price": "$2.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "2211",
+            "products": "221"
           },
           {
             "item": "Potatoes",
             "price": "$3.00",
-            "unit_size": "2kg"
+            "unit_size": "2kg",
+            "id": "2212",
+            "products": "221"
           }
-        ]
+        ],
+        "id": "221",
+        "producer": "22"
       }
     ],
     "id": "22"
@@ -1215,14 +1611,20 @@
           {
             "item": "Topsoil",
             "price": "$3.00",
-            "unit_size": "20L"
+            "unit_size": "20L",
+            "id": "2311",
+            "products": "231"
           },
           {
             "item": "Potting Soil",
             "price": "$5.00",
-            "unit_size": "20L"
+            "unit_size": "20L",
+            "id": "2312",
+            "products": "231"
           }
-        ]
+        ],
+        "id": "231",
+        "producer": "23"
       },
       {
         "product": "Turf Grass",
@@ -1230,14 +1632,20 @@
           {
             "item": "Kentucky Bluegrass",
             "price": "$4.00",
-            "unit_size": "1m²"
+            "unit_size": "1m²",
+            "id": "2321",
+            "products": "232"
           },
           {
             "item": "Fescue",
             "price": "$4.00",
-            "unit_size": "1m²"
+            "unit_size": "1m²",
+            "id": "2322",
+            "products": "232"
           }
-        ]
+        ],
+        "id": "232",
+        "producer": "23"
       }
     ],
     "id": "23"
@@ -1255,14 +1663,20 @@
           {
             "item": "Apples",
             "price": "$3.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "2411",
+            "products": "241"
           },
           {
             "item": "Pears",
             "price": "$4.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "2412",
+            "products": "241"
           }
-        ]
+        ],
+        "id": "241",
+        "producer": "24"
       },
       {
         "product": "Berries",
@@ -1270,14 +1684,20 @@
           {
             "item": "Blueberries",
             "price": "$6.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "2421",
+            "products": "242"
           },
           {
             "item": "Strawberries",
             "price": "$5.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "2422",
+            "products": "242"
           }
-        ]
+        ],
+        "id": "242",
+        "producer": "24"
       },
       {
         "product": "Field Vegetables",
@@ -1285,14 +1705,20 @@
           {
             "item": "Carrots",
             "price": "$2.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "2431",
+            "products": "243"
           },
           {
             "item": "Potatoes",
             "price": "$3.00",
-            "unit_size": "2kg"
+            "unit_size": "2kg",
+            "id": "2432",
+            "products": "243"
           }
-        ]
+        ],
+        "id": "243",
+        "producer": "24"
       }
     ],
     "id": "24"
@@ -1309,14 +1735,20 @@
           {
             "item": "Carrots",
             "price": "$2.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "2511",
+            "products": "251"
           },
           {
             "item": "Potatoes",
             "price": "$3.00",
-            "unit_size": "2kg"
+            "unit_size": "2kg",
+            "id": "2512",
+            "products": "251"
           }
-        ]
+        ],
+        "id": "251",
+        "producer": "25"
       },
       {
         "product": "Hay",
@@ -1324,14 +1756,20 @@
           {
             "item": "Alfalfa",
             "price": "$10.00",
-            "unit_size": "Bale"
+            "unit_size": "Bale",
+            "id": "2521",
+            "products": "252"
           },
           {
             "item": "Timothy",
             "price": "$8.00",
-            "unit_size": "Bale"
+            "unit_size": "Bale",
+            "id": "2522",
+            "products": "252"
           }
-        ]
+        ],
+        "id": "252",
+        "producer": "25"
       }
     ],
     "id": "25"
@@ -1349,14 +1787,20 @@
           {
             "item": "Turkey Breast",
             "price": "$20.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "2611",
+            "products": "261"
           },
           {
             "item": "Turkey Thighs",
             "price": "$15.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "2612",
+            "products": "261"
           }
-        ]
+        ],
+        "id": "261",
+        "producer": "26"
       }
     ],
     "id": "26"
@@ -1373,14 +1817,20 @@
           {
             "item": "Carrots",
             "price": "$2.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "2711",
+            "products": "271"
           },
           {
             "item": "Potatoes",
             "price": "$3.00",
-            "unit_size": "2kg"
+            "unit_size": "2kg",
+            "id": "2712",
+            "products": "271"
           }
-        ]
+        ],
+        "id": "271",
+        "producer": "27"
       }
     ],
     "id": "27"
@@ -1398,14 +1848,20 @@
           {
             "item": "Apples",
             "price": "$3.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "2811",
+            "products": "281"
           },
           {
             "item": "Pears",
             "price": "$4.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "2812",
+            "products": "281"
           }
-        ]
+        ],
+        "id": "281",
+        "producer": "28"
       },
       {
         "product": "Berries",
@@ -1413,14 +1869,20 @@
           {
             "item": "Blueberries",
             "price": "$6.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "2821",
+            "products": "282"
           },
           {
             "item": "Strawberries",
             "price": "$5.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "2822",
+            "products": "282"
           }
-        ]
+        ],
+        "id": "282",
+        "producer": "28"
       },
       {
         "product": "Field Vegetables",
@@ -1428,14 +1890,20 @@
           {
             "item": "Carrots",
             "price": "$2.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "2831",
+            "products": "283"
           },
           {
             "item": "Potatoes",
             "price": "$3.00",
-            "unit_size": "2kg"
+            "unit_size": "2kg",
+            "id": "2832",
+            "products": "283"
           }
-        ]
+        ],
+        "id": "283",
+        "producer": "28"
       },
       {
         "product": "Greenhouse Vegetables",
@@ -1443,14 +1911,20 @@
           {
             "item": "Tomatoes",
             "price": "$3.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "2841",
+            "products": "284"
           },
           {
             "item": "Peppers",
             "price": "$4.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "2842",
+            "products": "284"
           }
-        ]
+        ],
+        "id": "284",
+        "producer": "28"
       },
       {
         "product": "Eggs",
@@ -1458,14 +1932,20 @@
           {
             "item": "Chicken Eggs",
             "price": "$3.00",
-            "unit_size": "Dozen"
+            "unit_size": "Dozen",
+            "id": "2851",
+            "products": "285"
           },
           {
             "item": "Duck Eggs",
             "price": "$5.00",
-            "unit_size": "Dozen"
+            "unit_size": "Dozen",
+            "id": "2852",
+            "products": "285"
           }
-        ]
+        ],
+        "id": "285",
+        "producer": "28"
       },
       {
         "product": "Flowers",
@@ -1473,14 +1953,20 @@
           {
             "item": "Roses",
             "price": "$15.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "2861",
+            "products": "286"
           },
           {
             "item": "Lilies",
             "price": "$10.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "2862",
+            "products": "286"
           }
-        ]
+        ],
+        "id": "286",
+        "producer": "28"
       },
       {
         "product": "Honey/Honey Products",
@@ -1488,14 +1974,20 @@
           {
             "item": "Raw Honey",
             "price": "$10.00",
-            "unit_size": "250g"
+            "unit_size": "250g",
+            "id": "2871",
+            "products": "287"
           },
           {
             "item": "Comb Honey",
             "price": "$12.00",
-            "unit_size": "250g"
+            "unit_size": "250g",
+            "id": "2872",
+            "products": "287"
           }
-        ]
+        ],
+        "id": "287",
+        "producer": "28"
       },
       {
         "product": "Herbs",
@@ -1503,14 +1995,20 @@
           {
             "item": "Basil",
             "price": "$2.00",
-            "unit_size": "30g"
+            "unit_size": "30g",
+            "id": "2881",
+            "products": "288"
           },
           {
             "item": "Thyme",
             "price": "$2.00",
-            "unit_size": "30g"
+            "unit_size": "30g",
+            "id": "2882",
+            "products": "288"
           }
-        ]
+        ],
+        "id": "288",
+        "producer": "28"
       },
       {
         "product": "Milk/Dairy Products",
@@ -1518,14 +2016,20 @@
           {
             "item": "Cheese",
             "price": "$8.00",
-            "unit_size": "200g"
+            "unit_size": "200g",
+            "id": "2891",
+            "products": "289"
           },
           {
             "item": "Milk",
             "price": "$3.00",
-            "unit_size": "1L"
+            "unit_size": "1L",
+            "id": "2892",
+            "products": "289"
           }
-        ]
+        ],
+        "id": "289",
+        "producer": "28"
       },
       {
         "product": "Value-Added",
@@ -1533,14 +2037,20 @@
           {
             "item": "Preserves",
             "price": "$5.00",
-            "unit_size": "250ml"
+            "unit_size": "250ml",
+            "id": "28101",
+            "products": "2810"
           },
           {
             "item": "Jams",
             "price": "$5.00",
-            "unit_size": "250ml"
+            "unit_size": "250ml",
+            "id": "28102",
+            "products": "2810"
           }
-        ]
+        ],
+        "id": "2810",
+        "producer": "28"
       },
       {
         "product": "Beef",
@@ -1548,14 +2058,20 @@
           {
             "item": "Steak",
             "price": "$15.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "28111",
+            "products": "2811"
           },
           {
             "item": "Ground Beef",
             "price": "$10.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "28112",
+            "products": "2811"
           }
-        ]
+        ],
+        "id": "2811",
+        "producer": "28"
       },
       {
         "product": "Pork",
@@ -1563,14 +2079,20 @@
           {
             "item": "Pork Chops",
             "price": "$12.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "28121",
+            "products": "2812"
           },
           {
             "item": "Bacon",
             "price": "$8.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "28122",
+            "products": "2812"
           }
-        ]
+        ],
+        "id": "2812",
+        "producer": "28"
       },
       {
         "product": "Lamb",
@@ -1578,14 +2100,20 @@
           {
             "item": "Lamb Chops",
             "price": "$15.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "28131",
+            "products": "2813"
           },
           {
             "item": "Lamb Shanks",
             "price": "$12.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "28132",
+            "products": "2813"
           }
-        ]
+        ],
+        "id": "2813",
+        "producer": "28"
       },
       {
         "product": "Turkey",
@@ -1593,14 +2121,20 @@
           {
             "item": "Turkey Breast",
             "price": "$20.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "28141",
+            "products": "2814"
           },
           {
             "item": "Turkey Thighs",
             "price": "$15.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "28142",
+            "products": "2814"
           }
-        ]
+        ],
+        "id": "2814",
+        "producer": "28"
       },
       {
         "product": "Chicken",
@@ -1608,14 +2142,20 @@
           {
             "item": "Chicken Breasts",
             "price": "$10.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "28151",
+            "products": "2815"
           },
           {
             "item": "Chicken Thighs",
             "price": "$8.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "28152",
+            "products": "2815"
           }
-        ]
+        ],
+        "id": "2815",
+        "producer": "28"
       },
       {
         "product": "Tilapia",
@@ -1623,14 +2163,20 @@
           {
             "item": "Tilapia Fillets",
             "price": "$12.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "28161",
+            "products": "2816"
           },
           {
             "item": "Whole Tilapia",
             "price": "$10.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "28162",
+            "products": "2816"
           }
-        ]
+        ],
+        "id": "2816",
+        "producer": "28"
       }
     ],
     "id": "28"
@@ -1647,14 +2193,20 @@
           {
             "item": "Apples",
             "price": "$3.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "2911",
+            "products": "291"
           },
           {
             "item": "Pears",
             "price": "$4.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "2912",
+            "products": "291"
           }
-        ]
+        ],
+        "id": "291",
+        "producer": "29"
       },
       {
         "product": "Berries",
@@ -1662,14 +2214,20 @@
           {
             "item": "Blueberries",
             "price": "$6.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "2921",
+            "products": "292"
           },
           {
             "item": "Strawberries",
             "price": "$5.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "2922",
+            "products": "292"
           }
-        ]
+        ],
+        "id": "292",
+        "producer": "29"
       },
       {
         "product": "Field Vegetables",
@@ -1677,14 +2235,20 @@
           {
             "item": "Carrots",
             "price": "$2.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "2931",
+            "products": "293"
           },
           {
             "item": "Potatoes",
             "price": "$3.00",
-            "unit_size": "2kg"
+            "unit_size": "2kg",
+            "id": "2932",
+            "products": "293"
           }
-        ]
+        ],
+        "id": "293",
+        "producer": "29"
       },
       {
         "product": "Greenhouse Vegetables",
@@ -1692,14 +2256,20 @@
           {
             "item": "Tomatoes",
             "price": "$3.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "2941",
+            "products": "294"
           },
           {
             "item": "Peppers",
             "price": "$4.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "2942",
+            "products": "294"
           }
-        ]
+        ],
+        "id": "294",
+        "producer": "29"
       },
       {
         "product": "Eggs",
@@ -1707,14 +2277,20 @@
           {
             "item": "Chicken Eggs",
             "price": "$3.00",
-            "unit_size": "Dozen"
+            "unit_size": "Dozen",
+            "id": "2951",
+            "products": "295"
           },
           {
             "item": "Duck Eggs",
             "price": "$5.00",
-            "unit_size": "Dozen"
+            "unit_size": "Dozen",
+            "id": "2952",
+            "products": "295"
           }
-        ]
+        ],
+        "id": "295",
+        "producer": "29"
       },
       {
         "product": "Flowers",
@@ -1722,14 +2298,20 @@
           {
             "item": "Roses",
             "price": "$15.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "2961",
+            "products": "296"
           },
           {
             "item": "Lilies",
             "price": "$10.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "2962",
+            "products": "296"
           }
-        ]
+        ],
+        "id": "296",
+        "producer": "29"
       },
       {
         "product": "Honey/Honey Products",
@@ -1737,14 +2319,20 @@
           {
             "item": "Raw Honey",
             "price": "$10.00",
-            "unit_size": "250g"
+            "unit_size": "250g",
+            "id": "2971",
+            "products": "297"
           },
           {
             "item": "Comb Honey",
             "price": "$12.00",
-            "unit_size": "250g"
+            "unit_size": "250g",
+            "id": "2972",
+            "products": "297"
           }
-        ]
+        ],
+        "id": "297",
+        "producer": "29"
       },
       {
         "product": "Herbs",
@@ -1752,14 +2340,20 @@
           {
             "item": "Basil",
             "price": "$2.00",
-            "unit_size": "30g"
+            "unit_size": "30g",
+            "id": "2981",
+            "products": "298"
           },
           {
             "item": "Thyme",
             "price": "$2.00",
-            "unit_size": "30g"
+            "unit_size": "30g",
+            "id": "2982",
+            "products": "298"
           }
-        ]
+        ],
+        "id": "298",
+        "producer": "29"
       },
       {
         "product": "Milk/Dairy Products",
@@ -1767,14 +2361,20 @@
           {
             "item": "Cheese",
             "price": "$8.00",
-            "unit_size": "200g"
+            "unit_size": "200g",
+            "id": "2991",
+            "products": "299"
           },
           {
             "item": "Milk",
             "price": "$3.00",
-            "unit_size": "1L"
+            "unit_size": "1L",
+            "id": "2992",
+            "products": "299"
           }
-        ]
+        ],
+        "id": "299",
+        "producer": "29"
       },
       {
         "product": "Lamb",
@@ -1782,14 +2382,20 @@
           {
             "item": "Lamb Chops",
             "price": "$15.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "29101",
+            "products": "2910"
           },
           {
             "item": "Lamb Shanks",
             "price": "$12.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "29102",
+            "products": "2910"
           }
-        ]
+        ],
+        "id": "2910",
+        "producer": "29"
       },
       {
         "product": "Harvest Hut (food truck)",
@@ -1797,14 +2403,20 @@
           {
             "item": "Burgers",
             "price": "$8.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "29111",
+            "products": "2911"
           },
           {
             "item": "Fries",
             "price": "$4.00",
-            "unit_size": "Serving"
+            "unit_size": "Serving",
+            "id": "29112",
+            "products": "2911"
           }
-        ]
+        ],
+        "id": "2911",
+        "producer": "29"
       },
       {
         "product": "Bottled Items",
@@ -1812,14 +2424,20 @@
           {
             "item": "Pickles",
             "price": "$4.00",
-            "unit_size": "500ml"
+            "unit_size": "500ml",
+            "id": "29121",
+            "products": "2912"
           },
           {
             "item": "Salsa",
             "price": "$5.00",
-            "unit_size": "500ml"
+            "unit_size": "500ml",
+            "id": "29122",
+            "products": "2912"
           }
-        ]
+        ],
+        "id": "2912",
+        "producer": "29"
       },
       {
         "product": "Bakery",
@@ -1827,14 +2445,20 @@
           {
             "item": "Bread",
             "price": "$3.00",
-            "unit_size": "Loaf"
+            "unit_size": "Loaf",
+            "id": "29131",
+            "products": "2913"
           },
           {
             "item": "Pastries",
             "price": "$2.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "29132",
+            "products": "2913"
           }
-        ]
+        ],
+        "id": "2913",
+        "producer": "29"
       },
       {
         "product": "Petting Barn",
@@ -1842,14 +2466,20 @@
           {
             "item": "Goats",
             "price": "$5.00",
-            "unit_size": "Visit"
+            "unit_size": "Visit",
+            "id": "29141",
+            "products": "2914"
           },
           {
             "item": "Sheep",
             "price": "$5.00",
-            "unit_size": "Visit"
+            "unit_size": "Visit",
+            "id": "29142",
+            "products": "2914"
           }
-        ]
+        ],
+        "id": "2914",
+        "producer": "29"
       },
       {
         "product": "Classes",
@@ -1857,14 +2487,20 @@
           {
             "item": "Gardening",
             "price": "$20.00",
-            "unit_size": "Class"
+            "unit_size": "Class",
+            "id": "29151",
+            "products": "2915"
           },
           {
             "item": "Cooking",
             "price": "$25.00",
-            "unit_size": "Class"
+            "unit_size": "Class",
+            "id": "29152",
+            "products": "2915"
           }
-        ]
+        ],
+        "id": "2915",
+        "producer": "29"
       },
       {
         "product": "Seasonal Activities",
@@ -1872,14 +2508,20 @@
           {
             "item": "Pumpkin Picking",
             "price": "$10.00",
-            "unit_size": "Visit"
+            "unit_size": "Visit",
+            "id": "29161",
+            "products": "2916"
           },
           {
             "item": "Corn Maze",
             "price": "$8.00",
-            "unit_size": "Visit"
+            "unit_size": "Visit",
+            "id": "29162",
+            "products": "2916"
           }
-        ]
+        ],
+        "id": "2916",
+        "producer": "29"
       },
       {
         "product": "Childrens Programs",
@@ -1887,14 +2529,20 @@
           {
             "item": "Farm Tours",
             "price": "$5.00",
-            "unit_size": "Visit"
+            "unit_size": "Visit",
+            "id": "29171",
+            "products": "2917"
           },
           {
             "item": "Petting Zoo",
             "price": "$5.00",
-            "unit_size": "Visit"
+            "unit_size": "Visit",
+            "id": "29172",
+            "products": "2917"
           }
-        ]
+        ],
+        "id": "2917",
+        "producer": "29"
       },
       {
         "product": "Agritourism",
@@ -1902,14 +2550,20 @@
           {
             "item": "Farm Tours",
             "price": "$5.00",
-            "unit_size": "Visit"
+            "unit_size": "Visit",
+            "id": "29181",
+            "products": "2918"
           },
           {
             "item": "Workshops",
             "price": "$20.00",
-            "unit_size": "Workshop"
+            "unit_size": "Workshop",
+            "id": "29182",
+            "products": "2918"
           }
-        ]
+        ],
+        "id": "2918",
+        "producer": "29"
       }
     ],
     "id": "29"
@@ -1926,14 +2580,20 @@
           {
             "item": "Carrots",
             "price": "$2.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "3011",
+            "products": "301"
           },
           {
             "item": "Potatoes",
             "price": "$3.00",
-            "unit_size": "2kg"
+            "unit_size": "2kg",
+            "id": "3012",
+            "products": "301"
           }
-        ]
+        ],
+        "id": "301",
+        "producer": "30"
       },
       {
         "product": "Greenhouse Vegetables",
@@ -1941,14 +2601,20 @@
           {
             "item": "Tomatoes",
             "price": "$3.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "3021",
+            "products": "302"
           },
           {
             "item": "Peppers",
             "price": "$4.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "3022",
+            "products": "302"
           }
-        ]
+        ],
+        "id": "302",
+        "producer": "30"
       },
       {
         "product": "Value Added( preserves, jams, etc)",
@@ -1956,14 +2622,20 @@
           {
             "item": "Strawberry Jam",
             "price": "$5.00",
-            "unit_size": "250ml"
+            "unit_size": "250ml",
+            "id": "3031",
+            "products": "303"
           },
           {
             "item": "Pickles",
             "price": "$4.00",
-            "unit_size": "500ml"
+            "unit_size": "500ml",
+            "id": "3032",
+            "products": "303"
           }
-        ]
+        ],
+        "id": "303",
+        "producer": "30"
       }
     ],
     "id": "30"
@@ -1981,14 +2653,20 @@
           {
             "item": "Carrots",
             "price": "$2.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "3111",
+            "products": "311"
           },
           {
             "item": "Potatoes",
             "price": "$3.00",
-            "unit_size": "2kg"
+            "unit_size": "2kg",
+            "id": "3112",
+            "products": "311"
           }
-        ]
+        ],
+        "id": "311",
+        "producer": "31"
       },
       {
         "product": "Greenhouse Vegetables",
@@ -1996,14 +2674,20 @@
           {
             "item": "Tomatoes",
             "price": "$3.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "3121",
+            "products": "312"
           },
           {
             "item": "Peppers",
             "price": "$4.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "3122",
+            "products": "312"
           }
-        ]
+        ],
+        "id": "312",
+        "producer": "31"
       },
       {
         "product": "Sod",
@@ -2011,14 +2695,20 @@
           {
             "item": "Kentucky Bluegrass",
             "price": "$4.00",
-            "unit_size": "1m²"
+            "unit_size": "1m²",
+            "id": "3131",
+            "products": "313"
           },
           {
             "item": "Fescue",
             "price": "$4.00",
-            "unit_size": "1m²"
+            "unit_size": "1m²",
+            "id": "3132",
+            "products": "313"
           }
-        ]
+        ],
+        "id": "313",
+        "producer": "31"
       }
     ],
     "id": "31"
@@ -2036,14 +2726,20 @@
           {
             "item": "Carrots",
             "price": "$2.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "3211",
+            "products": "321"
           },
           {
             "item": "Potatoes",
             "price": "$3.00",
-            "unit_size": "2kg"
+            "unit_size": "2kg",
+            "id": "3212",
+            "products": "321"
           }
-        ]
+        ],
+        "id": "321",
+        "producer": "32"
       },
       {
         "product": "Sod",
@@ -2051,14 +2747,20 @@
           {
             "item": "Kentucky Bluegrass",
             "price": "$4.00",
-            "unit_size": "1m²"
+            "unit_size": "1m²",
+            "id": "3221",
+            "products": "322"
           },
           {
             "item": "Fescue",
             "price": "$4.00",
-            "unit_size": "1m²"
+            "unit_size": "1m²",
+            "id": "3222",
+            "products": "322"
           }
-        ]
+        ],
+        "id": "322",
+        "producer": "32"
       }
     ],
     "id": "32"
@@ -2075,14 +2777,20 @@
           {
             "item": "Kentucky Bluegrass",
             "price": "$4.00",
-            "unit_size": "1m²"
+            "unit_size": "1m²",
+            "id": "3311",
+            "products": "331"
           },
           {
             "item": "Fescue",
             "price": "$4.00",
-            "unit_size": "1m²"
+            "unit_size": "1m²",
+            "id": "3312",
+            "products": "331"
           }
-        ]
+        ],
+        "id": "331",
+        "producer": "33"
       }
     ],
     "id": "33"
@@ -2100,14 +2808,20 @@
           {
             "item": "Carrots",
             "price": "$2.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "3411",
+            "products": "341"
           },
           {
             "item": "Potatoes",
             "price": "$3.00",
-            "unit_size": "2kg"
+            "unit_size": "2kg",
+            "id": "3412",
+            "products": "341"
           }
-        ]
+        ],
+        "id": "341",
+        "producer": "34"
       },
       {
         "product": "Herbs",
@@ -2115,14 +2829,20 @@
           {
             "item": "Basil",
             "price": "$2.00",
-            "unit_size": "30g"
+            "unit_size": "30g",
+            "id": "3421",
+            "products": "342"
           },
           {
             "item": "Thyme",
             "price": "$2.00",
-            "unit_size": "30g"
+            "unit_size": "30g",
+            "id": "3422",
+            "products": "342"
           }
-        ]
+        ],
+        "id": "342",
+        "producer": "34"
       },
       {
         "product": "Beef",
@@ -2130,14 +2850,20 @@
           {
             "item": "Steak",
             "price": "$15.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "3431",
+            "products": "343"
           },
           {
             "item": "Ground Beef",
             "price": "$10.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "3432",
+            "products": "343"
           }
-        ]
+        ],
+        "id": "343",
+        "producer": "34"
       },
       {
         "product": "Pork",
@@ -2145,14 +2871,20 @@
           {
             "item": "Pork Chops",
             "price": "$12.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "3441",
+            "products": "344"
           },
           {
             "item": "Bacon",
             "price": "$8.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "3442",
+            "products": "344"
           }
-        ]
+        ],
+        "id": "344",
+        "producer": "34"
       },
       {
         "product": "Lamb",
@@ -2160,14 +2892,20 @@
           {
             "item": "Lamb Chops",
             "price": "$15.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "3451",
+            "products": "345"
           },
           {
             "item": "Lamb Shanks",
             "price": "$12.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "3452",
+            "products": "345"
           }
-        ]
+        ],
+        "id": "345",
+        "producer": "34"
       },
       {
         "product": "Turkey",
@@ -2175,14 +2913,20 @@
           {
             "item": "Turkey Breast",
             "price": "$20.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "3461",
+            "products": "346"
           },
           {
             "item": "Turkey Thighs",
             "price": "$15.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "3462",
+            "products": "346"
           }
-        ]
+        ],
+        "id": "346",
+        "producer": "34"
       },
       {
         "product": "Chicken",
@@ -2190,14 +2934,20 @@
           {
             "item": "Chicken Breasts",
             "price": "$10.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "3471",
+            "products": "347"
           },
           {
             "item": "Chicken Thighs",
             "price": "$8.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "3472",
+            "products": "347"
           }
-        ]
+        ],
+        "id": "347",
+        "producer": "34"
       }
     ],
     "id": "34"
@@ -2214,14 +2964,20 @@
           {
             "item": "Apples",
             "price": "$3.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "3511",
+            "products": "351"
           },
           {
             "item": "Pears",
             "price": "$4.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "3512",
+            "products": "351"
           }
-        ]
+        ],
+        "id": "351",
+        "producer": "35"
       },
       {
         "product": "Berries",
@@ -2229,14 +2985,20 @@
           {
             "item": "Blueberries",
             "price": "$6.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "3521",
+            "products": "352"
           },
           {
             "item": "Strawberries",
             "price": "$5.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "3522",
+            "products": "352"
           }
-        ]
+        ],
+        "id": "352",
+        "producer": "35"
       },
       {
         "product": "Field Vegetables",
@@ -2244,14 +3006,20 @@
           {
             "item": "Carrots",
             "price": "$2.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "3531",
+            "products": "353"
           },
           {
             "item": "Potatoes",
             "price": "$3.00",
-            "unit_size": "2kg"
+            "unit_size": "2kg",
+            "id": "3532",
+            "products": "353"
           }
-        ]
+        ],
+        "id": "353",
+        "producer": "35"
       },
       {
         "product": "Greenhouse Vegetables",
@@ -2259,14 +3027,20 @@
           {
             "item": "Tomatoes",
             "price": "$3.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "3541",
+            "products": "354"
           },
           {
             "item": "Peppers",
             "price": "$4.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "3542",
+            "products": "354"
           }
-        ]
+        ],
+        "id": "354",
+        "producer": "35"
       },
       {
         "product": "Honey/Honey Products",
@@ -2274,14 +3048,20 @@
           {
             "item": "Raw Honey",
             "price": "$10.00",
-            "unit_size": "250g"
+            "unit_size": "250g",
+            "id": "3551",
+            "products": "355"
           },
           {
             "item": "Comb Honey",
             "price": "$12.00",
-            "unit_size": "250g"
+            "unit_size": "250g",
+            "id": "3552",
+            "products": "355"
           }
-        ]
+        ],
+        "id": "355",
+        "producer": "35"
       },
       {
         "product": "Herbs",
@@ -2289,14 +3069,20 @@
           {
             "item": "Basil",
             "price": "$2.00",
-            "unit_size": "30g"
+            "unit_size": "30g",
+            "id": "3561",
+            "products": "356"
           },
           {
             "item": "Thyme",
             "price": "$2.00",
-            "unit_size": "30g"
+            "unit_size": "30g",
+            "id": "3562",
+            "products": "356"
           }
-        ]
+        ],
+        "id": "356",
+        "producer": "35"
       },
       {
         "product": "Microgreens",
@@ -2304,14 +3090,20 @@
           {
             "item": "Radish Microgreens",
             "price": "$3.00",
-            "unit_size": "50g"
+            "unit_size": "50g",
+            "id": "3571",
+            "products": "357"
           },
           {
             "item": "Broccoli Microgreens",
             "price": "$3.00",
-            "unit_size": "50g"
+            "unit_size": "50g",
+            "id": "3572",
+            "products": "357"
           }
-        ]
+        ],
+        "id": "357",
+        "producer": "35"
       }
     ],
     "id": "35"
@@ -2329,14 +3121,20 @@
           {
             "item": "Blueberries",
             "price": "$6.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "3611",
+            "products": "361"
           },
           {
             "item": "Strawberries",
             "price": "$5.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "3612",
+            "products": "361"
           }
-        ]
+        ],
+        "id": "361",
+        "producer": "36"
       },
       {
         "product": "Greenhouse Vegetables",
@@ -2344,14 +3142,20 @@
           {
             "item": "Tomatoes",
             "price": "$3.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "3621",
+            "products": "362"
           },
           {
             "item": "Peppers",
             "price": "$4.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "3622",
+            "products": "362"
           }
-        ]
+        ],
+        "id": "362",
+        "producer": "36"
       },
       {
         "product": "Flowers",
@@ -2359,14 +3163,20 @@
           {
             "item": "Roses",
             "price": "$15.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "3631",
+            "products": "363"
           },
           {
             "item": "Lilies",
             "price": "$10.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "3632",
+            "products": "363"
           }
-        ]
+        ],
+        "id": "363",
+        "producer": "36"
       }
     ],
     "id": "36"
@@ -2382,14 +3192,20 @@
           {
             "item": "Blueberries",
             "price": "$6.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "3711",
+            "products": "371"
           },
           {
             "item": "Strawberries",
             "price": "$5.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "3712",
+            "products": "371"
           }
-        ]
+        ],
+        "id": "371",
+        "producer": "37"
       },
       {
         "product": "Field Vegetables",
@@ -2397,14 +3213,20 @@
           {
             "item": "Carrots",
             "price": "$2.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "3721",
+            "products": "372"
           },
           {
             "item": "Potatoes",
             "price": "$3.00",
-            "unit_size": "2kg"
+            "unit_size": "2kg",
+            "id": "3722",
+            "products": "372"
           }
-        ]
+        ],
+        "id": "372",
+        "producer": "37"
       },
       {
         "product": "Eggs",
@@ -2412,14 +3234,20 @@
           {
             "item": "Chicken Eggs",
             "price": "$3.00",
-            "unit_size": "Dozen"
+            "unit_size": "Dozen",
+            "id": "3731",
+            "products": "373"
           },
           {
             "item": "Duck Eggs",
             "price": "$5.00",
-            "unit_size": "Dozen"
+            "unit_size": "Dozen",
+            "id": "3732",
+            "products": "373"
           }
-        ]
+        ],
+        "id": "373",
+        "producer": "37"
       },
       {
         "product": "Honey/Honey Products",
@@ -2427,14 +3255,20 @@
           {
             "item": "Raw Honey",
             "price": "$10.00",
-            "unit_size": "250g"
+            "unit_size": "250g",
+            "id": "3741",
+            "products": "374"
           },
           {
             "item": "Comb Honey",
             "price": "$12.00",
-            "unit_size": "250g"
+            "unit_size": "250g",
+            "id": "3742",
+            "products": "374"
           }
-        ]
+        ],
+        "id": "374",
+        "producer": "37"
       },
       {
         "product": "Beef",
@@ -2442,14 +3276,20 @@
           {
             "item": "Steak",
             "price": "$15.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "3751",
+            "products": "375"
           },
           {
             "item": "Ground Beef",
             "price": "$10.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "3752",
+            "products": "375"
           }
-        ]
+        ],
+        "id": "375",
+        "producer": "37"
       },
       {
         "product": "Pork",
@@ -2457,14 +3297,20 @@
           {
             "item": "Pork Chops",
             "price": "$12.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "3761",
+            "products": "376"
           },
           {
             "item": "Bacon",
             "price": "$8.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "3762",
+            "products": "376"
           }
-        ]
+        ],
+        "id": "376",
+        "producer": "37"
       },
       {
         "product": "Lamb",
@@ -2472,14 +3318,20 @@
           {
             "item": "Lamb Chops",
             "price": "$15.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "3771",
+            "products": "377"
           },
           {
             "item": "Lamb Shanks",
             "price": "$12.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "3772",
+            "products": "377"
           }
-        ]
+        ],
+        "id": "377",
+        "producer": "37"
       },
       {
         "product": "Turkey",
@@ -2487,14 +3339,20 @@
           {
             "item": "Turkey Breast",
             "price": "$20.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "3781",
+            "products": "378"
           },
           {
             "item": "Turkey Thighs",
             "price": "$15.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "3782",
+            "products": "378"
           }
-        ]
+        ],
+        "id": "378",
+        "producer": "37"
       },
       {
         "product": "Chicken",
@@ -2502,14 +3360,20 @@
           {
             "item": "Chicken Breasts",
             "price": "$10.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "3791",
+            "products": "379"
           },
           {
             "item": "Chicken Thighs",
             "price": "$8.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "3792",
+            "products": "379"
           }
-        ]
+        ],
+        "id": "379",
+        "producer": "37"
       }
     ],
     "id": "37"
@@ -2527,14 +3391,20 @@
           {
             "item": "Steak",
             "price": "$15.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "3811",
+            "products": "381"
           },
           {
             "item": "Ground Beef",
             "price": "$10.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "3812",
+            "products": "381"
           }
-        ]
+        ],
+        "id": "381",
+        "producer": "38"
       },
       {
         "product": "Pork",
@@ -2542,14 +3412,20 @@
           {
             "item": "Pork Chops",
             "price": "$12.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "3821",
+            "products": "382"
           },
           {
             "item": "Bacon",
             "price": "$8.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "3822",
+            "products": "382"
           }
-        ]
+        ],
+        "id": "382",
+        "producer": "38"
       },
       {
         "product": "Lamb",
@@ -2557,14 +3433,20 @@
           {
             "item": "Lamb Chops",
             "price": "$15.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "3831",
+            "products": "383"
           },
           {
             "item": "Lamb Shanks",
             "price": "$12.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "3832",
+            "products": "383"
           }
-        ]
+        ],
+        "id": "383",
+        "producer": "38"
       },
       {
         "product": "Chicken",
@@ -2572,14 +3454,20 @@
           {
             "item": "Chicken Breasts",
             "price": "$10.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "3841",
+            "products": "384"
           },
           {
             "item": "Chicken Thighs",
             "price": "$8.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "3842",
+            "products": "384"
           }
-        ]
+        ],
+        "id": "384",
+        "producer": "38"
       }
     ],
     "id": "38"
@@ -2597,14 +3485,20 @@
           {
             "item": "Apples",
             "price": "$3.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "3911",
+            "products": "391"
           },
           {
             "item": "Pears",
             "price": "$4.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "3912",
+            "products": "391"
           }
-        ]
+        ],
+        "id": "391",
+        "producer": "39"
       },
       {
         "product": "Berries",
@@ -2612,14 +3506,20 @@
           {
             "item": "Blueberries",
             "price": "$6.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "3921",
+            "products": "392"
           },
           {
             "item": "Strawberries",
             "price": "$5.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "3922",
+            "products": "392"
           }
-        ]
+        ],
+        "id": "392",
+        "producer": "39"
       },
       {
         "product": "Field Vegetables",
@@ -2627,14 +3527,20 @@
           {
             "item": "Carrots",
             "price": "$2.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "3931",
+            "products": "393"
           },
           {
             "item": "Potatoes",
             "price": "$3.00",
-            "unit_size": "2kg"
+            "unit_size": "2kg",
+            "id": "3932",
+            "products": "393"
           }
-        ]
+        ],
+        "id": "393",
+        "producer": "39"
       },
       {
         "product": "Greenhouse Vegetables",
@@ -2642,14 +3548,20 @@
           {
             "item": "Tomatoes",
             "price": "$3.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "3941",
+            "products": "394"
           },
           {
             "item": "Peppers",
             "price": "$4.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "3942",
+            "products": "394"
           }
-        ]
+        ],
+        "id": "394",
+        "producer": "39"
       },
       {
         "product": "Flowers",
@@ -2657,14 +3569,20 @@
           {
             "item": "Roses",
             "price": "$15.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "3951",
+            "products": "395"
           },
           {
             "item": "Lilies",
             "price": "$10.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "3952",
+            "products": "395"
           }
-        ]
+        ],
+        "id": "395",
+        "producer": "39"
       },
       {
         "product": "Herbs",
@@ -2672,14 +3590,20 @@
           {
             "item": "Basil",
             "price": "$2.00",
-            "unit_size": "30g"
+            "unit_size": "30g",
+            "id": "3961",
+            "products": "396"
           },
           {
             "item": "Thyme",
             "price": "$2.00",
-            "unit_size": "30g"
+            "unit_size": "30g",
+            "id": "3962",
+            "products": "396"
           }
-        ]
+        ],
+        "id": "396",
+        "producer": "39"
       },
       {
         "product": "Winter Greens",
@@ -2687,14 +3611,20 @@
           {
             "item": "Kale",
             "price": "$4.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "3971",
+            "products": "397"
           },
           {
             "item": "Spinach",
             "price": "$3.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "3972",
+            "products": "397"
           }
-        ]
+        ],
+        "id": "397",
+        "producer": "39"
       },
       {
         "product": "Shoots and Micro-Greens",
@@ -2702,14 +3632,20 @@
           {
             "item": "Radish Microgreens",
             "price": "$3.00",
-            "unit_size": "50g"
+            "unit_size": "50g",
+            "id": "3981",
+            "products": "398"
           },
           {
             "item": "Broccoli Microgreens",
             "price": "$3.00",
-            "unit_size": "50g"
+            "unit_size": "50g",
+            "id": "3982",
+            "products": "398"
           }
-        ]
+        ],
+        "id": "398",
+        "producer": "39"
       }
     ],
     "id": "39"
@@ -2727,14 +3663,20 @@
           {
             "item": "Apples",
             "price": "$3.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "4011",
+            "products": "401"
           },
           {
             "item": "Pears",
             "price": "$4.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "4012",
+            "products": "401"
           }
-        ]
+        ],
+        "id": "401",
+        "producer": "40"
       },
       {
         "product": "Berries",
@@ -2742,14 +3684,20 @@
           {
             "item": "Blueberries",
             "price": "$6.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "4021",
+            "products": "402"
           },
           {
             "item": "Strawberries",
             "price": "$5.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "4022",
+            "products": "402"
           }
-        ]
+        ],
+        "id": "402",
+        "producer": "40"
       },
       {
         "product": "Greenhouse Vegetables",
@@ -2757,14 +3705,20 @@
           {
             "item": "Tomatoes",
             "price": "$3.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "4031",
+            "products": "403"
           },
           {
             "item": "Peppers",
             "price": "$4.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "4032",
+            "products": "403"
           }
-        ]
+        ],
+        "id": "403",
+        "producer": "40"
       },
       {
         "product": "Flowers",
@@ -2772,14 +3726,20 @@
           {
             "item": "Roses",
             "price": "$15.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "4041",
+            "products": "404"
           },
           {
             "item": "Lilies",
             "price": "$10.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "4042",
+            "products": "404"
           }
-        ]
+        ],
+        "id": "404",
+        "producer": "40"
       },
       {
         "product": "Herbs",
@@ -2787,14 +3747,20 @@
           {
             "item": "Basil",
             "price": "$2.00",
-            "unit_size": "30g"
+            "unit_size": "30g",
+            "id": "4051",
+            "products": "405"
           },
           {
             "item": "Thyme",
             "price": "$2.00",
-            "unit_size": "30g"
+            "unit_size": "30g",
+            "id": "4052",
+            "products": "405"
           }
-        ]
+        ],
+        "id": "405",
+        "producer": "40"
       },
       {
         "product": "Floral Arrangements",
@@ -2802,14 +3768,20 @@
           {
             "item": "Bouquets",
             "price": "$20.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "4061",
+            "products": "406"
           },
           {
             "item": "Centerpieces",
             "price": "$25.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "4062",
+            "products": "406"
           }
-        ]
+        ],
+        "id": "406",
+        "producer": "40"
       },
       {
         "product": "Custom Plantings",
@@ -2817,14 +3789,20 @@
           {
             "item": "Planters",
             "price": "$30.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "4071",
+            "products": "407"
           },
           {
             "item": "Hanging Baskets",
             "price": "$15.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "4072",
+            "products": "407"
           }
-        ]
+        ],
+        "id": "407",
+        "producer": "40"
       },
       {
         "product": "Landscaping",
@@ -2832,14 +3810,20 @@
           {
             "item": "Garden Design",
             "price": "$100.00",
-            "unit_size": "Per Service"
+            "unit_size": "Per Service",
+            "id": "4081",
+            "products": "408"
           },
           {
             "item": "Lawn Care",
             "price": "$50.00",
-            "unit_size": "Per Service"
+            "unit_size": "Per Service",
+            "id": "4082",
+            "products": "408"
           }
-        ]
+        ],
+        "id": "408",
+        "producer": "40"
       },
       {
         "product": "Nursery",
@@ -2847,14 +3831,20 @@
           {
             "item": "Saplings",
             "price": "$10.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "4091",
+            "products": "409"
           },
           {
             "item": "Seedlings",
             "price": "$5.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "4092",
+            "products": "409"
           }
-        ]
+        ],
+        "id": "409",
+        "producer": "40"
       },
       {
         "product": "Gardening Related Needs and Gifts",
@@ -2862,14 +3852,20 @@
           {
             "item": "Garden Tools",
             "price": "$20.00",
-            "unit_size": "Set"
+            "unit_size": "Set",
+            "id": "40101",
+            "products": "4010"
           },
           {
             "item": "Gift Baskets",
             "price": "$30.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "40102",
+            "products": "4010"
           }
-        ]
+        ],
+        "id": "4010",
+        "producer": "40"
       }
     ],
     "id": "40"
@@ -2887,14 +3883,20 @@
           {
             "item": "Raw Honey",
             "price": "$10.00",
-            "unit_size": "250g"
+            "unit_size": "250g",
+            "id": "4111",
+            "products": "411"
           },
           {
             "item": "Comb Honey",
             "price": "$12.00",
-            "unit_size": "250g"
+            "unit_size": "250g",
+            "id": "4112",
+            "products": "411"
           }
-        ]
+        ],
+        "id": "411",
+        "producer": "41"
       },
       {
         "product": "Beeswax candles",
@@ -2902,14 +3904,20 @@
           {
             "item": "Taper Candles",
             "price": "$5.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "4121",
+            "products": "412"
           },
           {
             "item": "Pillar Candles",
             "price": "$8.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "4122",
+            "products": "412"
           }
-        ]
+        ],
+        "id": "412",
+        "producer": "41"
       },
       {
         "product": "Body care products from beehive",
@@ -2917,14 +3925,20 @@
           {
             "item": "Beeswax Lip Balm",
             "price": "$3.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "4131",
+            "products": "413"
           },
           {
             "item": "Honey Lotion",
             "price": "$10.00",
-            "unit_size": "200ml"
+            "unit_size": "200ml",
+            "id": "4132",
+            "products": "413"
           }
-        ]
+        ],
+        "id": "413",
+        "producer": "41"
       }
     ],
     "id": "41"
@@ -2942,14 +3956,20 @@
           {
             "item": "Blueberries",
             "price": "$6.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "4211",
+            "products": "421"
           },
           {
             "item": "Strawberries",
             "price": "$5.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "4212",
+            "products": "421"
           }
-        ]
+        ],
+        "id": "421",
+        "producer": "42"
       }
     ],
     "id": "42"
@@ -2965,14 +3985,20 @@
           {
             "item": "Kentucky Bluegrass",
             "price": "$4.00",
-            "unit_size": "1m²"
+            "unit_size": "1m²",
+            "id": "4311",
+            "products": "431"
           },
           {
             "item": "Fescue",
             "price": "$4.00",
-            "unit_size": "1m²"
+            "unit_size": "1m²",
+            "id": "4312",
+            "products": "431"
           }
-        ]
+        ],
+        "id": "431",
+        "producer": "43"
       }
     ],
     "id": "43"
@@ -2988,14 +4014,20 @@
           {
             "item": "Carrots",
             "price": "$2.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "4411",
+            "products": "441"
           },
           {
             "item": "Potatoes",
             "price": "$3.00",
-            "unit_size": "2kg"
+            "unit_size": "2kg",
+            "id": "4412",
+            "products": "441"
           }
-        ]
+        ],
+        "id": "441",
+        "producer": "44"
       },
       {
         "product": "Hay",
@@ -3003,14 +4035,20 @@
           {
             "item": "Alfalfa",
             "price": "$10.00",
-            "unit_size": "Bale"
+            "unit_size": "Bale",
+            "id": "4421",
+            "products": "442"
           },
           {
             "item": "Timothy",
             "price": "$8.00",
-            "unit_size": "Bale"
+            "unit_size": "Bale",
+            "id": "4422",
+            "products": "442"
           }
-        ]
+        ],
+        "id": "442",
+        "producer": "44"
       }
     ],
     "id": "44"
@@ -3028,14 +4066,20 @@
           {
             "item": "Carrots",
             "price": "$2.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "4511",
+            "products": "451"
           },
           {
             "item": "Potatoes",
             "price": "$3.00",
-            "unit_size": "2kg"
+            "unit_size": "2kg",
+            "id": "4512",
+            "products": "451"
           }
-        ]
+        ],
+        "id": "451",
+        "producer": "45"
       },
       {
         "product": "Greenhouse Vegetables",
@@ -3043,14 +4087,20 @@
           {
             "item": "Tomatoes",
             "price": "$3.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "4521",
+            "products": "452"
           },
           {
             "item": "Peppers",
             "price": "$4.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "4522",
+            "products": "452"
           }
-        ]
+        ],
+        "id": "452",
+        "producer": "45"
       },
       {
         "product": "Flowers",
@@ -3058,14 +4108,20 @@
           {
             "item": "Roses",
             "price": "$15.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "4531",
+            "products": "453"
           },
           {
             "item": "Lilies",
             "price": "$10.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "4532",
+            "products": "453"
           }
-        ]
+        ],
+        "id": "453",
+        "producer": "45"
       },
       {
         "product": "Herbs",
@@ -3073,14 +4129,20 @@
           {
             "item": "Basil",
             "price": "$2.00",
-            "unit_size": "30g"
+            "unit_size": "30g",
+            "id": "4541",
+            "products": "454"
           },
           {
             "item": "Thyme",
             "price": "$2.00",
-            "unit_size": "30g"
+            "unit_size": "30g",
+            "id": "4542",
+            "products": "454"
           }
-        ]
+        ],
+        "id": "454",
+        "producer": "45"
       },
       {
         "product": "Value-Added",
@@ -3088,14 +4150,20 @@
           {
             "item": "Preserves",
             "price": "$5.00",
-            "unit_size": "250ml"
+            "unit_size": "250ml",
+            "id": "4551",
+            "products": "455"
           },
           {
             "item": "Jams",
             "price": "$5.00",
-            "unit_size": "250ml"
+            "unit_size": "250ml",
+            "id": "4552",
+            "products": "455"
           }
-        ]
+        ],
+        "id": "455",
+        "producer": "45"
       },
       {
         "product": "Vegetable Plants",
@@ -3103,14 +4171,20 @@
           {
             "item": "Tomato Plants",
             "price": "$3.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "4561",
+            "products": "456"
           },
           {
             "item": "Pepper Plants",
             "price": "$3.00",
-            "unit_size": "Each"
+            "unit_size": "Each",
+            "id": "4562",
+            "products": "456"
           }
-        ]
+        ],
+        "id": "456",
+        "producer": "45"
       }
     ],
     "id": "45"
@@ -3127,14 +4201,20 @@
           {
             "item": "Carrots",
             "price": "$2.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "4611",
+            "products": "461"
           },
           {
             "item": "Potatoes",
             "price": "$3.00",
-            "unit_size": "2kg"
+            "unit_size": "2kg",
+            "id": "4612",
+            "products": "461"
           }
-        ]
+        ],
+        "id": "461",
+        "producer": "46"
       },
       {
         "product": "Herbs",
@@ -3142,14 +4222,20 @@
           {
             "item": "Basil",
             "price": "$2.00",
-            "unit_size": "30g"
+            "unit_size": "30g",
+            "id": "4621",
+            "products": "462"
           },
           {
             "item": "Thyme",
             "price": "$2.00",
-            "unit_size": "30g"
+            "unit_size": "30g",
+            "id": "4622",
+            "products": "462"
           }
-        ]
+        ],
+        "id": "462",
+        "producer": "46"
       },
       {
         "product": "Greenhouse Vegetables",
@@ -3157,14 +4243,20 @@
           {
             "item": "Tomatoes",
             "price": "$3.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "4631",
+            "products": "463"
           },
           {
             "item": "Peppers",
             "price": "$4.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "4632",
+            "products": "463"
           }
-        ]
+        ],
+        "id": "463",
+        "producer": "46"
       },
       {
         "product": "Chicken",
@@ -3172,14 +4264,20 @@
           {
             "item": "Chicken Breasts",
             "price": "$10.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "4641",
+            "products": "464"
           },
           {
             "item": "Chicken Thighs",
             "price": "$8.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "4642",
+            "products": "464"
           }
-        ]
+        ],
+        "id": "464",
+        "producer": "46"
       },
       {
         "product": "Eggs",
@@ -3187,14 +4285,20 @@
           {
             "item": "Chicken Eggs",
             "price": "$3.00",
-            "unit_size": "Dozen"
+            "unit_size": "Dozen",
+            "id": "4651",
+            "products": "465"
           },
           {
             "item": "Duck Eggs",
             "price": "$5.00",
-            "unit_size": "Dozen"
+            "unit_size": "Dozen",
+            "id": "4652",
+            "products": "465"
           }
-        ]
+        ],
+        "id": "465",
+        "producer": "46"
       }
     ],
     "id": "46"
@@ -3212,14 +4316,20 @@
           {
             "item": "Blueberries",
             "price": "$6.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "4711",
+            "products": "471"
           },
           {
             "item": "Strawberries",
             "price": "$5.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "4712",
+            "products": "471"
           }
-        ]
+        ],
+        "id": "471",
+        "producer": "47"
       },
       {
         "product": "Field Vegetables",
@@ -3227,14 +4337,20 @@
           {
             "item": "Carrots",
             "price": "$2.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "4721",
+            "products": "472"
           },
           {
             "item": "Potatoes",
             "price": "$3.00",
-            "unit_size": "2kg"
+            "unit_size": "2kg",
+            "id": "4722",
+            "products": "472"
           }
-        ]
+        ],
+        "id": "472",
+        "producer": "47"
       },
       {
         "product": "Greenhouse Vegetables",
@@ -3242,14 +4358,20 @@
           {
             "item": "Tomatoes",
             "price": "$3.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "4731",
+            "products": "473"
           },
           {
             "item": "Peppers",
             "price": "$4.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "4732",
+            "products": "473"
           }
-        ]
+        ],
+        "id": "473",
+        "producer": "47"
       },
       {
         "product": "Eggs",
@@ -3257,14 +4379,20 @@
           {
             "item": "Chicken Eggs",
             "price": "$3.00",
-            "unit_size": "Dozen"
+            "unit_size": "Dozen",
+            "id": "4741",
+            "products": "474"
           },
           {
             "item": "Duck Eggs",
             "price": "$5.00",
-            "unit_size": "Dozen"
+            "unit_size": "Dozen",
+            "id": "4742",
+            "products": "474"
           }
-        ]
+        ],
+        "id": "474",
+        "producer": "47"
       },
       {
         "product": "Herbs",
@@ -3272,14 +4400,20 @@
           {
             "item": "Basil",
             "price": "$2.00",
-            "unit_size": "30g"
+            "unit_size": "30g",
+            "id": "4751",
+            "products": "475"
           },
           {
             "item": "Thyme",
             "price": "$2.00",
-            "unit_size": "30g"
+            "unit_size": "30g",
+            "id": "4752",
+            "products": "475"
           }
-        ]
+        ],
+        "id": "475",
+        "producer": "47"
       },
       {
         "product": "Value Added( preserves, jams, etc)",
@@ -3287,14 +4421,20 @@
           {
             "item": "Strawberry Jam",
             "price": "$5.00",
-            "unit_size": "250ml"
+            "unit_size": "250ml",
+            "id": "4761",
+            "products": "476"
           },
           {
             "item": "Pickles",
             "price": "$4.00",
-            "unit_size": "500ml"
+            "unit_size": "500ml",
+            "id": "4762",
+            "products": "476"
           }
-        ]
+        ],
+        "id": "476",
+        "producer": "47"
       }
     ],
     "id": "47"
@@ -3312,14 +4452,20 @@
           {
             "item": "Chicken Eggs",
             "price": "$3.00",
-            "unit_size": "Dozen"
+            "unit_size": "Dozen",
+            "id": "4811",
+            "products": "481"
           },
           {
             "item": "Duck Eggs",
             "price": "$5.00",
-            "unit_size": "Dozen"
+            "unit_size": "Dozen",
+            "id": "4812",
+            "products": "481"
           }
-        ]
+        ],
+        "id": "481",
+        "producer": "48"
       },
       {
         "product": "Turkey",
@@ -3327,14 +4473,20 @@
           {
             "item": "Turkey Breast",
             "price": "$20.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "4821",
+            "products": "482"
           },
           {
             "item": "Turkey Thighs",
             "price": "$15.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "4822",
+            "products": "482"
           }
-        ]
+        ],
+        "id": "482",
+        "producer": "48"
       }
     ],
     "id": "48"
@@ -3351,14 +4503,20 @@
           {
             "item": "Cheese",
             "price": "$8.00",
-            "unit_size": "200g"
+            "unit_size": "200g",
+            "id": "4911",
+            "products": "491"
           },
           {
             "item": "Milk",
             "price": "$3.00",
-            "unit_size": "1L"
+            "unit_size": "1L",
+            "id": "4912",
+            "products": "491"
           }
-        ]
+        ],
+        "id": "491",
+        "producer": "49"
       }
     ],
     "id": "49"
@@ -3374,14 +4532,20 @@
           {
             "item": "Blueberries",
             "price": "$6.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "5011",
+            "products": "501"
           },
           {
             "item": "Strawberries",
             "price": "$5.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "5012",
+            "products": "501"
           }
-        ]
+        ],
+        "id": "501",
+        "producer": "50"
       },
       {
         "product": "Field Vegetables",
@@ -3389,14 +4553,20 @@
           {
             "item": "Carrots",
             "price": "$2.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "5021",
+            "products": "502"
           },
           {
             "item": "Potatoes",
             "price": "$3.00",
-            "unit_size": "2kg"
+            "unit_size": "2kg",
+            "id": "5022",
+            "products": "502"
           }
-        ]
+        ],
+        "id": "502",
+        "producer": "50"
       },
       {
         "product": "Value-Added",
@@ -3404,14 +4574,20 @@
           {
             "item": "Preserves",
             "price": "$5.00",
-            "unit_size": "250ml"
+            "unit_size": "250ml",
+            "id": "5031",
+            "products": "503"
           },
           {
             "item": "Jams",
             "price": "$5.00",
-            "unit_size": "250ml"
+            "unit_size": "250ml",
+            "id": "5032",
+            "products": "503"
           }
-        ]
+        ],
+        "id": "503",
+        "producer": "50"
       }
     ],
     "id": "50"
@@ -3428,14 +4604,20 @@
           {
             "item": "Carrots",
             "price": "$2.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "5111",
+            "products": "511"
           },
           {
             "item": "Potatoes",
             "price": "$3.00",
-            "unit_size": "2kg"
+            "unit_size": "2kg",
+            "id": "5112",
+            "products": "511"
           }
-        ]
+        ],
+        "id": "511",
+        "producer": "51"
       },
       {
         "product": "Greenhouse Vegetables",
@@ -3443,14 +4625,20 @@
           {
             "item": "Tomatoes",
             "price": "$3.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "5121",
+            "products": "512"
           },
           {
             "item": "Peppers",
             "price": "$4.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "5122",
+            "products": "512"
           }
-        ]
+        ],
+        "id": "512",
+        "producer": "51"
       },
       {
         "product": "Herbs",
@@ -3458,14 +4646,20 @@
           {
             "item": "Basil",
             "price": "$2.00",
-            "unit_size": "30g"
+            "unit_size": "30g",
+            "id": "5131",
+            "products": "513"
           },
           {
             "item": "Thyme",
             "price": "$2.00",
-            "unit_size": "30g"
+            "unit_size": "30g",
+            "id": "5132",
+            "products": "513"
           }
-        ]
+        ],
+        "id": "513",
+        "producer": "51"
       },
       {
         "product": "Value-Added",
@@ -3473,14 +4667,20 @@
           {
             "item": "Preserves",
             "price": "$5.00",
-            "unit_size": "250ml"
+            "unit_size": "250ml",
+            "id": "5141",
+            "products": "514"
           },
           {
             "item": "Jams",
             "price": "$5.00",
-            "unit_size": "250ml"
+            "unit_size": "250ml",
+            "id": "5142",
+            "products": "514"
           }
-        ]
+        ],
+        "id": "514",
+        "producer": "51"
       }
     ],
     "id": "51"
@@ -3498,14 +4698,20 @@
           {
             "item": "Apples",
             "price": "$3.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "5211",
+            "products": "521"
           },
           {
             "item": "Pears",
             "price": "$4.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "5212",
+            "products": "521"
           }
-        ]
+        ],
+        "id": "521",
+        "producer": "52"
       },
       {
         "product": "Berries",
@@ -3513,14 +4719,20 @@
           {
             "item": "Blueberries",
             "price": "$6.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "5221",
+            "products": "522"
           },
           {
             "item": "Strawberries",
             "price": "$5.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "5222",
+            "products": "522"
           }
-        ]
+        ],
+        "id": "522",
+        "producer": "52"
       },
       {
         "product": "Field Vegetables",
@@ -3528,14 +4740,20 @@
           {
             "item": "Carrots",
             "price": "$2.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "5231",
+            "products": "523"
           },
           {
             "item": "Potatoes",
             "price": "$3.00",
-            "unit_size": "2kg"
+            "unit_size": "2kg",
+            "id": "5232",
+            "products": "523"
           }
-        ]
+        ],
+        "id": "523",
+        "producer": "52"
       },
       {
         "product": "Plant Booster Liquid Concentrate",
@@ -3543,14 +4761,20 @@
           {
             "item": "Liquid Fertilizer",
             "price": "$10.00",
-            "unit_size": "1L"
+            "unit_size": "1L",
+            "id": "5241",
+            "products": "524"
           },
           {
             "item": "Soil Enhancer",
             "price": "$8.00",
-            "unit_size": "1L"
+            "unit_size": "1L",
+            "id": "5242",
+            "products": "524"
           }
-        ]
+        ],
+        "id": "524",
+        "producer": "52"
       },
       {
         "product": "Kelp Based Soil Conditioners",
@@ -3558,14 +4782,20 @@
           {
             "item": "Kelp Meal",
             "price": "$12.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "5251",
+            "products": "525"
           },
           {
             "item": "Kelp Extract",
             "price": "$15.00",
-            "unit_size": "500ml"
+            "unit_size": "500ml",
+            "id": "5252",
+            "products": "525"
           }
-        ]
+        ],
+        "id": "525",
+        "producer": "52"
       }
     ],
     "id": "52"
@@ -3583,14 +4813,20 @@
           {
             "item": "Carrots",
             "price": "$2.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "5311",
+            "products": "531"
           },
           {
             "item": "Potatoes",
             "price": "$3.00",
-            "unit_size": "2kg"
+            "unit_size": "2kg",
+            "id": "5312",
+            "products": "531"
           }
-        ]
+        ],
+        "id": "531",
+        "producer": "53"
       },
       {
         "product": "Greenhouse Vegetables",
@@ -3598,14 +4834,20 @@
           {
             "item": "Tomatoes",
             "price": "$3.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "5321",
+            "products": "532"
           },
           {
             "item": "Peppers",
             "price": "$4.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "5322",
+            "products": "532"
           }
-        ]
+        ],
+        "id": "532",
+        "producer": "53"
       },
       {
         "product": "Honey/Honey Products",
@@ -3613,14 +4855,20 @@
           {
             "item": "Raw Honey",
             "price": "$10.00",
-            "unit_size": "250g"
+            "unit_size": "250g",
+            "id": "5331",
+            "products": "533"
           },
           {
             "item": "Comb Honey",
             "price": "$12.00",
-            "unit_size": "250g"
+            "unit_size": "250g",
+            "id": "5332",
+            "products": "533"
           }
-        ]
+        ],
+        "id": "533",
+        "producer": "53"
       },
       {
         "product": "Herbs",
@@ -3628,14 +4876,20 @@
           {
             "item": "Basil",
             "price": "$2.00",
-            "unit_size": "30g"
+            "unit_size": "30g",
+            "id": "5341",
+            "products": "534"
           },
           {
             "item": "Thyme",
             "price": "$2.00",
-            "unit_size": "30g"
+            "unit_size": "30g",
+            "id": "5342",
+            "products": "534"
           }
-        ]
+        ],
+        "id": "534",
+        "producer": "53"
       },
       {
         "product": "Milk/Dairy Products",
@@ -3643,14 +4897,20 @@
           {
             "item": "Cheese",
             "price": "$8.00",
-            "unit_size": "200g"
+            "unit_size": "200g",
+            "id": "5351",
+            "products": "535"
           },
           {
             "item": "Milk",
             "price": "$3.00",
-            "unit_size": "1L"
+            "unit_size": "1L",
+            "id": "5352",
+            "products": "535"
           }
-        ]
+        ],
+        "id": "535",
+        "producer": "53"
       },
       {
         "product": "Preserves",
@@ -3658,14 +4918,20 @@
           {
             "item": "Strawberry Jam",
             "price": "$5.00",
-            "unit_size": "250ml"
+            "unit_size": "250ml",
+            "id": "5361",
+            "products": "536"
           },
           {
             "item": "Pickles",
             "price": "$4.00",
-            "unit_size": "500ml"
+            "unit_size": "500ml",
+            "id": "5362",
+            "products": "536"
           }
-        ]
+        ],
+        "id": "536",
+        "producer": "53"
       },
       {
         "product": "Beef",
@@ -3673,14 +4939,20 @@
           {
             "item": "Steak",
             "price": "$15.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "5371",
+            "products": "537"
           },
           {
             "item": "Ground Beef",
             "price": "$10.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "5372",
+            "products": "537"
           }
-        ]
+        ],
+        "id": "537",
+        "producer": "53"
       }
     ],
     "id": "53"
@@ -3698,14 +4970,20 @@
           {
             "item": "Earthworms",
             "price": "$5.00",
-            "unit_size": "100g"
+            "unit_size": "100g",
+            "id": "5411",
+            "products": "541"
           },
           {
             "item": "Red Wigglers",
             "price": "$6.00",
-            "unit_size": "100g"
+            "unit_size": "100g",
+            "id": "5412",
+            "products": "541"
           }
-        ]
+        ],
+        "id": "541",
+        "producer": "54"
       },
       {
         "product": "Fertility Products",
@@ -3713,14 +4991,20 @@
           {
             "item": "Vermicompost",
             "price": "$10.00",
-            "unit_size": "5kg"
+            "unit_size": "5kg",
+            "id": "5421",
+            "products": "542"
           },
           {
             "item": "Worm Castings",
             "price": "$8.00",
-            "unit_size": "5kg"
+            "unit_size": "5kg",
+            "id": "5422",
+            "products": "542"
           }
-        ]
+        ],
+        "id": "542",
+        "producer": "54"
       }
     ],
     "id": "54"
@@ -3737,14 +5021,20 @@
           {
             "item": "Alfalfa",
             "price": "$10.00",
-            "unit_size": "Bale"
+            "unit_size": "Bale",
+            "id": "5511",
+            "products": "551"
           },
           {
             "item": "Timothy",
             "price": "$8.00",
-            "unit_size": "Bale"
+            "unit_size": "Bale",
+            "id": "5512",
+            "products": "551"
           }
-        ]
+        ],
+        "id": "551",
+        "producer": "55"
       }
     ],
     "id": "55"
@@ -3762,14 +5052,20 @@
           {
             "item": "Carrots",
             "price": "$2.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "5611",
+            "products": "561"
           },
           {
             "item": "Potatoes",
             "price": "$3.00",
-            "unit_size": "2kg"
+            "unit_size": "2kg",
+            "id": "5612",
+            "products": "561"
           }
-        ]
+        ],
+        "id": "561",
+        "producer": "56"
       }
     ],
     "id": "56"
@@ -3787,14 +5083,20 @@
           {
             "item": "Fresh Blueberries",
             "price": "$6.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "5711",
+            "products": "571"
           },
           {
             "item": "Frozen Blueberries",
             "price": "$5.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "5712",
+            "products": "571"
           }
-        ]
+        ],
+        "id": "571",
+        "producer": "57"
       },
       {
         "product": "Flash Frozen Blueberries",
@@ -3802,14 +5104,20 @@
           {
             "item": "Frozen Blueberries",
             "price": "$5.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "5721",
+            "products": "572"
           },
           {
             "item": "Blueberry Puree",
             "price": "$8.00",
-            "unit_size": "1L"
+            "unit_size": "1L",
+            "id": "5722",
+            "products": "572"
           }
-        ]
+        ],
+        "id": "572",
+        "producer": "57"
       }
     ],
     "id": "57"
@@ -3827,14 +5135,20 @@
           {
             "item": "Blueberries",
             "price": "$6.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "5811",
+            "products": "581"
           },
           {
             "item": "Strawberries",
             "price": "$5.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "5812",
+            "products": "581"
           }
-        ]
+        ],
+        "id": "581",
+        "producer": "58"
       }
     ],
     "id": "58"
@@ -3852,14 +5166,20 @@
           {
             "item": "Carrots",
             "price": "$2.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "5911",
+            "products": "591"
           },
           {
             "item": "Potatoes",
             "price": "$3.00",
-            "unit_size": "2kg"
+            "unit_size": "2kg",
+            "id": "5912",
+            "products": "591"
           }
-        ]
+        ],
+        "id": "591",
+        "producer": "59"
       },
       {
         "product": "Gourmet Mushrooms",
@@ -3867,14 +5187,20 @@
           {
             "item": "Shiitake",
             "price": "$10.00",
-            "unit_size": "250g"
+            "unit_size": "250g",
+            "id": "5921",
+            "products": "592"
           },
           {
             "item": "Oyster",
             "price": "$8.00",
-            "unit_size": "250g"
+            "unit_size": "250g",
+            "id": "5922",
+            "products": "592"
           }
-        ]
+        ],
+        "id": "592",
+        "producer": "59"
       },
       {
         "product": "Eggs",
@@ -3882,14 +5208,20 @@
           {
             "item": "Chicken Eggs",
             "price": "$3.00",
-            "unit_size": "Dozen"
+            "unit_size": "Dozen",
+            "id": "5931",
+            "products": "593"
           },
           {
             "item": "Duck Eggs",
             "price": "$5.00",
-            "unit_size": "Dozen"
+            "unit_size": "Dozen",
+            "id": "5932",
+            "products": "593"
           }
-        ]
+        ],
+        "id": "593",
+        "producer": "59"
       },
       {
         "product": "Pork",
@@ -3897,14 +5229,20 @@
           {
             "item": "Pork Chops",
             "price": "$12.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "5941",
+            "products": "594"
           },
           {
             "item": "Bacon",
             "price": "$8.00",
-            "unit_size": "500g"
+            "unit_size": "500g",
+            "id": "5942",
+            "products": "594"
           }
-        ]
+        ],
+        "id": "594",
+        "producer": "59"
       },
       {
         "product": "Goose",
@@ -3912,14 +5250,20 @@
           {
             "item": "Goose Breast",
             "price": "$20.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "5951",
+            "products": "595"
           },
           {
             "item": "Goose Legs",
             "price": "$15.00",
-            "unit_size": "1kg"
+            "unit_size": "1kg",
+            "id": "5952",
+            "products": "595"
           }
-        ]
+        ],
+        "id": "595",
+        "producer": "59"
       },
       {
         "product": "Sod",
@@ -3927,14 +5271,20 @@
           {
             "item": "Kentucky Bluegrass",
             "price": "$4.00",
-            "unit_size": "1m²"
+            "unit_size": "1m²",
+            "id": "5961",
+            "products": "596"
           },
           {
             "item": "Fescue",
             "price": "$4.00",
-            "unit_size": "1m²"
+            "unit_size": "1m²",
+            "id": "5962",
+            "products": "596"
           }
-        ]
+        ],
+        "id": "596",
+        "producer": "59"
       }
     ],
     "id": "59"
