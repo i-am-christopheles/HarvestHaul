@@ -1,7 +1,5 @@
-require('dotenv').config();
-import axios from 'axios';
-
-const apiKey = process.env.OPENAI_API_KEY;
+import dotenv from 'dotenv';
+dotenv.config();
 
 interface ChatMessage {
   role: string;
@@ -23,17 +21,19 @@ interface ChatCompletionRequest {
 
 async function getChatCompletions(requestData: ChatCompletionRequest) {
   try {
-    const response = await axios.post(
+    const response = await fetch(
       'https://api.openai.com/v1/engines/davinci/completions',
-      requestData,
       {
+        method: 'POST',
         headers: {
-          'Authorization': `Bearer ${apiKey}`,
-          'Content-Type': 'application/json'
-        }
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${process.env.OPENAI_API_KEY}`
+        },
+        body: JSON.stringify(requestData)
       }
     );
-    return response.data.choices[0].text.trim();
+    const responseData = await response.json();
+    return responseData.choices[0].text.trim();
   } catch (error) {
     console.error('Error sending message to OpenAI API:', error);
     return 'Sorry, I encountered an error.';
