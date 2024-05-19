@@ -1,0 +1,1127 @@
+[
+  {
+    "product": "Honey/Honey Products",
+    "id": "11",
+    "producer": "1"
+  },
+  {
+    "product": "Pollination Services",
+    "id": "12",
+    "producer": "1"
+  },
+  {
+    "product": "Bees wax",
+    "id": "13",
+    "producer": "1"
+  },
+  {
+    "product": "Honey Bee Rescue",
+    "id": "14",
+    "producer": "1"
+  },
+  {
+    "product": "Swarm Prevention Program",
+    "id": "15",
+    "producer": "1"
+  },
+  {
+    "product": "Liquid Honey",
+    "id": "16",
+    "producer": "1"
+  },
+  {
+    "product": "Comb Honey",
+    "id": "17",
+    "producer": "1"
+  },
+  {
+    "product": "Field Vegetables",
+    "id": "21",
+    "producer": "2"
+  },
+  {
+    "product": "Value Added( preserves, jams, etc)",
+    "id": "22",
+    "producer": "2"
+  },
+  {
+    "product": "Greenhouse Vegetables",
+    "id": "31",
+    "producer": "3"
+  },
+  {
+    "product": "Hanging Baskets",
+    "id": "32",
+    "producer": "3"
+  },
+  {
+    "product": "Perennials",
+    "id": "33",
+    "producer": "3"
+  },
+  {
+    "product": "Shrubs",
+    "id": "34",
+    "producer": "3"
+  },
+  {
+    "product": "Trees",
+    "id": "35",
+    "producer": "3"
+  },
+  {
+    "product": "Garden Supplies",
+    "id": "36",
+    "producer": "3"
+  },
+  {
+    "product": "Berries",
+    "id": "41",
+    "producer": "4"
+  },
+  {
+    "product": "Berries",
+    "id": "51",
+    "producer": "5"
+  },
+  {
+    "product": "Trees",
+    "id": "61",
+    "producer": "6"
+  },
+  {
+    "product": "Shrubs",
+    "id": "62",
+    "producer": "6"
+  },
+  {
+    "product": "Turf Sod",
+    "id": "71",
+    "producer": "7"
+  },
+  {
+    "product": "Fruit",
+    "id": "81",
+    "producer": "8"
+  },
+  {
+    "product": "Apples",
+    "id": "82",
+    "producer": "8"
+  },
+  {
+    "product": "Field Vegetables",
+    "id": "91",
+    "producer": "9"
+  },
+  {
+    "product": "Lamb",
+    "id": "101",
+    "producer": "10"
+  },
+  {
+    "product": "Wool",
+    "id": "102",
+    "producer": "10"
+  },
+  {
+    "product": "Fibre",
+    "id": "111",
+    "producer": "11"
+  },
+  {
+    "product": "Handspun Yarn",
+    "id": "112",
+    "producer": "11"
+  },
+  {
+    "product": "Knitted and Handwoven Sweaters",
+    "id": "113",
+    "producer": "11"
+  },
+  {
+    "product": "Shawl",
+    "id": "114",
+    "producer": "11"
+  },
+  {
+    "product": "Llamas",
+    "id": "115",
+    "producer": "11"
+  },
+  {
+    "product": "Angora Goats",
+    "id": "116",
+    "producer": "11"
+  },
+  {
+    "product": "Christmas Trees",
+    "id": "121",
+    "producer": "12"
+  },
+  {
+    "product": "Christmas Wreaths",
+    "id": "122",
+    "producer": "12"
+  },
+  {
+    "product": "Berries",
+    "id": "131",
+    "producer": "13"
+  },
+  {
+    "product": "Field Vegetables",
+    "id": "132",
+    "producer": "13"
+  },
+  {
+    "product": "Greenhouse Vegetables",
+    "id": "133",
+    "producer": "13"
+  },
+  {
+    "product": "Herbs",
+    "id": "134",
+    "producer": "13"
+  },
+  {
+    "product": "Value Added( preserves, jams, etc)",
+    "id": "135",
+    "producer": "13"
+  },
+  {
+    "product": "Milk/Dairy Products",
+    "id": "141",
+    "producer": "14"
+  },
+  {
+    "product": "Berries",
+    "id": "151",
+    "producer": "15"
+  },
+  {
+    "product": "Field Vegetables",
+    "id": "152",
+    "producer": "15"
+  },
+  {
+    "product": "Splits",
+    "id": "153",
+    "producer": "15"
+  },
+  {
+    "product": "Plants",
+    "id": "154",
+    "producer": "15"
+  },
+  {
+    "product": "Greenhouse Vegetables",
+    "id": "161",
+    "producer": "16"
+  },
+  {
+    "product": "Herbs",
+    "id": "162",
+    "producer": "16"
+  },
+  {
+    "product": "Microgreens",
+    "id": "163",
+    "producer": "16"
+  },
+  {
+    "product": "Milk/Dairy Products",
+    "id": "171",
+    "producer": "17"
+  },
+  {
+    "product": "Beef",
+    "id": "181",
+    "producer": "18"
+  },
+  {
+    "product": "Pork",
+    "id": "182",
+    "producer": "18"
+  },
+  {
+    "product": "Lamb",
+    "id": "183",
+    "producer": "18"
+  },
+  {
+    "product": "Primal cuts & Secondary products(sausages, ground and meatballs)",
+    "id": "184",
+    "producer": "18"
+  },
+  {
+    "product": "Chicken",
+    "id": "185",
+    "producer": "18"
+  },
+  {
+    "product": "Lamb",
+    "id": "191",
+    "producer": "19"
+  },
+  {
+    "product": "Eggs",
+    "id": "201",
+    "producer": "20"
+  },
+  {
+    "product": "Wool",
+    "id": "202",
+    "producer": "20"
+  },
+  {
+    "product": "Lamb",
+    "id": "203",
+    "producer": "20"
+  },
+  {
+    "product": "Turkey",
+    "id": "204",
+    "producer": "20"
+  },
+  {
+    "product": "Greenhouse Vegetables",
+    "id": "211",
+    "producer": "21"
+  },
+  {
+    "product": "Flowers",
+    "id": "212",
+    "producer": "21"
+  },
+  {
+    "product": "Soil",
+    "id": "213",
+    "producer": "21"
+  },
+  {
+    "product": "Fertilizer",
+    "id": "214",
+    "producer": "21"
+  },
+  {
+    "product": "Baskets",
+    "id": "215",
+    "producer": "21"
+  },
+  {
+    "product": "Planters",
+    "id": "216",
+    "producer": "21"
+  },
+  {
+    "product": "Compost",
+    "id": "217",
+    "producer": "21"
+  },
+  {
+    "product": "Mulch",
+    "id": "218",
+    "producer": "21"
+  },
+  {
+    "product": "Field Vegetables",
+    "id": "221",
+    "producer": "22"
+  },
+  {
+    "product": "Soil",
+    "id": "231",
+    "producer": "23"
+  },
+  {
+    "product": "Turf Grass",
+    "id": "232",
+    "producer": "23"
+  },
+  {
+    "product": "Fruit",
+    "id": "241",
+    "producer": "24"
+  },
+  {
+    "product": "Berries",
+    "id": "242",
+    "producer": "24"
+  },
+  {
+    "product": "Field Vegetables",
+    "id": "243",
+    "producer": "24"
+  },
+  {
+    "product": "Field Vegetables",
+    "id": "251",
+    "producer": "25"
+  },
+  {
+    "product": "Hay",
+    "id": "252",
+    "producer": "25"
+  },
+  {
+    "product": "Turkey",
+    "id": "261",
+    "producer": "26"
+  },
+  {
+    "product": "Field Vegetables",
+    "id": "271",
+    "producer": "27"
+  },
+  {
+    "product": "Fruit",
+    "id": "281",
+    "producer": "28"
+  },
+  {
+    "product": "Berries",
+    "id": "282",
+    "producer": "28"
+  },
+  {
+    "product": "Field Vegetables",
+    "id": "283",
+    "producer": "28"
+  },
+  {
+    "product": "Greenhouse Vegetables",
+    "id": "284",
+    "producer": "28"
+  },
+  {
+    "product": "Eggs",
+    "id": "285",
+    "producer": "28"
+  },
+  {
+    "product": "Flowers",
+    "id": "286",
+    "producer": "28"
+  },
+  {
+    "product": "Honey/Honey Products",
+    "id": "287",
+    "producer": "28"
+  },
+  {
+    "product": "Herbs",
+    "id": "288",
+    "producer": "28"
+  },
+  {
+    "product": "Milk/Dairy Products",
+    "id": "289",
+    "producer": "28"
+  },
+  {
+    "product": "Value-Added",
+    "id": "2810",
+    "producer": "28"
+  },
+  {
+    "product": "Beef",
+    "id": "2811",
+    "producer": "28"
+  },
+  {
+    "product": "Pork",
+    "id": "2812",
+    "producer": "28"
+  },
+  {
+    "product": "Lamb",
+    "id": "2813",
+    "producer": "28"
+  },
+  {
+    "product": "Turkey",
+    "id": "2814",
+    "producer": "28"
+  },
+  {
+    "product": "Chicken",
+    "id": "2815",
+    "producer": "28"
+  },
+  {
+    "product": "Tilapia",
+    "id": "2816",
+    "producer": "28"
+  },
+  {
+    "product": "Fruit",
+    "id": "291",
+    "producer": "29"
+  },
+  {
+    "product": "Berries",
+    "id": "292",
+    "producer": "29"
+  },
+  {
+    "product": "Field Vegetables",
+    "id": "293",
+    "producer": "29"
+  },
+  {
+    "product": "Greenhouse Vegetables",
+    "id": "294",
+    "producer": "29"
+  },
+  {
+    "product": "Eggs",
+    "id": "295",
+    "producer": "29"
+  },
+  {
+    "product": "Flowers",
+    "id": "296",
+    "producer": "29"
+  },
+  {
+    "product": "Honey/Honey Products",
+    "id": "297",
+    "producer": "29"
+  },
+  {
+    "product": "Herbs",
+    "id": "298",
+    "producer": "29"
+  },
+  {
+    "product": "Milk/Dairy Products",
+    "id": "299",
+    "producer": "29"
+  },
+  {
+    "product": "Lamb",
+    "id": "2910",
+    "producer": "29"
+  },
+  {
+    "product": "Harvest Hut (food truck)",
+    "id": "2911",
+    "producer": "29"
+  },
+  {
+    "product": "Bottled Items",
+    "id": "2912",
+    "producer": "29"
+  },
+  {
+    "product": "Bakery",
+    "id": "2913",
+    "producer": "29"
+  },
+  {
+    "product": "Petting Barn",
+    "id": "2914",
+    "producer": "29"
+  },
+  {
+    "product": "Classes",
+    "id": "2915",
+    "producer": "29"
+  },
+  {
+    "product": "Seasonal Activities",
+    "id": "2916",
+    "producer": "29"
+  },
+  {
+    "product": "Childrens Programs",
+    "id": "2917",
+    "producer": "29"
+  },
+  {
+    "product": "Agritourism",
+    "id": "2918",
+    "producer": "29"
+  },
+  {
+    "product": "Field Vegetables",
+    "id": "301",
+    "producer": "30"
+  },
+  {
+    "product": "Greenhouse Vegetables",
+    "id": "302",
+    "producer": "30"
+  },
+  {
+    "product": "Value Added( preserves, jams, etc)",
+    "id": "303",
+    "producer": "30"
+  },
+  {
+    "product": "Field Vegetables",
+    "id": "311",
+    "producer": "31"
+  },
+  {
+    "product": "Greenhouse Vegetables",
+    "id": "312",
+    "producer": "31"
+  },
+  {
+    "product": "Sod",
+    "id": "313",
+    "producer": "31"
+  },
+  {
+    "product": "Field Vegetables",
+    "id": "321",
+    "producer": "32"
+  },
+  {
+    "product": "Sod",
+    "id": "322",
+    "producer": "32"
+  },
+  {
+    "product": "Sod",
+    "id": "331",
+    "producer": "33"
+  },
+  {
+    "product": "Field Vegetables",
+    "id": "341",
+    "producer": "34"
+  },
+  {
+    "product": "Herbs",
+    "id": "342",
+    "producer": "34"
+  },
+  {
+    "product": "Beef",
+    "id": "343",
+    "producer": "34"
+  },
+  {
+    "product": "Pork",
+    "id": "344",
+    "producer": "34"
+  },
+  {
+    "product": "Lamb",
+    "id": "345",
+    "producer": "34"
+  },
+  {
+    "product": "Turkey",
+    "id": "346",
+    "producer": "34"
+  },
+  {
+    "product": "Chicken",
+    "id": "347",
+    "producer": "34"
+  },
+  {
+    "product": "Fruit",
+    "id": "351",
+    "producer": "35"
+  },
+  {
+    "product": "Berries",
+    "id": "352",
+    "producer": "35"
+  },
+  {
+    "product": "Field Vegetables",
+    "id": "353",
+    "producer": "35"
+  },
+  {
+    "product": "Greenhouse Vegetables",
+    "id": "354",
+    "producer": "35"
+  },
+  {
+    "product": "Honey/Honey Products",
+    "id": "355",
+    "producer": "35"
+  },
+  {
+    "product": "Herbs",
+    "id": "356",
+    "producer": "35"
+  },
+  {
+    "product": "Microgreens",
+    "id": "357",
+    "producer": "35"
+  },
+  {
+    "product": "Berries",
+    "id": "361",
+    "producer": "36"
+  },
+  {
+    "product": "Greenhouse Vegetables",
+    "id": "362",
+    "producer": "36"
+  },
+  {
+    "product": "Flowers",
+    "id": "363",
+    "producer": "36"
+  },
+  {
+    "product": "Berries",
+    "id": "371",
+    "producer": "37"
+  },
+  {
+    "product": "Field Vegetables",
+    "id": "372",
+    "producer": "37"
+  },
+  {
+    "product": "Eggs",
+    "id": "373",
+    "producer": "37"
+  },
+  {
+    "product": "Honey/Honey Products",
+    "id": "374",
+    "producer": "37"
+  },
+  {
+    "product": "Beef",
+    "id": "375",
+    "producer": "37"
+  },
+  {
+    "product": "Pork",
+    "id": "376",
+    "producer": "37"
+  },
+  {
+    "product": "Lamb",
+    "id": "377",
+    "producer": "37"
+  },
+  {
+    "product": "Turkey",
+    "id": "378",
+    "producer": "37"
+  },
+  {
+    "product": "Chicken",
+    "id": "379",
+    "producer": "37"
+  },
+  {
+    "product": "Beef",
+    "id": "381",
+    "producer": "38"
+  },
+  {
+    "product": "Pork",
+    "id": "382",
+    "producer": "38"
+  },
+  {
+    "product": "Lamb",
+    "id": "383",
+    "producer": "38"
+  },
+  {
+    "product": "Chicken",
+    "id": "384",
+    "producer": "38"
+  },
+  {
+    "product": "Fruit",
+    "id": "391",
+    "producer": "39"
+  },
+  {
+    "product": "Berries",
+    "id": "392",
+    "producer": "39"
+  },
+  {
+    "product": "Field Vegetables",
+    "id": "393",
+    "producer": "39"
+  },
+  {
+    "product": "Greenhouse Vegetables",
+    "id": "394",
+    "producer": "39"
+  },
+  {
+    "product": "Flowers",
+    "id": "395",
+    "producer": "39"
+  },
+  {
+    "product": "Herbs",
+    "id": "396",
+    "producer": "39"
+  },
+  {
+    "product": "Winter Greens",
+    "id": "397",
+    "producer": "39"
+  },
+  {
+    "product": "Shoots and Micro-Greens",
+    "id": "398",
+    "producer": "39"
+  },
+  {
+    "product": "Fruit",
+    "id": "401",
+    "producer": "40"
+  },
+  {
+    "product": "Berries",
+    "id": "402",
+    "producer": "40"
+  },
+  {
+    "product": "Greenhouse Vegetables",
+    "id": "403",
+    "producer": "40"
+  },
+  {
+    "product": "Flowers",
+    "id": "404",
+    "producer": "40"
+  },
+  {
+    "product": "Herbs",
+    "id": "405",
+    "producer": "40"
+  },
+  {
+    "product": "Floral Arrangements",
+    "id": "406",
+    "producer": "40"
+  },
+  {
+    "product": "Custom Plantings",
+    "id": "407",
+    "producer": "40"
+  },
+  {
+    "product": "Landscaping",
+    "id": "408",
+    "producer": "40"
+  },
+  {
+    "product": "Nursery",
+    "id": "409",
+    "producer": "40"
+  },
+  {
+    "product": "Gardening Related Needs and Gifts",
+    "id": "4010",
+    "producer": "40"
+  },
+  {
+    "product": "Honey",
+    "id": "411",
+    "producer": "41"
+  },
+  {
+    "product": "Beeswax candles",
+    "id": "412",
+    "producer": "41"
+  },
+  {
+    "product": "Body care products from beehive",
+    "id": "413",
+    "producer": "41"
+  },
+  {
+    "product": "Berries",
+    "id": "421",
+    "producer": "42"
+  },
+  {
+    "product": "Sod",
+    "id": "431",
+    "producer": "43"
+  },
+  {
+    "product": "Field Vegetables",
+    "id": "441",
+    "producer": "44"
+  },
+  {
+    "product": "Hay",
+    "id": "442",
+    "producer": "44"
+  },
+  {
+    "product": "Field Vegetables",
+    "id": "451",
+    "producer": "45"
+  },
+  {
+    "product": "Greenhouse Vegetables",
+    "id": "452",
+    "producer": "45"
+  },
+  {
+    "product": "Flowers",
+    "id": "453",
+    "producer": "45"
+  },
+  {
+    "product": "Herbs",
+    "id": "454",
+    "producer": "45"
+  },
+  {
+    "product": "Value-Added",
+    "id": "455",
+    "producer": "45"
+  },
+  {
+    "product": "Vegetable Plants",
+    "id": "456",
+    "producer": "45"
+  },
+  {
+    "product": "Field Vegetables",
+    "id": "461",
+    "producer": "46"
+  },
+  {
+    "product": "Herbs",
+    "id": "462",
+    "producer": "46"
+  },
+  {
+    "product": "Greenhouse Vegetables",
+    "id": "463",
+    "producer": "46"
+  },
+  {
+    "product": "Chicken",
+    "id": "464",
+    "producer": "46"
+  },
+  {
+    "product": "Eggs",
+    "id": "465",
+    "producer": "46"
+  },
+  {
+    "product": "Berries",
+    "id": "471",
+    "producer": "47"
+  },
+  {
+    "product": "Field Vegetables",
+    "id": "472",
+    "producer": "47"
+  },
+  {
+    "product": "Greenhouse Vegetables",
+    "id": "473",
+    "producer": "47"
+  },
+  {
+    "product": "Eggs",
+    "id": "474",
+    "producer": "47"
+  },
+  {
+    "product": "Herbs",
+    "id": "475",
+    "producer": "47"
+  },
+  {
+    "product": "Value Added( preserves, jams, etc)",
+    "id": "476",
+    "producer": "47"
+  },
+  {
+    "product": "Eggs",
+    "id": "481",
+    "producer": "48"
+  },
+  {
+    "product": "Turkey",
+    "id": "482",
+    "producer": "48"
+  },
+  {
+    "product": "Milk/Dairy Products",
+    "id": "491",
+    "producer": "49"
+  },
+  {
+    "product": "Berries",
+    "id": "501",
+    "producer": "50"
+  },
+  {
+    "product": "Field Vegetables",
+    "id": "502",
+    "producer": "50"
+  },
+  {
+    "product": "Value-Added",
+    "id": "503",
+    "producer": "50"
+  },
+  {
+    "product": "Field Vegetables",
+    "id": "511",
+    "producer": "51"
+  },
+  {
+    "product": "Greenhouse Vegetables",
+    "id": "512",
+    "producer": "51"
+  },
+  {
+    "product": "Herbs",
+    "id": "513",
+    "producer": "51"
+  },
+  {
+    "product": "Value-Added",
+    "id": "514",
+    "producer": "51"
+  },
+  {
+    "product": "Fruit",
+    "id": "521",
+    "producer": "52"
+  },
+  {
+    "product": "Berries",
+    "id": "522",
+    "producer": "52"
+  },
+  {
+    "product": "Field Vegetables",
+    "id": "523",
+    "producer": "52"
+  },
+  {
+    "product": "Plant Booster Liquid Concentrate",
+    "id": "524",
+    "producer": "52"
+  },
+  {
+    "product": "Kelp Based Soil Conditioners",
+    "id": "525",
+    "producer": "52"
+  },
+  {
+    "product": "Field Vegetables",
+    "id": "531",
+    "producer": "53"
+  },
+  {
+    "product": "Greenhouse Vegetables",
+    "id": "532",
+    "producer": "53"
+  },
+  {
+    "product": "Honey/Honey Products",
+    "id": "533",
+    "producer": "53"
+  },
+  {
+    "product": "Herbs",
+    "id": "534",
+    "producer": "53"
+  },
+  {
+    "product": "Milk/Dairy Products",
+    "id": "535",
+    "producer": "53"
+  },
+  {
+    "product": "Preserves",
+    "id": "536",
+    "producer": "53"
+  },
+  {
+    "product": "Beef",
+    "id": "537",
+    "producer": "53"
+  },
+  {
+    "product": "Worms",
+    "id": "541",
+    "producer": "54"
+  },
+  {
+    "product": "Fertility Products",
+    "id": "542",
+    "producer": "54"
+  },
+  {
+    "product": "Hay",
+    "id": "551",
+    "producer": "55"
+  },
+  {
+    "product": "Field Vegetables",
+    "id": "561",
+    "producer": "56"
+  },
+  {
+    "product": "Blueberries",
+    "id": "571",
+    "producer": "57"
+  },
+  {
+    "product": "Flash Frozen Blueberries",
+    "id": "572",
+    "producer": "57"
+  },
+  {
+    "product": "Berries",
+    "id": "581",
+    "producer": "58"
+  },
+  {
+    "product": "Field Vegetables",
+    "id": "591",
+    "producer": "59"
+  },
+  {
+    "product": "Gourmet Mushrooms",
+    "id": "592",
+    "producer": "59"
+  },
+  {
+    "product": "Eggs",
+    "id": "593",
+    "producer": "59"
+  },
+  {
+    "product": "Pork",
+    "id": "594",
+    "producer": "59"
+  },
+  {
+    "product": "Goose",
+    "id": "595",
+    "producer": "59"
+  },
+  {
+    "product": "Sod",
+    "id": "596",
+    "producer": "59"
+  }
+]

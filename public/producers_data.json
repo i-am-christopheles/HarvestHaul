@@ -1,0 +1,474 @@
+[
+  {
+    "farm_name": "Adelaide’s Newfoundland Honey Inc and Adelaide’s Honey Bee Pollinator and Wildflower Reserve",
+    "region": "Avalon",
+    "address": "274 Back Line",
+    "postalCode": "A1S 1H2",
+    "community": "Goulds",
+    "id": "1"
+  },
+  {
+    "farm_name": "Backside Acres (Butterworths Farms)",
+    "region": "Avalon",
+    "address": "57 Hurley's Road",
+    "postalCode": "",
+    "community": "Markland",
+    "id": "2"
+  },
+  {
+    "farm_name": "Bayview Gardens Ltd.",
+    "region": "Eastern",
+    "address": "P.O Box 214",
+    "postalCode": "A0C 1V0",
+    "community": "Lethbridge",
+    "id": "3"
+  },
+  {
+    "farm_name": "Brown’s Family Farm Ltd.",
+    "region": "Avalon",
+    "address": "75 Hopedale Cres.",
+    "postalCode": "A1B 0B3",
+    "community": "St. John's",
+    "id": "4"
+  },
+  {
+    "farm_name": "Bullrush Farms Limited",
+    "region": "Avalon",
+    "address": "P.O Box 80, RR#1",
+    "postalCode": "A0B 3K0",
+    "community": "Markland",
+    "id": "5"
+  },
+  {
+    "farm_name": "C.D.’s Trees",
+    "region": "Avalon",
+    "address": "406 Marine Drive",
+    "postalCode": "",
+    "community": "Logy Bay",
+    "id": "6"
+  },
+  {
+    "farm_name": "Clay Oates Landscaping and Construction Limited",
+    "region": "Avalon",
+    "address": "4 Kelby Corners",
+    "postalCode": "A1Y 1A4",
+    "community": "Carbonear",
+    "id": "7"
+  },
+  {
+    "farm_name": "Crooked Branch Apple Orchard",
+    "region": "Eastern",
+    "address": "10 Long Beach Road",
+    "postalCode": "A0C 1V0",
+    "community": "Jamestown",
+    "id": "8"
+  },
+  {
+    "farm_name": "Double D Farm",
+    "region": "Eastern",
+    "address": "29 Jasmine Place",
+    "postalCode": "A1X 4B9",
+    "community": "Conception Bay South",
+    "id": "9"
+  },
+  {
+    "farm_name": "Double Diamond Farm",
+    "region": "Avalon",
+    "address": "348 RUBY LINE",
+    "postalCode": "A1G 0A2",
+    "community": "St. John's",
+    "id": "10"
+  },
+  {
+    "farm_name": "Fahey Farm/ Baynoddy Knitwear, Spinning and Weaving",
+    "region": "Avalon",
+    "address": "135 Point Road, Box 18",
+    "postalCode": "A0A 1V0",
+    "community": "Chapel's Cove",
+    "id": "11"
+  },
+  {
+    "farm_name": "Festive Farmer (a division of Russwood Claredale Farms)",
+    "region": "Eastern",
+    "address": "1088 Roaches Line Site 4, Box 8, RR#1",
+    "postalCode": "A0A 1W0",
+    "community": "Clarke's Beach",
+    "id": "12"
+  },
+  {
+    "farm_name": "Firehill Farms",
+    "region": "Avalon",
+    "address": "",
+    "postalCode": "",
+    "community": "Conception Bay South",
+    "id": "13"
+  },
+  {
+    "farm_name": "Five Brothers Artisan Cheese",
+    "region": "Avalon",
+    "address": "151 Main Road",
+    "postalCode": "",
+    "community": "Goulds",
+    "id": "14"
+  },
+  {
+    "farm_name": "Garden of Eat’en",
+    "region": "Avalon",
+    "address": "307 Bay Bulls Road",
+    "postalCode": "A1G 1B9",
+    "community": "Bay Bulls",
+    "id": "15"
+  },
+  {
+    "farm_name": "Green Farm NL",
+    "region": "Avalon",
+    "address": "27C Sagona Avenue",
+    "postalCode": "A1C 5B6",
+    "community": "Mount Pearl",
+    "id": "16"
+  },
+  {
+    "farm_name": "H&E Williams Dairy Farms Ltd.",
+    "region": "Avalon",
+    "address": "331 Main Road",
+    "postalCode": "A1S 1G5",
+    "community": "Goulds",
+    "id": "17"
+  },
+  {
+    "farm_name": "Haricot Farms",
+    "region": "Avalon",
+    "address": "Haricot",
+    "postalCode": "(709) 521-2890",
+    "community": "St. Mary's Bay",
+    "id": "18"
+  },
+  {
+    "farm_name": "Hayes Farm",
+    "region": "Avalon",
+    "address": "Goulds",
+    "postalCode": "",
+    "community": "",
+    "id": "19"
+  },
+  {
+    "farm_name": "Heritage Farm",
+    "region": "Avalon",
+    "address": "11 Myrick Place",
+    "postalCode": "A1G 0A2",
+    "community": "St. John's",
+    "id": "20"
+  },
+  {
+    "farm_name": "Hickey’s Greenhouses and Nursery Ltd.",
+    "region": "Avalon",
+    "address": "689 CBS Highway",
+    "postalCode": "A1X 3A8",
+    "community": "Kelligrews",
+    "id": "21"
+  },
+  {
+    "farm_name": "Hillview Farms",
+    "region": "Eastern",
+    "address": "224 GooseBay Drive P.O Box 245",
+    "postalCode": "A0C 1Z0",
+    "community": "Musgravetown",
+    "id": "22"
+  },
+  {
+    "farm_name": "J&C Sod Farm",
+    "region": "Avalon",
+    "address": "P.O Box 118",
+    "postalCode": "A0A 1C0",
+    "community": "Bay Bulls",
+    "id": "23"
+  },
+  {
+    "farm_name": "JAR Farm",
+    "region": "Avalon",
+    "address": "217 Old Cabot Highway",
+    "postalCode": "A0B 1L0",
+    "community": "Chapel Arm",
+    "id": "24"
+  },
+  {
+    "farm_name": "Juanita Burt",
+    "region": "Avalon",
+    "address": "Highway 331",
+    "postalCode": "",
+    "community": "Rogers Cove",
+    "id": "25"
+  },
+  {
+    "farm_name": "Kennedy Farm Inc.",
+    "region": "Avalon",
+    "address": "175 Freshwater Road",
+    "postalCode": "A0A 4G0",
+    "community": "Freshwater",
+    "id": "26"
+  },
+  {
+    "farm_name": "Kennedy’s Produce",
+    "region": "Avalon",
+    "address": "64 Peachytown Road, Foxtrap",
+    "postalCode": "",
+    "community": "Conception Bay South",
+    "id": "27"
+  },
+  {
+    "farm_name": "Lester’s Farm Chalet",
+    "region": "Avalon",
+    "address": "92 Pearltown Road",
+    "postalCode": "A1G 1P3",
+    "community": "St. John's",
+    "id": "28"
+  },
+  {
+    "farm_name": "Lester’s Farm Market",
+    "region": "Avalon",
+    "address": "173 Brookfield Road",
+    "postalCode": "",
+    "community": "St. John's",
+    "id": "29"
+  },
+  {
+    "farm_name": "Mayo’s Farm",
+    "region": "Eastern",
+    "address": "Black Brook",
+    "postalCode": "",
+    "community": "Creson South",
+    "id": "30"
+  },
+  {
+    "farm_name": "Miao’s Green Farm Inc.",
+    "region": "Avalon",
+    "address": " 54 Gully Pond Road",
+    "postalCode": "A1X 6Y9",
+    "community": "Conception Bay South",
+    "id": "31"
+  },
+  {
+    "farm_name": "Miao’s Sod Farm Inc.",
+    "region": "Avalon",
+    "address": "20 Rosalind Street",
+    "postalCode": "A1B 0J1",
+    "community": "St. John's",
+    "id": "32"
+  },
+  {
+    "farm_name": "Murphy’s Sod Farm",
+    "region": "Avalon",
+    "address": "TCH - Whitbourne",
+    "postalCode": "",
+    "community": "Whitbourne",
+    "id": "33"
+  },
+  {
+    "farm_name": "N. Fagan Meats",
+    "region": "Avalon",
+    "address": "55 Peachytown Road",
+    "postalCode": "A1X 7C7",
+    "community": "Conception Bay South",
+    "id": "34"
+  },
+  {
+    "farm_name": "Newfoundland Gardens",
+    "region": "Avalon",
+    "address": "8 Dora Bessie's Lane",
+    "postalCode": "",
+    "community": "Dildo",
+    "id": "35"
+  },
+  {
+    "farm_name": "Nuthatch Nursery",
+    "region": "Eastern",
+    "address": "12 Brown's Lane",
+    "postalCode": "A0C 1V0",
+    "community": "Lethbridge",
+    "id": "36"
+  },
+  {
+    "farm_name": "Olivers Farm",
+    "region": "Avalon",
+    "address": "",
+    "postalCode": "",
+    "community": "Placentia Junction",
+    "id": "37"
+  },
+  {
+    "farm_name": "Omiachi Meat Shop",
+    "region": "Avalon",
+    "address": "43 Swansea Road",
+    "postalCode": "A0A 4G0",
+    "community": "Victoria",
+    "id": "38"
+  },
+  {
+    "farm_name": "Organic Farm",
+    "region": "Avalon",
+    "address": "42 Churchill Rd.",
+    "postalCode": "A1M 2P6",
+    "community": "Portugal Cove - St. Philips",
+    "id": "39"
+  },
+  {
+    "farm_name": "O’Neill’s Gardenland",
+    "region": "Avalon",
+    "address": "P.O Box 160",
+    "postalCode": "A0A 3X0",
+    "community": "Spaniard's Bay",
+    "id": "40"
+  },
+  {
+    "farm_name": "Paradise Farms Inc.",
+    "region": "Avalon",
+    "address": "97 St. Thomas Line",
+    "postalCode": "A1L 2P9",
+    "community": "Paradise",
+    "id": "41"
+  },
+  {
+    "farm_name": "Parsons’ Farms",
+    "region": "Eastern",
+    "address": "1 Farm Road",
+    "postalCode": "A0E 2A0",
+    "community": "Hillview",
+    "id": "42"
+  },
+  {
+    "farm_name": "Pinedale Farms",
+    "region": "Eastern",
+    "address": "",
+    "postalCode": "",
+    "community": "Terra Nova",
+    "id": "43"
+  },
+  {
+    "farm_name": "Ridgeway Farms",
+    "region": "Avalon",
+    "address": "",
+    "postalCode": "",
+    "community": "Torbay",
+    "id": "44"
+  },
+  {
+    "farm_name": "Ripple Trail Farm Ltd.",
+    "region": "Avalon",
+    "address": "131 Main Road",
+    "postalCode": "A0B 3K0",
+    "community": "Markland",
+    "id": "45"
+  },
+  {
+    "farm_name": "Rocks to Riches Farm",
+    "region": "Avalon",
+    "address": "Witch Hazel Road",
+    "postalCode": "",
+    "community": "Portugal Cove - St. Philips",
+    "id": "46"
+  },
+  {
+    "farm_name": "Roots Farm",
+    "region": "Avalon",
+    "address": "P.O. Box 1088",
+    "postalCode": "A0A 1G0",
+    "community": "Bay Roberts",
+    "id": "47"
+  },
+  {
+    "farm_name": "Stoney Ridge Farm",
+    "region": "Avalon",
+    "address": "170 Bennetts Road",
+    "postalCode": "A1M 1X3",
+    "community": "Portugal Cove - St. Philips",
+    "id": "48"
+  },
+  {
+    "farm_name": "Sunrise Dairy Ltd.",
+    "region": "Eastern",
+    "address": "Bunyan's Cove Road",
+    "postalCode": "",
+    "community": "Musgravetown",
+    "id": "49"
+  },
+  {
+    "farm_name": "Terra Nova Farms",
+    "region": "Eastern",
+    "address": "",
+    "postalCode": "",
+    "community": "Terra Nova",
+    "id": "50"
+  },
+  {
+    "farm_name": "The Foxtrap Access Road Market (F.A.R.M)",
+    "region": "Avalon",
+    "address": " 242 Foxtrap Access Road",
+    "postalCode": "",
+    "community": "Foxtrap",
+    "id": "51"
+  },
+  {
+    "farm_name": "The Natural Gardener Inc.",
+    "region": "Avalon",
+    "address": "8 Sunny Hill Road",
+    "postalCode": "A0A 2H0",
+    "community": "Ferryland",
+    "id": "52"
+  },
+  {
+    "farm_name": "Three Mile Ridge",
+    "region": "Eastern",
+    "address": "345 Discovery Trail",
+    "postalCode": "A0C 1V0",
+    "community": "Lethbridge",
+    "id": "53"
+  },
+  {
+    "farm_name": "Trouter’s Special Worm Farm",
+    "region": "Avalon",
+    "address": "P.O Box 118",
+    "postalCode": "A0A 1C0",
+    "community": "Bay Bulls",
+    "id": "54"
+  },
+  {
+    "farm_name": "Troy Holloway",
+    "region": "Eastern",
+    "address": "P.O Box 293",
+    "postalCode": "",
+    "community": "Musgravetown",
+    "id": "55"
+  },
+  {
+    "farm_name": "Tucker’s Farm",
+    "region": "Avalon",
+    "address": "144 Tolt Road",
+    "postalCode": "A1M 1R9",
+    "community": "Portugal Cove - St. Philips",
+    "id": "56"
+  },
+  {
+    "farm_name": "Walsh’s Blueberry Farm",
+    "region": "Avalon",
+    "address": "86 Springdale Street",
+    "postalCode": "A1C 5B6",
+    "community": "St. John's",
+    "id": "57"
+  },
+  {
+    "farm_name": "Walsh’s Farm",
+    "region": "Avalon",
+    "address": "323 Freshwater Road",
+    "postalCode": "A1B 2C3",
+    "community": "St. John's",
+    "id": "58"
+  },
+  {
+    "farm_name": "Windy Heights Farm",
+    "region": "Avalon",
+    "address": "374 Bauline Line Extension",
+    "postalCode": "A1M 2W1",
+    "community": "Portugal Cove - St. Philips",
+    "id": "59"
+  }
+]
