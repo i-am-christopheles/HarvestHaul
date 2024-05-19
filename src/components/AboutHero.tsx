@@ -93,7 +93,7 @@ import {
               rounded={'md'}
               alt={'feature image'}
               src={
-                'src/assets/AboutHeroImage.jpg'
+                '/src/assets/AboutHeroImage.jpg'
               }
               objectFit={'cover'}
             />

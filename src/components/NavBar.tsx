@@ -41,7 +41,7 @@ export default function NavBar() {
       >
         <Flex align={'center'}>
           <Image
-            src="src/assets/HarvestHaul_Logo.png"
+            src="/src/assets/HarvestHaul_Logo.png"
             alt="Logo"
             boxSize="50px"
           />
