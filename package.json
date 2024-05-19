@@ -16,6 +16,7 @@
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
     "@types/react-router-dom": "^5.3.3",
+    "animate.css": "^4.1.1",
     "aws-amplify": "^6.3.2",
     "axios": "^1.6.8",
     "dom": "^0.0.3",

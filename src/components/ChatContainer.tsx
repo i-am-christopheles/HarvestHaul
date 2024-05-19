@@ -20,6 +20,13 @@ const Chatbot: React.FC = () => {
     }
   };
 
+  const handleKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
+    if (e.key === 'Enter') {
+      e.preventDefault();
+      handleMessageSend();
+    }
+  };
+
   const sendMessageToChatbot = async (message: string) => {
     try {
       const response = await axios.post<string>('/api/chatbot', { message });
@@ -45,6 +52,7 @@ const Chatbot: React.FC = () => {
           placeholder="Type your message..."
           value={userInput}
           onChange={(e) => setUserInput(e.target.value)}
+          onKeyDown={handleKeyDown}
         />
         <button onClick={handleMessageSend}>Send</button>
       </div>
