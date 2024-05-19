@@ -15,6 +15,8 @@ const schema = a.schema({
             address: a.string(),
             community: a.string(),
             postalCode: a.string(),
+            updatedAt: a.string(),
+            createdAt: a.string(),
             products: a.hasMany("Products", "id")
             }),
     Products: a
@@ -22,6 +24,8 @@ const schema = a.schema({
             id: a.string(),
             producer: a.belongsTo("Producer", "id"),
             product: a.string(),
+            updatedAt: a.string(),
+            createdAt: a.string(),
             items: a.hasMany("Items", "id")
         }).identifier([]),
     Items: a
@@ -29,6 +33,8 @@ const schema = a.schema({
             id:a.string(),
             products: a.belongsTo("Products", "id"),
             item: a.string(),
+            createdAt: a.string(),
+            updatedAt: a.string(),
             price: a.string(),
             unit_size: a.string()
         })
