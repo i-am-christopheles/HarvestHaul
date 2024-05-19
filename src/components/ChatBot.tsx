@@ -1,3 +1,4 @@
+require('dotenv').config();
 import axios from 'axios';
 
 const apiKey = process.env.OPENAI_API_KEY;
