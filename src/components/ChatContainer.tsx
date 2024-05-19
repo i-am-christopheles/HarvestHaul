@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import axios from 'axios';
+import '/src/Chatbot.css';
 
 interface Message {
   sender: 'user' | 'bot';
